@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Skill_Spell>
+		<Korean_Name>집중</Korean_Name>
+		<English_Name>Concentration</English_Name>
+		<STR>148</STR>
+		<INT>12</INT>
+		<WIS>8</WIS>
+		<CON>80</CON>
+		<DEX>10</DEX>
+		<Pre_Req>-</Pre_Req>
+		<Location>Mileth Master Trainer</Location>
+		<Description>Increase Attack Speed</Description>
+		<Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/214.jpg</Image_URL>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>쿠로토</Korean_Name>
+		<English_Name>Kuroto</English_Name>
+		<STR>3</STR>
+		<INT>9</INT>
+		<WIS>6</WIS>
+		<CON>3</CON>
+		<DEX>3</DEX>
+		<Pre_Req>-</Pre_Req>
+		<Location>Piet White Mage</Location>
+		<Description>Self Healing</Description>
+		<Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/126.jpg</Image_URL>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>아들레스투</Korean_Name>
+		<English_Name>Inspect Item</English_Name>
+		<STR>3</STR>
+		<INT>3</INT>
+		<WIS>3</WIS>
+		<CON>3</CON>
+		<DEX>3</DEX>
+		<Pre_Req>-</Pre_Req>
+		<Location>Piet White Mage</Location>
+		<Description>Inspect item attributes</Description>
+		<Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/161.jpg</Image_URL>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>룬블레이드</Korean_Name>
+		<English_Name>Rune Blade</English_Name>
+		<STR>150</STR>
+		<INT>10</INT>
+		<WIS>10</WIS>
+		<CON>92</CON>
+		<DEX>20</DEX>
+		<Pre_Req>Megablade(1+)</Pre_Req>
+		<Location>Mileth Upgrade Trainer</Location>
+		<Description>Master upgrade to Windblade</Description>
+		<Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/16.jpg</Image_URL>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>스톰블레이드</Korean_Name>
+		<English_Name>Storm Blade</English_Name>
+		<STR>150</STR>
+		<INT>10</INT>
+		<WIS>10</WIS>
+		<CON>92</CON>
+		<DEX>20</DEX>
+		<Pre_Req>Windblade(1+)</Pre_Req>
+		<Location>Mileth Upgrade Trainer</Location>
+		<Description>Master upgrade to Megablade</Description>
+		<Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/17.jpg</Image_URL>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>매드소울진</Korean_Name>
+		<English_Name>Great Madsoul</English_Name>
+		<STR>0</STR>
+		<INT>0</INT>
+		<WIS>0</WIS>
+		<CON>0</CON>
+		<DEX>0</DEX>
+		<Pre_Req>-</Pre_Req>
+		<Location>Mileth Master Trainer전</Location>
+		<Description>Master upgrade to Madsoul</Description>
+		<Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/21.jpg</Image_URL>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>포효</Korean_Name>
+		<English_Name>Roar</English_Name>
+		<STR>152</STR>
+		<INT>16</INT>
+		<WIS>14</WIS>
+		<CON>90</CON>
+		<DEX>14</DEX>
+		<Pre_Req>Concentration(60)</Pre_Req>
+		<Location>Mileth Master Trainer전</Location>
+		<Description>Paralyze all mobs on the screen</Description>
+		<Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/54.jpg</Image_URL>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>돌진</Korean_Name>
+		<English_Name>Charge</English_Name>
+		<STR>0</STR>
+		<INT>0</INT>
+		<WIS>0</WIS>
+		<CON>0</CON>
+		<DEX>0</DEX>
+		<Pre_Req>-</Pre_Req>
+		<Location>When Master</Location>
+		<Description>Rush forward several spaces</Description>
+		<Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/51.jpg</Image_URL>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>메가어택</Korean_Name>
+		<English_Name>Quad Attack</English_Name>
+		<STR>0</STR>
+		<INT>0</INT>
+		<WIS>0</WIS>
+		<CON>0</CON>
+		<DEX>0</DEX>
+		<Pre_Req>-</Pre_Req>
+		<Location>When Master</Location>
+		<Description>Attack with possibility of four strikes</Description>
+		<Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/50.jpg</Image_URL>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>피닉스모드</Korean_Name>
+		<English_Name>Phoenix Stance</English_Name>
+		<STR>90</STR>
+		<INT>3</INT>
+		<WIS>3</WIS>
+		<CON>70</CON>
+		<DEX>3</DEX>
+		<Pre_Req>Dragon Stance(90)</Pre_Req>
+		<Location>Piet Special Trainer</Location>
+		<Description>Stance Effect: Increase Weapon Damage</Description>
+		<Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/42.jpg</Image_URL>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>크래셔</Korean_Name>
+		<English_Name>Crasher</English_Name>
+		<STR>99</STR>
+		<INT>3</INT>
+		<WIS>3</WIS>
+		<CON>73</CON>
+		<DEX>3</DEX>
+		<Pre_Req>Perfect Defense(30), Madsoul(30)</Pre_Req>
+		<Location>Piet Special Trainer</Location>
+		<Description>"Super Special" Sacrifice HP to deal great damage</Description>
+		<Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/22.jpg</Image_URL>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>매드소울</Korean_Name>
+		<English_Name>Madsoul</English_Name>
+		<STR>99</STR>
+		<INT>3</INT>
+		<WIS>3</WIS>
+		<CON>71</CON>
+		<DEX>3</DEX>
+		<Pre_Req>Windblade(100), Megablade(100)</Pre_Req>
+		<Location>Warrior Master Quest</Location>
+		<Description>"Special" Sacrifice HP to deal damage</Description>
+		<Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/21.jpg</Image_URL>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>완전방어</Korean_Name>
+		<English_Name>Perfect Defense</English_Name>
+		<STR>94</STR>
+		<INT>3</INT>
+		<WIS>3</WIS>
+		<CON>69</CON>
+		<DEX>3</DEX>
+		<Pre_Req>Weapon Strike(90)</Pre_Req>
+		<Location>Warrior Master Quest</Location>
+		<Description>Defense against damage for a short time</Description>
+		<Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/20.jpg</Image_URL>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>적무기쳐내기</Korean_Name>
+		<English_Name>Weapon Strike</English_Name>
+		<STR>92</STR>
+		<INT>3</INT>
+		<WIS>3</WIS>
+		<CON>65</CON>
+		<DEX>3</DEX>
+		<Pre_Req>Megablade(75)</Pre_Req>
+		<Location>Piet Special Trainer</Location>
+		<Description>Strike your oponent's weapon and temporarily render it useless</Description>
+		<Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/19.jpg</Image_URL>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>드래곤모드</Korean_Name>
+		<English_Name>Dragon Stance</English_Name>
+		<STR>93</STR>
+		<INT>3</INT>
+		<WIS>3</WIS>
+		<CON>67</CON>
+		<DEX>3</DEX>
+		<Pre_Req>Triple Attack(90), Megablade(90)</Pre_Req>
+		<Location>Piet Special Trainer</Location>
+		<Description>Unleash Dragon's Aura</Description>
+		<Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/42.jpg</Image_URL>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>투핸드어택</Korean_Name>
+		<English_Name>Two-Handed Strike</English_Name>
+		<STR>76</STR>
+		<INT>3</INT>
+		<WIS>3</WIS>
+		<CON>60</CON>
+		<DEX>3</DEX>
+		<Pre_Req>Tripple Attack(75)</Pre_Req>
+		<Location>Piet Fighter</Location>
+		<Description>gives the ability to use Two-Handed weapons</Description>
+		<Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/18.jpg</Image_URL>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>아이템고치기</Korean_Name>
+		<English_Name>Repair Item</English_Name>
+		<STR>6</STR>
+		<INT>3</INT>
+		<WIS>3</WIS>
+		<CON>3</CON>
+		<DEX>3</DEX>
+		<Pre_Req>-</Pre_Req>
+		<Location>Piet Special Trainer</Location>
+		<Description>Repair item in the first inventory slot</Description>
+		<Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/33.jpg</Image_URL>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>바투</Korean_Name>
+		<English_Name>beag suain</English_Name>
+		<STR>71</STR>
+		<INT>3</INT>
+		<WIS>3</WIS>
+		<CON>58</CON>
+		<DEX>3</DEX>
+		<Pre_Req>Rescue(100)</Pre_Req>
+		<Location>Piet Fighter</Location>
+		<Description>Temporarily paralize target in front of you</Description>
+		<Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/40.jpg</Image_URL>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>메가블레이드</Korean_Name>
+		<English_Name>Megablade</English_Name>
+		<STR>62</STR>
+		<INT>3</INT>
+		<WIS>3</WIS>
+		<CON>54</CON>
+		<DEX>3</DEX>
+		<Pre_Req>Windblade(60)</Pre_Req>
+		<Location>Piet Fighter</Location>
+		<Description>Damage all creatures around you</Description>
+		<Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/17.jpg</Image_URL>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>트리플어택</Korean_Name>
+		<English_Name>Triple Attack</English_Name>
+		<STR>46</STR>
+		<INT>3</INT>
+		<WIS>3</WIS>
+		<CON>40</CON>
+		<DEX>3</DEX>
+		<Pre_Req>Double Attack(60)</Pre_Req>
+		<Location>Piet Fighter</Location>
+		<Description>Attack with possibility of three strikes</Description>
+		<Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/12.jpg</Image_URL>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>디바투</Korean_Name>
+		<English_Name>ao beag suain</English_Name>
+		<STR>41</STR>
+		<INT>3</INT>
+		<WIS>3</WIS>
+		<CON>35</CON>
+		<DEX>3</DEX>
+		<Pre_Req>Rescue(60)</Pre_Req>
+		<Location>Piet Special Trainer</Location>
+		<Description>Remove paralysis (beag suain)</Description>
+		<Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/41.jpg</Image_URL>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>윈드블레이드</Korean_Name>
+		<English_Name>Windblade</English_Name>
+		<STR>32</STR>
+		<INT>3</INT>
+		<WIS>3</WIS>
+		<CON>24</CON>
+		<DEX>3</DEX>
+		<Pre_Req>-</Pre_Req>
+		<Location>Piet Fighter</Location>
+		<Description>Ranged attack up to 3 spaces</Description>
+		<Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/16.jpg</Image_URL>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>더블어택</Korean_Name>
+		<English_Name>Double Attack</English_Name>
+		<STR>16</STR>
+		<INT>3</INT>
+		<WIS>3</WIS>
+		<CON>10</CON>
+		<DEX>3</DEX>
+		<Pre_Req>-</Pre_Req>
+		<Location>Piet Combat Trainer "Ares"</Location>
+		<Description>Attack with possibility of two strikes</Description>
+		<Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/1.jpg</Image_URL>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>프렌치키스</Korean_Name>
+		<English_Name>French Kiss</English_Name>
+		<STR>0</STR>
+		<INT>0</INT>
+		<WIS>0</WIS>
+		<CON>0</CON>
+		<DEX>0</DEX>
+		<Pre_Req>Kiss(100)</Pre_Req>
+		<Location>Abel Church Minister</Location>
+		<Description>Kissing skill aquired after marriage</Description>
+		<Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/43.jpg</Image_URL>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>레스큐</Korean_Name>
+		<English_Name>Rescue</English_Name>
+		<STR>10</STR>
+		<INT>3</INT>
+		<WIS>3</WIS>
+		<CON>6</CON>
+		<DEX>3</DEX>
+		<Pre_Req>-</Pre_Req>
+		<Location>Piet Special Trainer</Location>
+		<Description>Taunts a monster and makes them focus you</Description>
+		<Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/14.jpg</Image_URL>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>탐색</Korean_Name>
+		<English_Name>Look</English_Name>
+		<STR>3</STR>
+		<INT>3</INT>
+		<WIS>3</WIS>
+		<CON>3</CON>
+		<DEX>3</DEX>
+		<Pre_Req>-</Pre_Req>
+		<Location>Basic Trainer</Location>
+		<Description>Location/Front of your character tile information</Description>
+		<Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/9.jpg</Image_URL>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>문열기</Korean_Name>
+		<English_Name>Open Door</English_Name>
+		<STR>3</STR>
+		<INT>3</INT>
+		<WIS>3</WIS>
+		<CON>3</CON>
+		<DEX>3</DEX>
+		<Pre_Req>-</Pre_Req>
+		<Location>Piet Special Trainer</Location>
+		<Description>Open building door</Description>
+		<Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/8.jpg</Image_URL>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>기본공격</Korean_Name>
+		<English_Name>Assail</English_Name>
+		<STR>3</STR>
+		<INT>3</INT>
+		<WIS>3</WIS>
+		<CON>3</CON>
+		<DEX>3</DEX>
+		<Pre_Req>-</Pre_Req>
+		<Location>Basic Trainer</Location>
+		<Description>Basic Attack</Description>
+		<Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/2.jpg</Image_URL>
+	</Skill_Spell>
+</data>
+

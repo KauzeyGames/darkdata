@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Skill_Spell>
+		<Korean_Name>자기보호</Korean_Name>
+		<English_Name>Self Defense</English_Name>
+		<STR>75</STR>
+		<INT>65</INT>
+		<WIS>68</WIS>
+		<CON>62</CON>
+		<DEX>13</DEX>
+		<Pre_Req>Undying Power 60</Pre_Req>
+		<Location>Mileth Master Trainer</Location>
+		<Description>자기보호 두 번째</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/55.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>무영신공</Korean_Name>
+		<English_Name>Undying Power</English_Name>
+		<STR>60</STR>
+		<INT>55</INT>
+		<WIS>60</WIS>
+		<CON>55</CON>
+		<DEX>10</DEX>
+		<Pre_Req>무영신공 30??</Pre_Req>
+		<Location>Mileth Master Trainer</Location>
+		<Description>Power of the dead?stance?curse?</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/237.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>다라밀공</Korean_Name>
+		<English_Name>Magical Strike</English_Name>
+		<STR>3</STR>
+		<INT>53</INT>
+		<WIS>37</WIS>
+		<CON>3</CON>
+		<DEX>3</DEX>
+		<Pre_Req>장풍 90, 방탄신공 30</Pre_Req>
+		<Location>Piet Fighter</Location>
+		<Description>Strike your enemy with magic</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/144.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>반탄신공</Korean_Name>
+		<English_Name>Reflection</English_Name>
+		<STR>3</STR>
+		<INT>49</INT>
+		<WIS>34</WIS>
+		<CON>3</CON>
+		<DEX>3</DEX>
+		<Pre_Req>Long Wind (90)</Pre_Req>
+		<Location>Piet Fighter</Location>
+		<Description>Chance to reflect</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/159.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>쿠라노토</Korean_Name>
+		<English_Name>Kuranoto</English_Name>
+		<STR>3</STR>
+		<INT>42</INT>
+		<WIS>31</WIS>
+		<CON>3</CON>
+		<DEX>3</DEX>
+		<Pre_Req>Kuroto (100)</Pre_Req>
+		<Location>Piet White Mage</Location>
+		<Description>Self Healing #2</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/127.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>금강불괴</Korean_Name>
+		<English_Name>Diamond Skin</English_Name>
+		<STR>3</STR>
+		<INT>39</INT>
+		<WIS>29</WIS>
+		<CON>3</CON>
+		<DEX>3</DEX>
+		<Pre_Req>Armored Skin(60), Kuroto (90)</Pre_Req>
+		<Location>Piet White Mage</Location>
+		<Description>7 Second invulnurability</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/158.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>장풍</Korean_Name>
+		<English_Name>Long Wind</English_Name>
+		<STR>3</STR>
+		<INT>36</INT>
+		<WIS>28</WIS>
+		<CON>3</CON>
+		<DEX>3</DEX>
+		<Pre_Req>-</Pre_Req>
+		<Location>Piet Black Mage</Location>
+		<Description>Long Distance attack?Maybe Kamehameha wave</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/132.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>철포삼</Korean_Name>
+		<English_Name>Armored Skin</English_Name>
+		<STR>3</STR>
+		<INT>30</INT>
+		<WIS>26</WIS>
+		<CON>3</CON>
+		<DEX>3</DEX>
+		<Pre_Req>Kuroto(75)</Pre_Req>
+		<Location>Piet White Mage</Location>
+		<Description>AC -10 spell</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/104.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>쿠랄룸</Korean_Name>
+		<English_Name>Inner Fire</English_Name>
+		<STR>3</STR>
+		<INT>28</INT>
+		<WIS>24</WIS>
+		<CON>3</CON>
+		<DEX>3</DEX>
+		<Pre_Req>Kuroto(60)</Pre_Req>
+		<Location>Piet White Mage</Location>
+		<Description>Increase regeneration</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/131.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>흡정신공</Korean_Name>
+		<English_Name>Life Leech</English_Name>
+		<STR>3</STR>
+		<INT>26</INT>
+		<WIS>22</WIS>
+		<CON>3</CON>
+		<DEX>3</DEX>
+		<Pre_Req>Kuroto(46)</Pre_Req>
+		<Location>Piet Black Mage</Location>
+		<Description>Take a deep breath, healing yourself.</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/113.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>경신공</Korean_Name>
+		<English_Name>Speed-Up</English_Name>
+		<STR>3</STR>
+		<INT>23</INT>
+		<WIS>20</WIS>
+		<CON>3</CON>
+		<DEX>3</DEX>
+		<Pre_Req>-</Pre_Req>
+		<Location>Piet White Mage</Location>
+		<Description>Increase Movement Speed</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/198.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>디베노모</Korean_Name>
+		<English_Name>Cure Poison</English_Name>
+		<STR>3</STR>
+		<INT>15</INT>
+		<WIS>13</WIS>
+		<CON>3</CON>
+		<DEX>3</DEX>
+		<Pre_Req>-</Pre_Req>
+		<Location>Piet White Mage</Location>
+		<Description>Remove Poison</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/129.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>일루메나</Korean_Name>
+		<English_Name>Illuminate</English_Name>
+		<STR>3</STR>
+		<INT>18</INT>
+		<WIS>16</WIS>
+		<CON>3</CON>
+		<DEX>3</DEX>
+		<Pre_Req>-</Pre_Req>
+		<Location>Piet White Mage</Location>
+		<Description>Recovers vision</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/130.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>미증보법</Korean_Name>
+		<English_Name>Great Mist</English_Name>
+		<STR>3</STR>
+		<INT>13</INT>
+		<WIS>10</WIS>
+		<CON>3</CON>
+		<DEX>3</DEX>
+		<Pre_Req>-</Pre_Req>
+		<Location>Piet White Mage</Location>
+		<Description>Dodge oponents for a short time</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/160.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>쿠로토</Korean_Name>
+		<English_Name>Kuroto</English_Name>
+		<STR>3</STR>
+		<INT>9</INT>
+		<WIS>6</WIS>
+		<CON>3</CON>
+		<DEX>3</DEX>
+		<Pre_Req>-</Pre_Req>
+		<Location>Piet White Mage</Location>
+		<Description>Self Healing</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/126.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>아들레스투</Korean_Name>
+		<English_Name>Inspect Item</English_Name>
+		<STR>3</STR>
+		<INT>3</INT>
+		<WIS>3</WIS>
+		<CON>3</CON>
+		<DEX>3</DEX>
+		<Pre_Req>-</Pre_Req>
+		<Location>Piet White Mage</Location>
+		<Description>Inspect item attributes</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/161.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>파천각</Korean_Name>
+		<English_Name>(M) Roundhouse Kick</English_Name>
+		<STR>90</STR>
+		<INT>63</INT>
+		<WIS>63</WIS>
+		<CON>72</CON>
+		<DEX>20</DEX>
+		<Pre_Req>단각 1, 선풍각 1</Pre_Req>
+		<Location>Mileth Master Trainer</Location>
+		<Description>Master version of Roundhouse Kick</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/71.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>붕신선각</Korean_Name>
+		<English_Name>(M)High Kick</English_Name>
+		<STR>90</STR>
+		<INT>63</INT>
+		<WIS>63</WIS>
+		<CON>72</CON>
+		<DEX>20</DEX>
+		<Pre_Req>단각 1, 선풍각 1</Pre_Req>
+		<Location>Mileth Master Trainer</Location>
+		<Description>Master version of High Kick</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/70.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>연천단각</Korean_Name>
+		<English_Name>(M)Front Kick</English_Name>
+		<STR>90</STR>
+		<INT>63</INT>
+		<WIS>63</WIS>
+		<CON>72</CON>
+		<DEX>20</DEX>
+		<Pre_Req>단각, 붕각, 선풍각 스킬레벨 1이상</Pre_Req>
+		<Location>Mileth Master Trainer</Location>
+		<Description>Master version of Front Kick</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/69.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>트리플펀치</Korean_Name>
+		<English_Name>Tripple Punch</English_Name>
+		<STR>70</STR>
+		<INT>60</INT>
+		<WIS>63</WIS>
+		<CON>60</CON>
+		<DEX>10</DEX>
+		<Pre_Req>허공답보 30</Pre_Req>
+		<Location>Mileth Master Trainer</Location>
+		<Description>Attack with chance of a triple strike</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/61.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>허공답보</Korean_Name>
+		<English_Name>Flying Kick</English_Name>
+		<STR>0</STR>
+		<INT>0</INT>
+		<WIS>0</WIS>
+		<CON>0</CON>
+		<DEX>0</DEX>
+		<Pre_Req>-</Pre_Req>
+		<Location>Automatic at master</Location>
+		<Description>Perform flying kicks against your oponent</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/53.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>구양신공</Korean_Name>
+		<English_Name>Whirwind Strike</English_Name>
+		<STR>48</STR>
+		<INT>3</INT>
+		<WIS>3</WIS>
+		<CON>39</CON>
+		<DEX>3</DEX>
+		<Pre_Req>Roundhouse Kick(75), Paralyzing Punch(90)</Pre_Req>
+		<Location>Piet Fighter</Location>
+		<Description>사방필살기</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/39.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>달마신공</Korean_Name>
+		<English_Name>Kelb Strike</English_Name>
+		<STR>53</STR>
+		<INT>3</INT>
+		<WIS>3</WIS>
+		<CON>35</CON>
+		<DEX>3</DEX>
+		<Pre_Req>Roundhouse Kick (90), Paralyzing Punch(75)</Pre_Req>
+		<Location>Piet Fighter</Location>
+		<Description>Sacrifice health to directly damage oponent</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/38.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>소수신공</Korean_Name>
+		<English_Name>Double Fist Strike</English_Name>
+		<STR>50</STR>
+		<INT>3</INT>
+		<WIS>3</WIS>
+		<CON>35</CON>
+		<DEX>3</DEX>
+		<Pre_Req>Long Punch (75)</Pre_Req>
+		<Location>Piet Fighter</Location>
+		<Description>Strike oponent with both fists</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/45.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>발경</Korean_Name>
+		<English_Name>Paralyzing Punch</English_Name>
+		<STR>47</STR>
+		<INT>3</INT>
+		<WIS>3</WIS>
+		<CON>32</CON>
+		<DEX>3</DEX>
+		<Pre_Req>Counter Punch (100)</Pre_Req>
+		<Location>Piet Fighter</Location>
+		<Description>Freeze your oponent momentarily</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/36.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>선풍각</Korean_Name>
+		<English_Name>Roundhouse Kick</English_Name>
+		<STR>39</STR>
+		<INT>3</INT>
+		<WIS>3</WIS>
+		<CON>28</CON>
+		<DEX>3</DEX>
+		<Pre_Req>High Kick (75)</Pre_Req>
+		<Location>Piet Fighter</Location>
+		<Description>A strong kick attacking each creature touching you.</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/35.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>아이템고치기</Korean_Name>
+		<English_Name>Repair Item</English_Name>
+		<STR>6</STR>
+		<INT>3</INT>
+		<WIS>3</WIS>
+		<CON>3</CON>
+		<DEX>3</DEX>
+		<Pre_Req>-</Pre_Req>
+		<Location>Piet Special Trainer</Location>
+		<Description>Repair item in the first inventory slot</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/33.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>일음지</Korean_Name>
+		<English_Name>Blind Strike</English_Name>
+		<STR>27</STR>
+		<INT>3</INT>
+		<WIS>3</WIS>
+		<CON>24</CON>
+		<DEX>3</DEX>
+		<Pre_Req>Counter Punch (60)</Pre_Req>
+		<Location>Piet Fighter</Location>
+		<Description>Strike your openent's eyes causing blind for a short period</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/34.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>백보신권</Korean_Name>
+		<English_Name>Long Punch</English_Name>
+		<STR>25</STR>
+		<INT>3</INT>
+		<WIS>3</WIS>
+		<CON>22</CON>
+		<DEX>3</DEX>
+		<Pre_Req>Kick(75), Counter Punch(45)</Pre_Req>
+		<Location>Piet Fighter</Location>
+		<Description>Punch up to 3 spaces in front of you</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/5.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>붕각</Korean_Name>
+		<English_Name>High Kick</English_Name>
+		<STR>23</STR>
+		<INT>3</INT>
+		<WIS>3</WIS>
+		<CON>19</CON>
+		<DEX>3</DEX>
+		<Pre_Req>Kick(60)</Pre_Req>
+		<Location>Piet Fighter</Location>
+		<Description>Kick high</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/4.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>통배권</Korean_Name>
+		<English_Name>Counter Punch</English_Name>
+		<STR>16</STR>
+		<INT>3</INT>
+		<WIS>3</WIS>
+		<CON>14</CON>
+		<DEX>3</DEX>
+		<Pre_Req>-</Pre_Req>
+		<Location>Piet Fighter</Location>
+		<Description>상대중독시키기</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/5.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>양의신권</Korean_Name>
+		<English_Name>Double Punch</English_Name>
+		<STR>20</STR>
+		<INT>3</INT>
+		<WIS>3</WIS>
+		<CON>17</CON>
+		<DEX>3</DEX>
+		<Pre_Req>-</Pre_Req>
+		<Location>Piet Fighter</Location>
+		<Description />
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/5.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>이형환위</Korean_Name>
+		<English_Name>Ambush</English_Name>
+		<STR>11</STR>
+		<INT>3</INT>
+		<WIS>3</WIS>
+		<CON>8</CON>
+		<DEX>3</DEX>
+		<Pre_Req>-</Pre_Req>
+		<Location>Piet Special Trainer</Location>
+		<Description>Move across of target</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/44.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>단각</Korean_Name>
+		<English_Name>Front Kick</English_Name>
+		<STR>7</STR>
+		<INT>3</INT>
+		<WIS>3</WIS>
+		<CON>4</CON>
+		<DEX>3</DEX>
+		<Pre_Req>-</Pre_Req>
+		<Location>Piet Fighter</Location>
+		<Description>Kick forward</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/3.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>프렌치키스</Korean_Name>
+		<English_Name>French Kiss</English_Name>
+		<STR>0</STR>
+		<INT>0</INT>
+		<WIS>0</WIS>
+		<CON>0</CON>
+		<DEX>0</DEX>
+		<Pre_Req>Kiss(100)</Pre_Req>
+		<Location>Abel Church Minister</Location>
+		<Description>Kissing skill aquired after marriage</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/43.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>탐색</Korean_Name>
+		<English_Name>Look</English_Name>
+		<STR>3</STR>
+		<INT>3</INT>
+		<WIS>3</WIS>
+		<CON>3</CON>
+		<DEX>3</DEX>
+		<Pre_Req>-</Pre_Req>
+		<Location>Basic Trainer</Location>
+		<Description>Location/Front of your character tile information</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/9.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>문열기</Korean_Name>
+		<English_Name>Open Door</English_Name>
+		<STR>3</STR>
+		<INT>3</INT>
+		<WIS>3</WIS>
+		<CON>3</CON>
+		<DEX>3</DEX>
+		<Pre_Req>-</Pre_Req>
+		<Location>Piet Special Trainer</Location>
+		<Description>Open building door</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/8.jpg</Image>
+	</Skill_Spell>
+	<Skill_Spell>
+		<Korean_Name>기본공격</Korean_Name>
+		<English_Name>Assail</English_Name>
+		<STR>3</STR>
+		<INT>3</INT>
+		<WIS>3</WIS>
+		<CON>3</CON>
+		<DEX>3</DEX>
+		<Pre_Req>-</Pre_Req>
+		<Location>Basic Trainer</Location>
+		<Description>Basic Attack</Description>
+		<Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/2.jpg</Image>
+	</Skill_Spell>
+</data>
+

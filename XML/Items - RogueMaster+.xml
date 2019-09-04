@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item034/item3421.gif</Image>
+    <Korean_Name>스카우트아머(리폼)</Korean_Name>
+    <English_Name>Scout Armor (Reform)</English_Name>
+    <Weight>12</Weight>
+    <Stats>Durability 11000000, Hit 0, Dam 0, HP 1000, MP 500, Str -1, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Unisex</Stats>
+    <Acquisition>Master Armor upgraded with a reform kit.</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1773.gif</Image>
+    <Korean_Name>레인저아머</Korean_Name>
+    <English_Name>Ranger armor</English_Name>
+    <Weight>12</Weight>
+    <Stats>Durability 1000000, Hit 0, Dam 0, HP 1000, MP 500, Str -1, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Female</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1771.gif</Image>
+    <Korean_Name>스카우트아머</Korean_Name>
+    <English_Name>Scout Armor</English_Name>
+    <Weight>12</Weight>
+    <Stats>Durability 1000000, Hit 0, Dam 0, HP 1000, MP 500, Str -1, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1771.gif</Image>
+    <Korean_Name>루스코</Korean_Name>
+    <English_Name>Ruth's nose</English_Name>
+    <Weight>10</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1000, MP 500, Str -1, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1773.gif</Image>
+    <Korean_Name>윌야</Korean_Name>
+    <English_Name>Wilya</English_Name>
+    <Weight>10</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1000, MP 500, Str -1, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Female</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1946.gif</Image>
+    <Korean_Name>루스코(+1)</Korean_Name>
+    <English_Name>Ruth nose (+ 1)</English_Name>
+    <Weight>10</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1000, MP 500, Str -1, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1947.gif</Image>
+    <Korean_Name>루스코(+2)</Korean_Name>
+    <English_Name>Ruth nose (+2)</English_Name>
+    <Weight>9</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1000, MP 500, Str -1, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1948.gif</Image>
+    <Korean_Name>루스코(A)</Korean_Name>
+    <English_Name>Ruth nose (A)</English_Name>
+    <Weight>9</Weight>
+    <Stats>Durability 10000, Hit 1, Dam 1, HP 1000, MP 500, Str -1, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1965.gif</Image>
+    <Korean_Name>윌야(A)</Korean_Name>
+    <English_Name>Wilya (A)</English_Name>
+    <Weight>9</Weight>
+    <Stats>Durability 10000, Hit 1, Dam 1, HP 1000, MP 500, Str -1, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Female</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1966.gif</Image>
+    <Korean_Name>윌야(+1)</Korean_Name>
+    <English_Name>Wilya (+1)</English_Name>
+    <Weight>10</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1000, MP 500, Str -1, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Female</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1968.gif</Image>
+    <Korean_Name>윌야(+2)</Korean_Name>
+    <English_Name>Wilya (+2)</English_Name>
+    <Weight>9</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1000, MP 500, Str -1, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Female</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1992.gif</Image>
+    <Korean_Name>카노</Korean_Name>
+    <English_Name>Kano</English_Name>
+    <Weight>11</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1100, MP 500, Str -2, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1994.gif</Image>
+    <Korean_Name>카노(+2)</Korean_Name>
+    <English_Name>Kano (+2)</English_Name>
+    <Weight>9</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1100, MP 500, Str -2, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1995.gif</Image>
+    <Korean_Name>카노(+3)</Korean_Name>
+    <English_Name>Kano (+3)</English_Name>
+    <Weight>9</Weight>
+    <Stats>Durability 10000, Hit 1, Dam 2, HP 1150, MP 500, Str -2, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1996.gif</Image>
+    <Korean_Name>카노(+1)</Korean_Name>
+    <English_Name>Kano (+1)</English_Name>
+    <Weight>11</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1100, MP 500, Str -1, Dex -2, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2018.gif</Image>
+    <Korean_Name>카논</Korean_Name>
+    <English_Name>canon</English_Name>
+    <Weight>11</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1100, MP 500, Str -2, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Female</Stats>
+    <Acquisition>Noam Village Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2018.gif</Image>
+    <Korean_Name>카논(+2)</Korean_Name>
+    <English_Name>Canon (+2)</English_Name>
+    <Weight>9</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1100, MP 500, Str -2, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Female</Stats>
+    <Acquisition>Noam Village Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2019.gif</Image>
+    <Korean_Name>카논(+1)</Korean_Name>
+    <English_Name>Canon (+1)</English_Name>
+    <Weight>11</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1100, MP 500, Str -1, Dex -2, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Female</Stats>
+    <Acquisition>Noam Village Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2020.gif</Image>
+    <Korean_Name>카논(+3)</Korean_Name>
+    <English_Name>Canon (+3)</English_Name>
+    <Weight>9</Weight>
+    <Stats>Durability 10000, Hit 1, Dam 2, HP 1150, MP 500, Str -2, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Female</Stats>
+    <Acquisition>Acquired from someone/somewhere in Desert Dunes</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2358.gif</Image>
+    <Korean_Name>적비현진의(여)</Korean_Name>
+    <English_Name>Hyun Jin of the area ratio (F)</English_Name>
+    <Weight>9</Weight>
+    <Stats>Durability 30000, Hit 1, Dam 1, HP 1400, MP 100, Str 1, Dex 2, Int -1, Wis 1, Con 1, Regeneration 0%, Magic Resist 30%, Female</Stats>
+    <Acquisition>Crafted by using materials found in Hwarone Village</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2368.gif</Image>
+    <Korean_Name>흑비현진의(여)</Korean_Name>
+    <English_Name>Heukbi of Hyun Jin (W)</English_Name>
+    <Weight>9</Weight>
+    <Stats>Durability 3000000, Hit 2, Dam 2, HP 1500, MP 300, Str 2, Dex 2, Int -1, Wis 1, Con 1, Regeneration 100%, Magic Resist 30%, Female</Stats>
+    <Acquisition>Special Items combined with previous version of the item. Crafted at the Flame Smith?</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item023/item2357.gif</Image>
+    <Korean_Name>적비현진의(남)</Korean_Name>
+    <English_Name>Hyun Jin of the area ratio (M)</English_Name>
+    <Weight>9</Weight>
+    <Stats>Durability 30000, Hit 1, Dam 1, HP 1400, MP 100, Str 1, Dex 2, Int -1, Wis 1, Con 1, Regeneration 0%, Magic Resist 30%, Male</Stats>
+    <Acquisition>Crafted by using materials found in Hwarone Village</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item023/item2367.gif</Image>
+    <Korean_Name>흑비현진의(남)</Korean_Name>
+    <English_Name>Heukbi of Hyun Jin (M)</English_Name>
+    <Weight>9</Weight>
+    <Stats>Durability 3000000, Hit 2, Dam 2, HP 1500, MP 300, Str 2, Dex 2, Int -1, Wis 1, Con 1, Regeneration 100%, Magic Resist 30%, Male</Stats>
+    <Acquisition>Special Items combined with previous version of the item. Crafted at the Flame Smith?</Acquisition>
+  </Item>
+</data>
+

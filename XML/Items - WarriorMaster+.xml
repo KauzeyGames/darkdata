@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item034/item3419.gif</Image>
+    <Korean_Name>마스터아머(리폼)</Korean_Name>
+    <English_Name>Master Armor (Reform)</English_Name>
+    <Weight>15</Weight>
+    <Stats>Durability 11000000, Hit 0, Dam 0, HP 1000, MP -300, Str -2, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 40%, Unisex</Stats>
+    <Acquisition>Master Armor upgraded with a reform kit.</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1774.gif</Image>
+    <Korean_Name>마스터아머</Korean_Name>
+    <English_Name>Master Armor</English_Name>
+    <Weight>15</Weight>
+    <Stats>Durability 1000000, Hit 0, Dam 0, HP 1000, MP -300, Str -2, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 40%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1768.gif</Image>
+    <Korean_Name>마스터아머</Korean_Name>
+    <English_Name>Master Armor</English_Name>
+    <Weight>15</Weight>
+    <Stats>Durability 1000000, Hit 0, Dam 0, HP 1000, MP -300, Str -2, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 40%, Female</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1768.gif</Image>
+    <Korean_Name>카닐</Korean_Name>
+    <English_Name>Canillo</English_Name>
+    <Weight>13</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1000, MP -300, Str -2, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 40%, Female</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1774.gif</Image>
+    <Korean_Name>카리온</Korean_Name>
+    <English_Name>Carry On</English_Name>
+    <Weight>13</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1000, MP -300, Str -2, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 40%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1949.gif</Image>
+    <Korean_Name>카리온(+2)</Korean_Name>
+    <English_Name>Carry On (+2)</English_Name>
+    <Weight>12</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1000, MP -300, Str -2, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 40%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1951.gif</Image>
+    <Korean_Name>카리온(A)</Korean_Name>
+    <English_Name>Carry-on (A)</English_Name>
+    <Weight>12</Weight>
+    <Stats>Durability 10000, Hit 1, Dam 1, HP 1000, MP -300, Str -2, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 40%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1952.gif</Image>
+    <Korean_Name>카리온(+1)</Korean_Name>
+    <English_Name>Carry-one (+1)</English_Name>
+    <Weight>13</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1000, MP -300, Str -2, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 40%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1973.gif</Image>
+    <Korean_Name>카닐(+2)</Korean_Name>
+    <English_Name>Canillo (+2)</English_Name>
+    <Weight>12</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1000, MP -300, Str -2, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 40%, Female</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1975.gif</Image>
+    <Korean_Name>카닐(A)</Korean_Name>
+    <English_Name>Canillo (A)</English_Name>
+    <Weight>12</Weight>
+    <Stats>Durability 10000, Hit 1, Dam 1, HP 1000, MP -300, Str -2, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 40%, Female</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1976.gif</Image>
+    <Korean_Name>카닐(+1)</Korean_Name>
+    <English_Name>Canillo (+1)</English_Name>
+    <Weight>13</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1000, MP -300, Str -2, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 40%, Female</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1997.gif</Image>
+    <Korean_Name>타르실(+2)</Korean_Name>
+    <English_Name>Tar room (+2)</English_Name>
+    <Weight>12</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1100, MP -300, Str -2, Dex -2, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 40%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1998.gif</Image>
+    <Korean_Name>타르실(+3)</Korean_Name>
+    <English_Name>Tar chamber (+3)</English_Name>
+    <Weight>12</Weight>
+    <Stats>Durability 10000, Hit 1, Dam 2, HP 1150, MP -300, Str -2, Dex -2, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 40%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2000.gif</Image>
+    <Korean_Name>타르실</Korean_Name>
+    <English_Name>Tar room</English_Name>
+    <Weight>14</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1100, MP -300, Str -2, Dex -2, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 40%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2001.gif</Image>
+    <Korean_Name>타르실(+1)</Korean_Name>
+    <English_Name>Tar chamber (+1)</English_Name>
+    <Weight>14</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1100, MP -300, Str -2, Dex -1, Int 0, Wis 0, Con -1, Regeneration 0%, Magic Resist 40%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2022.gif</Image>
+    <Korean_Name>타르실란(+2)</Korean_Name>
+    <English_Name>Tar silane (+2)</English_Name>
+    <Weight>12</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1100, MP -300, Str -2, Dex -2, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 40%, Female</Stats>
+    <Acquisition>Noam Village Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2024.gif</Image>
+    <Korean_Name>타르실란(+1)</Korean_Name>
+    <English_Name>Tar silane (+1)</English_Name>
+    <Weight>14</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1100, MP -300, Str -2, Dex -1, Int 0, Wis 0, Con -1, Regeneration 0%, Magic Resist 40%, Female</Stats>
+    <Acquisition>Noam Village Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2025.gif</Image>
+    <Korean_Name>타르실란(+2)</Korean_Name>
+    <English_Name>Tar silane (+2)</English_Name>
+    <Weight>14</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1100, MP -300, Str -2, Dex -2, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 40%, Female</Stats>
+    <Acquisition>Noam Village Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2026.gif</Image>
+    <Korean_Name>타르실란(+3)</Korean_Name>
+    <English_Name>Tar silane (+3)</English_Name>
+    <Weight>12</Weight>
+    <Stats>Durability 10000, Hit 1, Dam 2, HP 1150, MP -300, Str -2, Dex -2, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 40%, Female</Stats>
+    <Acquisition>Acquired from someone/somewhere in Desert Dunes</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2354.gif</Image>
+    <Korean_Name>적비화무갑주(여)</Korean_Name>
+    <English_Name>Non sparking enemy armor (F)</English_Name>
+    <Weight>19</Weight>
+    <Stats>Durability 30000, Hit 1, Dam 1, HP 1600, MP -500, Str 2, Dex -1, Int -2, Wis 3, Con -5, Regeneration 0%, Magic Resist 30%, Female</Stats>
+    <Acquisition>Crafted by using materials found in Hwarone Village</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2364.gif</Image>
+    <Korean_Name>흑비화무갑주(여)</Korean_Name>
+    <English_Name>Black armor spark-free (F)</English_Name>
+    <Weight>19</Weight>
+    <Stats>Durability 3000000, Hit 2, Dam 2, HP 1800, MP -500, Str 2, Dex -1, Int -2, Wis 3, Con -5, Regeneration 100%, Magic Resist 30%, Female</Stats>
+    <Acquisition>Special Items combined with previous version of the item. Crafted at the Flame Smith?</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item023/item2353.gif</Image>
+    <Korean_Name>적비화무갑주(남)</Korean_Name>
+    <English_Name>Non sparking enemy armor (M)</English_Name>
+    <Weight>19</Weight>
+    <Stats>Durability 30000, Hit 1, Dam 1, HP 1600, MP -500, Str 2, Dex -1, Int -2, Wis 3, Con -5, Regeneration 0%, Magic Resist 30%, Male</Stats>
+    <Acquisition>Crafted by using materials found in Hwarone Village</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item023/item2363.gif</Image>
+    <Korean_Name>흑비화무갑주(남)</Korean_Name>
+    <English_Name>Black spark-free armor (M)</English_Name>
+    <Weight>19</Weight>
+    <Stats>Durability 3000000, Hit 2, Dam 2, HP 1800, MP -500, Str 2, Dex -1, Int -2, Wis 3, Con -5, Regeneration 100%, Magic Resist 30%, Male</Stats>
+    <Acquisition>Special Items combined with previous version of the item. Crafted at the Flame Smith?</Acquisition>
+  </Item>
+</data>
+

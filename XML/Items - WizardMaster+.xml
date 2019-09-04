@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item034/item3422.gif</Image>
+    <Korean_Name>다크후드(리폼)</Korean_Name>
+    <English_Name>Dark Hood (Reform)</English_Name>
+    <Weight>10</Weight>
+    <Stats>Durability 11000000, Hit 0, Dam 0, HP 1500, MP -600, Str 2, Dex -1, Int -1, Wis -2, Con 1, Regeneration 0%, Magic Resist 20%, Unisex</Stats>
+    <Acquisition>Master Armor upgraded with a reform kit.</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1770.gif</Image>
+    <Korean_Name>다크후드</Korean_Name>
+    <English_Name>Dark Hood</English_Name>
+    <Weight>10</Weight>
+    <Stats>Durability 1000000, Hit 0, Dam 0, HP 1500, MP -600, Str 2, Dex -1, Int -1, Wis -2, Con 1, Regeneration 0%, Magic Resist 20%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1769.gif</Image>
+    <Korean_Name>다크로브</Korean_Name>
+    <English_Name>Dark Grove</English_Name>
+    <Weight>10</Weight>
+    <Stats>Durability 1000000, Hit 0, Dam 0, HP 1500, MP -600, Str 2, Dex -1, Int -1, Wis -2, Con 1, Regeneration 0%, Magic Resist 20%, Female</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1769.gif</Image>
+    <Korean_Name>일렌타아리</Korean_Name>
+    <English_Name>One Renta Ari</English_Name>
+    <Weight>8</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1500, MP -600, Str 2, Dex -1, Int -1, Wis -2, Con 1, Regeneration 0%, Magic Resist 20%, Female</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1770.gif</Image>
+    <Korean_Name>라리타</Korean_Name>
+    <English_Name>La Rita</English_Name>
+    <Weight>8</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1500, MP -600, Str 2, Dex -1, Int -1, Wis -2, Con 1, Regeneration 0%, Magic Resist 20%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1953.gif</Image>
+    <Korean_Name>라리타(A)</Korean_Name>
+    <English_Name>La retarder (A)</English_Name>
+    <Weight>7</Weight>
+    <Stats>Durability 10000, Hit 1, Dam 1, HP 1500, MP -600, Str 2, Dex -1, Int -1, Wis -2, Con 1, Regeneration 0%, Magic Resist 20%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1954.gif</Image>
+    <Korean_Name>라리타(+1)</Korean_Name>
+    <English_Name>La retarder (+1)</English_Name>
+    <Weight>8</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1500, MP -600, Str 2, Dex -1, Int -1, Wis -2, Con 1, Regeneration 0%, Magic Resist 20%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1955.gif</Image>
+    <Korean_Name>라리타(+2)</Korean_Name>
+    <English_Name>La Rita (+2)</English_Name>
+    <Weight>7</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1500, MP -500, Str 2, Dex -1, Int -1, Wis -2, Con 1, Regeneration 0%, Magic Resist 20%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1970.gif</Image>
+    <Korean_Name>일렌타아리(+1)</Korean_Name>
+    <English_Name>One Renta Ari (+1)</English_Name>
+    <Weight>8</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1500, MP -600, Str 2, Dex -1, Int -1, Wis -2, Con 1, Regeneration 0%, Magic Resist 20%, Female</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1971.gif</Image>
+    <Korean_Name>일렌타아리(+2)</Korean_Name>
+    <English_Name>One Renta Ari (+2)</English_Name>
+    <Weight>7</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1500, MP -500, Str 2, Dex -1, Int -1, Wis -2, Con 1, Regeneration 0%, Magic Resist 20%, Female</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1972.gif</Image>
+    <Korean_Name>일렌타아리(A)</Korean_Name>
+    <English_Name>One Renta Ari (A)</English_Name>
+    <Weight>7</Weight>
+    <Stats>Durability 10000, Hit 1, Dam 1, HP 1500, MP -600, Str 2, Dex -1, Int -1, Wis -2, Con 1, Regeneration 0%, Magic Resist 20%, Female</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2002.gif</Image>
+    <Korean_Name>알쿠아</Korean_Name>
+    <English_Name>Al Kuah</English_Name>
+    <Weight>9</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1600, MP -600, Str 2, Dex -2, Int -1, Wis -2, Con 1, Regeneration 0%, Magic Resist 20%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2004.gif</Image>
+    <Korean_Name>알쿠아(+2)</Korean_Name>
+    <English_Name>Al Kuah (+2)</English_Name>
+    <Weight>7</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1600, MP -500, Str 2, Dex -2, Int -1, Wis -2, Con 1, Regeneration 0%, Magic Resist 20%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2005.gif</Image>
+    <Korean_Name>알쿠아(+3)</Korean_Name>
+    <English_Name>Kuah Al (+3)</English_Name>
+    <Weight>7</Weight>
+    <Stats>Durability 10000, Hit 1, Dam 2, HP 1650, MP -500, Str 2, Dex -2, Int -1, Wis -2, Con 1, Regeneration 0%, Magic Resist 20%, Male</Stats>
+    <Acquisition>Acquired from someone/somewhere in Desert Dunes</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2006.gif</Image>
+    <Korean_Name>알쿠아(+1)</Korean_Name>
+    <English_Name>Al Kuah (+1)</English_Name>
+    <Weight>9</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1600, MP -600, Str 2, Dex -1, Int -2, Wis -2, Con 1, Regeneration 0%, Magic Resist 20%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2027.gif</Image>
+    <Korean_Name>알쿠아론드</Korean_Name>
+    <English_Name>Al de kuahron</English_Name>
+    <Weight>9</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1600, MP -600, Str 2, Dex -2, Int -1, Wis -2, Con 1, Regeneration 0%, Magic Resist 20%, Female</Stats>
+    <Acquisition>Noam Village Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2029.gif</Image>
+    <Korean_Name>알쿠아론드(+2)</Korean_Name>
+    <English_Name>Al kuahron DE (+2)</English_Name>
+    <Weight>7</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1600, MP -500, Str 2, Dex -2, Int -1, Wis -2, Con 1, Regeneration 0%, Magic Resist 20%, Female</Stats>
+    <Acquisition>Noam Village Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2030.gif</Image>
+    <Korean_Name>알쿠아론드(+3)</Korean_Name>
+    <English_Name>Al kuahron DE (+3)</English_Name>
+    <Weight>7</Weight>
+    <Stats>Durability 10000, Hit 1, Dam 2, HP 1650, MP -500, Str 2, Dex -2, Int -1, Wis -2, Con 1, Regeneration 0%, Magic Resist 20%, Female</Stats>
+    <Acquisition>Acquired from someone/somewhere in Desert Dunes</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2031.gif</Image>
+    <Korean_Name>알쿠아론드(+1)</Korean_Name>
+    <English_Name>Al kuahron de (+1)</English_Name>
+    <Weight>9</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1600, MP -600, Str 2, Dex -1, Int -2, Wis -2, Con 1, Regeneration 0%, Magic Resist 20%, Female</Stats>
+    <Acquisition>Noam Village Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2360.gif</Image>
+    <Korean_Name>적비화후의(여)</Korean_Name>
+    <English_Name>Significant (F) after sparking</English_Name>
+    <Weight>7</Weight>
+    <Stats>Durability 30000, Hit 1, Dam 1, HP 1400, MP 300, Str 1, Dex -1, Int 3, Wis 1, Con -3, Regeneration 0%, Magic Resist 30%, Female</Stats>
+    <Acquisition>Crafted by using materials found in Hwarone Village</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item023/item</Image>
+    <Korean_Name>흑비화후의(여)</Korean_Name>
+    <English_Name>Black after ciphering (W)</English_Name>
+    <Weight>7</Weight>
+    <Stats>Durability 3000000, Hit 2, Dam 2, HP 1400, MP 500, Str 1, Dex 1, Int 3, Wis 1, Con -3, Regeneration 100%, Magic Resist 30%, Female</Stats>
+    <Acquisition>Special Items combined with previous version of the item. Crafted at the Flame Smith?</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item023/item2359.gif</Image>
+    <Korean_Name>적비화후의(남)</Korean_Name>
+    <English_Name>Ever after sparking (M)</English_Name>
+    <Weight>7</Weight>
+    <Stats>Durability 30000, Hit 1, Dam 1, HP 1400, MP 300, Str 1, Dex -1, Int 3, Wis 1, Con -3, Regeneration 0%, Magic Resist 30%, Male</Stats>
+    <Acquisition>Crafted by using materials found in Hwarone Village</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item023/item2369.gif</Image>
+    <Korean_Name>흑비화후의(남)</Korean_Name>
+    <English_Name>Black after ciphering (M)</English_Name>
+    <Weight>7</Weight>
+    <Stats>Durability 3000000, Hit 2, Dam 2, HP 1400, MP 500, Str 1, Dex 1, Int 3, Wis 1, Con -3, Regeneration 100%, Magic Resist 30%, Male</Stats>
+    <Acquisition>Special Items combined with previous version of the item. Crafted at the Flame Smith?</Acquisition>
+  </Item>
+</data>
+

@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0012.gif</Image>
+    <Korean_Name>라비린스투구</Korean_Name>
+    <English_Name>Labyrinth Helm</English_Name>
+    <Class>전사</Class>
+    <Circle>4</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 18000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Female</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0014.gif</Image>
+    <Korean_Name>피닉스투구</Korean_Name>
+    <English_Name>Phoenix Helm</English_Name>
+    <Class>전사</Class>
+    <Circle>4</Circle>
+    <Weight>3</Weight>
+    <Stats>Durability 21000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Female</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0016.gif</Image>
+    <Korean_Name>세인트투구</Korean_Name>
+    <English_Name>St. Helm</English_Name>
+    <Class>전사</Class>
+    <Circle>5</Circle>
+    <Weight>4</Weight>
+    <Stats>Durability 24000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Female</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0018.gif</Image>
+    <Korean_Name>골든플레이트투구</Korean_Name>
+    <English_Name>Golden Plate Helm</English_Name>
+    <Class>전사</Class>
+    <Circle>5</Circle>
+    <Weight>4</Weight>
+    <Stats>Durability 24000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0168.gif</Image>
+    <Korean_Name>풀플레이트투구</Korean_Name>
+    <English_Name>Full Plate Helm</English_Name>
+    <Class>전사</Class>
+    <Circle>4</Circle>
+    <Weight>3</Weight>
+    <Stats>Durability 21000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0262.gif</Image>
+    <Korean_Name>이프리트투구</Korean_Name>
+    <English_Name>Yipeuriteu Helm</English_Name>
+    <Class>전사</Class>
+    <Circle>4</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 18000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0277.gif</Image>
+    <Korean_Name>세인트베일</Korean_Name>
+    <English_Name>St. Vale</English_Name>
+    <Class>성직자</Class>
+    <Weight>3</Weight>
+    <Stats>Durability 5100000, Hit 3, Dam 3, HP -200, MP 200, Str 0, Dex 0, Int 0, Wis 0, Con 0, 15%%, Magic Resist 10%, Female</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0282.gif</Image>
+    <Korean_Name>웨스턴</Korean_Name>
+    <English_Name>Western</English_Name>
+    <Class>도적</Class>
+    <Weight>4</Weight>
+    <Stats>Durability 5100000, Hit 2, Dam 4, HP 200, MP 100, Str 0, Dex 0, Int 0, Wis 0, Con 0, 15%%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item003/item0301.gif</Image>
+    <Korean_Name>헬나이트투구</Korean_Name>
+    <English_Name>Hell Knight Helm</English_Name>
+    <Class>전사</Class>
+    <Circle>5</Circle>
+    <Weight>5</Weight>
+    <Stats>Durability 12000, Hit 0, Dam 1, HP -100, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item003/item0303.gif</Image>
+    <Korean_Name>헬씨프투구</Korean_Name>
+    <English_Name>Healthy program Helm</English_Name>
+    <Class>도적</Class>
+    <Circle>5</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 12000, Hit 5, Dam 0, HP -100, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item003/item0305.gif</Image>
+    <Korean_Name>헬소서러후드</Korean_Name>
+    <English_Name>Hell Sorcerer Hood</English_Name>
+    <Class>마법사</Class>
+    <Circle>5</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 7500, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item003/item0305.gif</Image>
+    <Korean_Name>헬클레릭후드</Korean_Name>
+    <English_Name>Hell cleric Hood</English_Name>
+    <Class>성직자</Class>
+    <Circle>5</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 7500, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item005/item0529.gif</Image>
+    <Korean_Name>햇</Korean_Name>
+    <English_Name>Hat</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 500, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item005/item0529.gif</Image>
+    <Korean_Name>개미머리</Korean_Name>
+    <English_Name>Ant head</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 500, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item007/item0734.gif</Image>
+    <Korean_Name>스키모자</Korean_Name>
+    <English_Name>Ski cap</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item007/item0742.gif</Image>
+    <Korean_Name>그림록퀸홀</Korean_Name>
+    <English_Name>Grimlock kwinhol</English_Name>
+    <Class>도적</Class>
+    <Circle>5</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 12000, Hit 5, Dam 0, HP 1000, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item007/item0760.gif</Image>
+    <Korean_Name>풀플레이트투구수</Korean_Name>
+    <English_Name>Full Plate pitches</English_Name>
+    <Class>전사</Class>
+    <Circle>4</Circle>
+    <Weight>3</Weight>
+    <Stats>Durability 21000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item007/item0762.gif</Image>
+    <Korean_Name>풀플레이트투구토</Korean_Name>
+    <English_Name>Full Plate Helm Sat</English_Name>
+    <Class>전사</Class>
+    <Circle>4</Circle>
+    <Weight>3</Weight>
+    <Stats>Durability 21000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item007/item0764.gif</Image>
+    <Korean_Name>풀플레이트투구풍</Korean_Name>
+    <English_Name>Full Plate Helmet style</English_Name>
+    <Class>전사</Class>
+    <Circle>4</Circle>
+    <Weight>3</Weight>
+    <Stats>Durability 21000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item007/item0766.gif</Image>
+    <Korean_Name>풀플레이트투구화</Korean_Name>
+    <English_Name>Full Plate Helmet Tuesday</English_Name>
+    <Class>전사</Class>
+    <Circle>4</Circle>
+    <Weight>3</Weight>
+    <Stats>Durability 21000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item008/item0803.gif</Image>
+    <Korean_Name>라비린스투구수</Korean_Name>
+    <English_Name>Labyrinth pitches</English_Name>
+    <Class>전사</Class>
+    <Circle>4</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 18000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Female</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item008/item0804.gif</Image>
+    <Korean_Name>라비린스투구토</Korean_Name>
+    <English_Name>Saturday, labyrinth pitches</English_Name>
+    <Class>전사</Class>
+    <Circle>4</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 18000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Female</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item008/item0805.gif</Image>
+    <Korean_Name>라비린스투구풍</Korean_Name>
+    <English_Name>Labyrinth-style helmet</English_Name>
+    <Class>전사</Class>
+    <Circle>4</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 18000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Female</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item008/item0806.gif</Image>
+    <Korean_Name>라비린스투구화</Korean_Name>
+    <English_Name>Labyrinth pitched Tuesday</English_Name>
+    <Class>전사</Class>
+    <Circle>4</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 18000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Female</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item008/item0885.gif</Image>
+    <Korean_Name>세인트홀</Korean_Name>
+    <English_Name>St. Hall</English_Name>
+    <Class>성직자</Class>
+    <Weight>3</Weight>
+    <Stats>Durability 5100000, Hit 3, Dam 3, HP -200, MP 200, Str 0, Dex 0, Int 0, Wis 0, Con 0, 15%%, Magic Resist 10%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item008/item0887.gif</Image>
+    <Korean_Name>다크홀</Korean_Name>
+    <English_Name>Dark Hole</English_Name>
+    <Class>마법사</Class>
+    <Weight>3</Weight>
+    <Stats>Durability 5100000, Hit 3, Dam 3, HP -200, MP 200, Str 0, Dex 0, Int 0, Wis 0, Con 0, 15%%, Magic Resist 10%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item008/item0888.gif</Image>
+    <Korean_Name>다크베일</Korean_Name>
+    <English_Name>Dark Veil</English_Name>
+    <Class>마법사</Class>
+    <Weight>3</Weight>
+    <Stats>Durability 5100000, Hit 3, Dam 3, HP -200, MP 200, Str 0, Dex 0, Int 0, Wis 0, Con 0, 15%%, Magic Resist 10%, Female</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0918.gif</Image>
+    <Korean_Name>남산소통</Korean_Name>
+    <English_Name>Communication Namsan</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0990.gif</Image>
+    <Korean_Name>큐이레스</Korean_Name>
+    <English_Name>Les kyuyi</English_Name>
+    <Class>성직자</Class>
+    <Weight>3</Weight>
+    <Stats>Durability 131500, Hit 0, Dam 0, HP 300, MP 500, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Female</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0991.gif</Image>
+    <Korean_Name>살렛</Korean_Name>
+    <English_Name>Salret</English_Name>
+    <Class>전사</Class>
+    <Weight>4</Weight>
+    <Stats>Durability 131500, Hit 0, Dam 0, HP 400, MP 500, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Female</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0992.gif</Image>
+    <Korean_Name>화영잠</Korean_Name>
+    <English_Name>Hwayoung sleep</English_Name>
+    <Class>무도가</Class>
+    <Weight>2</Weight>
+    <Stats>Durability 131500, Hit 0, Dam 0, HP 1000, MP -400, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Female</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0993.gif</Image>
+    <Korean_Name>라멜</Korean_Name>
+    <English_Name>Ramel</English_Name>
+    <Class>도적</Class>
+    <Weight>2</Weight>
+    <Stats>Durability 131500, Hit 0, Dam 0, HP 800, MP 200, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Female</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0994.gif</Image>
+    <Korean_Name>마아트</Korean_Name>
+    <English_Name>Do art</English_Name>
+    <Class>마법사</Class>
+    <Weight>2</Weight>
+    <Stats>Durability 131500, Hit 0, Dam 0, HP 300, MP 600, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Female</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0995.gif</Image>
+    <Korean_Name>큐이레스</Korean_Name>
+    <English_Name>Les kyuyi</English_Name>
+    <Class>성직자</Class>
+    <Weight>3</Weight>
+    <Stats>Durability 131500, Hit 0, Dam 0, HP 300, MP 500, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Female</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0996.gif</Image>
+    <Korean_Name>살렛</Korean_Name>
+    <English_Name>Salret</English_Name>
+    <Class>전사</Class>
+    <Weight>4</Weight>
+    <Stats>Durability 131500, Hit 0, Dam 0, HP 400, MP 500, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Female</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0997.gif</Image>
+    <Korean_Name>화영건</Korean_Name>
+    <English_Name>Hwayoung Articles</English_Name>
+    <Class>무도가</Class>
+    <Weight>2</Weight>
+    <Stats>Durability 131500, Hit 0, Dam 0, HP 1000, MP -400, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Female</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0998.gif</Image>
+    <Korean_Name>라멜</Korean_Name>
+    <English_Name>Ramel</English_Name>
+    <Class>도적</Class>
+    <Weight>2</Weight>
+    <Stats>Durability 131500, Hit 0, Dam 0, HP 800, MP 200, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Female</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0999.gif</Image>
+    <Korean_Name>마아트</Korean_Name>
+    <English_Name>Do art</English_Name>
+    <Class>마법사</Class>
+    <Weight>2</Weight>
+    <Stats>Durability 131500, Hit 0, Dam 0, HP 300, MP 600, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Female</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item010/item1000.gif</Image>
+    <Korean_Name>아가트</Korean_Name>
+    <English_Name>Ahgateu</English_Name>
+    <Class>성직자</Class>
+    <Weight>3</Weight>
+    <Stats>Durability 131500, Hit 0, Dam 0, HP 300, MP 500, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item010/item1001.gif</Image>
+    <Korean_Name>헬름</Korean_Name>
+    <English_Name>Helm</English_Name>
+    <Class>전사</Class>
+    <Weight>4</Weight>
+    <Stats>Durability 131500, Hit 0, Dam 0, HP 400, MP 500, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item010/item1002.gif</Image>
+    <Korean_Name>투신의머리띠</Korean_Name>
+    <English_Name>Headband Investments</English_Name>
+    <Class>무도가</Class>
+    <Weight>2</Weight>
+    <Stats>Durability 131500, Hit 0, Dam 0, HP 1000, MP -400, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item010/item1003.gif</Image>
+    <Korean_Name>루크</Korean_Name>
+    <English_Name>Luke</English_Name>
+    <Class>도적</Class>
+    <Weight>2</Weight>
+    <Stats>Durability 131500, Hit 0, Dam 0, HP 800, MP 200, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item010/item1004.gif</Image>
+    <Korean_Name>마르두크</Korean_Name>
+    <English_Name>Marduk</English_Name>
+    <Class>마법사</Class>
+    <Weight>2</Weight>
+    <Stats>Durability 131500, Hit 0, Dam 0, HP 300, MP 600, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item010/item1005.gif</Image>
+    <Korean_Name>아가트</Korean_Name>
+    <English_Name>Ahgateu</English_Name>
+    <Class>성직자</Class>
+    <Weight>3</Weight>
+    <Stats>Durability 131500, Hit 0, Dam 0, HP 300, MP 500, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item010/item1006.gif</Image>
+    <Korean_Name>헬름</Korean_Name>
+    <English_Name>Helm</English_Name>
+    <Class>전사</Class>
+    <Weight>4</Weight>
+    <Stats>Durability 131500, Hit 0, Dam 0, HP 400, MP 500, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item010/item1007.gif</Image>
+    <Korean_Name>투신의머리띠</Korean_Name>
+    <English_Name>Headband Investments</English_Name>
+    <Class>무도가</Class>
+    <Weight>2</Weight>
+    <Stats>Durability 131500, Hit 0, Dam 0, HP 1000, MP -400, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item010/item1008.gif</Image>
+    <Korean_Name>루크</Korean_Name>
+    <English_Name>Luke</English_Name>
+    <Class>도적</Class>
+    <Weight>2</Weight>
+    <Stats>Durability 131500, Hit 0, Dam 0, HP 800, MP 200, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item010/item1009.gif</Image>
+    <Korean_Name>마르두크</Korean_Name>
+    <English_Name>Marduk</English_Name>
+    <Class>마법사</Class>
+    <Weight>2</Weight>
+    <Stats>Durability 131500, Hit 0, Dam 0, HP 300, MP 600, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item010/item1040.gif</Image>
+    <Korean_Name>마스터투구</Korean_Name>
+    <English_Name>Master Helm</English_Name>
+    <Class>전사</Class>
+    <Weight>8</Weight>
+    <Stats>Durability 100000, Hit 5, Dam 1, HP 400, MP -100, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 20%, Magic Resist 10%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item010/item1041.gif</Image>
+    <Korean_Name>마스터투구</Korean_Name>
+    <English_Name>Master Helm</English_Name>
+    <Class>전사</Class>
+    <Weight>8</Weight>
+    <Stats>Durability 100000, Hit 5, Dam 1, HP 400, MP -100, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 20%, Magic Resist 10%, Female</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item010/item1052.gif</Image>
+    <Korean_Name>무상관</Korean_Name>
+    <English_Name>Uncorrelated</English_Name>
+    <Class>무도가</Class>
+    <Weight>8</Weight>
+    <Stats>Durability 100000, Hit 4, Dam 2, HP 200, MP 100, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 20%, Magic Resist 10%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item010/item1053.gif</Image>
+    <Korean_Name>월영관</Korean_Name>
+    <English_Name>May crowned</English_Name>
+    <Class>무도가</Class>
+    <Weight>8</Weight>
+    <Stats>Durability 5100000, Hit 4, Dam 2, HP 200, MP 100, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 20%, Magic Resist 10%, Female</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item010/item1059.gif</Image>
+    <Korean_Name>포스페일</Korean_Name>
+    <English_Name>Force Fail</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 1000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item010/item1060.gif</Image>
+    <Korean_Name>유데일1</Korean_Name>
+    <English_Name>Yu Dale 1</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 1000, Hit 0, Dam 5, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item010/item1061.gif</Image>
+    <Korean_Name>아드네일</Korean_Name>
+    <English_Name>Adnan four days</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 1000, Hit 0, Dam 0, HP 300, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item010/item1062.gif</Image>
+    <Korean_Name>프라데일</Korean_Name>
+    <English_Name>Dale Pradesh</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 1000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item011/item1104.gif</Image>
+    <Korean_Name>죽마</Korean_Name>
+    <English_Name>stilts</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 500, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item011/item1107.gif</Image>
+    <Korean_Name>듈라한모자</Korean_Name>
+    <English_Name>Dyulra hat</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 500, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item011/item1110.gif</Image>
+    <Korean_Name>마법좀비모자</Korean_Name>
+    <English_Name>Magic Hat Zombie</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 500, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item011/item1113.gif</Image>
+    <Korean_Name>워어렛모자</Korean_Name>
+    <English_Name>War eoret hat</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 500, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item011/item1113.gif</Image>
+    <Korean_Name>다크클레릭모자</Korean_Name>
+    <English_Name>Dark Cleric Hat</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 500, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item011/item1116.gif</Image>
+    <Korean_Name>외눈안경</Korean_Name>
+    <English_Name>Eyed glasses</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 500, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item011/item1141.gif</Image>
+    <Korean_Name>대왕관</Korean_Name>
+    <English_Name>Great hall</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 50000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1981.gif</Image>
+    <Korean_Name>소왕관</Korean_Name>
+    <English_Name>Small crown</English_Name>
+    <Class>직업공용</Class>
+    <Weight>4</Weight>
+    <Stats>Durability 500000, Hit 3, Dam 3, HP 1000, MP 1000, Str 2, Dex 2, Int 2, Wis 2, Con 2, Regeneration 30%, Magic Resist 20%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1982.gif</Image>
+    <Korean_Name>히로인의서클릿</Korean_Name>
+    <English_Name>Heroine of the circlet</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 1000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1982.gif</Image>
+    <Korean_Name>히어로의서클릿</Korean_Name>
+    <English_Name>Circlet of Heroes</English_Name>
+    <Class>직업공용</Class>
+    <Weight>1</Weight>
+    <Stats>Durability 500000, Hit 2, Dam 2, HP 800, MP 800, Str 1, Dex 1, Int 1, Wis 1, Con 1, 25%%, Magic Resist 10%, Female</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1982.gif</Image>
+    <Korean_Name>엔도르킹의머리</Korean_Name>
+    <English_Name>Head of endo reuking</English_Name>
+    <Class>직업공용</Class>
+    <Weight>1</Weight>
+    <Stats>Durability 500000, Hit 2, Dam 2, HP 800, MP 800, Str 1, Dex 1, Int 1, Wis 1, Con 1, 25%%, Magic Resist 10%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item026/item2661.gif</Image>
+    <Korean_Name>밀집모자</Korean_Name>
+    <English_Name>Straw hat</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 1500, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item033/item3343.gif</Image>
+    <Korean_Name>다크서클릿</Korean_Name>
+    <English_Name>Dark circlet</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 500, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item033/item3392.gif</Image>
+    <Korean_Name>투구</Korean_Name>
+    <English_Name>pitching</English_Name>
+    <Class>직업공용</Class>
+    <Weight>1</Weight>
+    <Stats>Durability 500000, Hit 5, Dam 5, HP 1000, MP 1000, Str 1, Dex 1, Int 1, Wis 1, Con 1, 25%%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+</data>
+

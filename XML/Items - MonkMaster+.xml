@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item034/item3420.gif</Image>
+    <Korean_Name>무상도복(리폼)</Korean_Name>
+    <English_Name>Free lodging (Reform)</English_Name>
+    <Weight>13</Weight>
+    <Stats>Durability 11000000, Hit 0, Dam 0, HP 1000, MP -600, Str -1, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Unisex</Stats>
+    <Acquisition>Master Armor upgraded with a reform kit.</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1766.gif</Image>
+    <Korean_Name>무상도복</Korean_Name>
+    <English_Name>Free lodging</English_Name>
+    <Weight>13</Weight>
+    <Stats>Durability 1000000, Hit 0, Dam 0, HP 1000, MP -600, Str -1, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1765.gif</Image>
+    <Korean_Name>월영도복</Korean_Name>
+    <English_Name>Moon Lodging</English_Name>
+    <Weight>13</Weight>
+    <Stats>Durability 1000000, Hit 0, Dam 0, HP 1000, MP -600, Str -1, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Female</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1765.gif</Image>
+    <Korean_Name>올로스</Korean_Name>
+    <English_Name>All Ross</English_Name>
+    <Weight>11</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1000, MP -600, Str -1, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Female</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1766.gif</Image>
+    <Korean_Name>나모</Korean_Name>
+    <English_Name>Namo</English_Name>
+    <Weight>11</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1000, MP -600, Str -1, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1937.gif</Image>
+    <Korean_Name>나모(A)</Korean_Name>
+    <English_Name>Cinnamoyl (A)</English_Name>
+    <Weight>10</Weight>
+    <Stats>Durability 10000, Hit 1, Dam 1, HP 1000, MP -600, Str -1, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1939.gif</Image>
+    <Korean_Name>나모(+2)</Korean_Name>
+    <English_Name>Cinnamoyl (+2)</English_Name>
+    <Weight>10</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1000, MP -500, Str -1, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1940.gif</Image>
+    <Korean_Name>나모(+1)</Korean_Name>
+    <English_Name>Cinnamoyl (+1)</English_Name>
+    <Weight>11</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1000, MP -600, Str -1, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1958.gif</Image>
+    <Korean_Name>올로스(A)</Korean_Name>
+    <English_Name>All Ross (A)</English_Name>
+    <Weight>10</Weight>
+    <Stats>Durability 10000, Hit 1, Dam 1, HP 1000, MP -600, Str -1, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Female</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1959.gif</Image>
+    <Korean_Name>올로스(+2)</Korean_Name>
+    <English_Name>All Ross (+2)</English_Name>
+    <Weight>10</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1000, MP -500, Str -1, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Female</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1960.gif</Image>
+    <Korean_Name>올로스(+1)</Korean_Name>
+    <English_Name>All Ross (+1)</English_Name>
+    <Weight>11</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1000, MP -600, Str -1, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Female</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2007.gif</Image>
+    <Korean_Name>소론(+2)</Korean_Name>
+    <English_Name>Essay (+2)</English_Name>
+    <Weight>10</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1100, MP -500, Str -2, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Male</Stats>
+    <Acquisition>Noam Village Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2008.gif</Image>
+    <Korean_Name>소론(+1)</Korean_Name>
+    <English_Name>Essay (+1)</English_Name>
+    <Weight>12</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1100, MP -600, Str -1, Dex -2, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Male</Stats>
+    <Acquisition>Noam Village Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2009.gif</Image>
+    <Korean_Name>소론(+3)</Korean_Name>
+    <English_Name>Essay (+3)</English_Name>
+    <Weight>10</Weight>
+    <Stats>Durability 10000, Hit 1, Dam 2, HP 1150, MP -500, Str -2, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Male</Stats>
+    <Acquisition>Acquired from someone/somewhere in Desert Dunes</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2010.gif</Image>
+    <Korean_Name>소론</Korean_Name>
+    <English_Name>essay</English_Name>
+    <Weight>12</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1100, MP -600, Str -2, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Male</Stats>
+    <Acquisition>Noam Village Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2032.gif</Image>
+    <Korean_Name>소로니(+2)</Korean_Name>
+    <English_Name>Thoreau knee (+2)</English_Name>
+    <Weight>10</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1100, MP -500, Str -2, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Female</Stats>
+    <Acquisition>Noam Village Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2033.gif</Image>
+    <Korean_Name>소로니(+1)</Korean_Name>
+    <English_Name>Thoreau knee (+1)</English_Name>
+    <Weight>12</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1100, MP -600, Str -1, Dex -2, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Female</Stats>
+    <Acquisition>Noam Village Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2034.gif</Image>
+    <Korean_Name>소로니(+3)</Korean_Name>
+    <English_Name>Thoreau knee (+3)</English_Name>
+    <Weight>10</Weight>
+    <Stats>Durability 10000, Hit 1, Dam 2, HP 1150, MP -500, Str -2, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Female</Stats>
+    <Acquisition>Acquired from someone/somewhere in Desert Dunes</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2035.gif</Image>
+    <Korean_Name>소로니</Korean_Name>
+    <English_Name>Your cattle</English_Name>
+    <Weight>12</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1100, MP -500, Str -2, Dex -1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Female</Stats>
+    <Acquisition>Noam Village Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2356.gif</Image>
+    <Korean_Name>적태극의(여)</Korean_Name>
+    <English_Name>Enemy Taiji (F)</English_Name>
+    <Weight>17</Weight>
+    <Stats>Durability 30000, Hit 1, Dam 1, HP 1500, MP 100, Str 2, Dex 2, Int -2, Wis 1, Con -2, Regeneration 0%, Magic Resist 30%, Female</Stats>
+    <Acquisition>Crafted by using materials found in Hwarone Village</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2366.gif</Image>
+    <Korean_Name>흑태극의(여)</Korean_Name>
+    <English_Name>Of Black Tai (F)</English_Name>
+    <Weight>17</Weight>
+    <Stats>Durability 3000000, Hit 2, Dam 2, HP 1500, MP 500, Str 2, Dex 2, Int -2, Wis 1, Con -2, Regeneration 100%, Magic Resist 30%, Female</Stats>
+    <Acquisition>Special Items combined with previous version of the item. Crafted at the Flame Smith?</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item023/item2355.gif</Image>
+    <Korean_Name>적태극의(남)</Korean_Name>
+    <English_Name>Enemy Tai (M)</English_Name>
+    <Weight>17</Weight>
+    <Stats>Durability 30000, Hit 1, Dam 1, HP 1500, MP 100, Str 2, Dex 2, Int -2, Wis 1, Con -2, Regeneration 0%, Magic Resist 30%, Male</Stats>
+    <Acquisition>Crafted by using materials found in Hwarone Village</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item023/item2365.gif</Image>
+    <Korean_Name>흑태극의(남)</Korean_Name>
+    <English_Name>Of Black Tai (M)</English_Name>
+    <Weight>17</Weight>
+    <Stats>Durability 3000000, Hit 2, Dam 2, HP 1500, MP 500, Str 2, Dex 2, Int -2, Wis 1, Con -2, Regeneration 100%, Magic Resist 30%, Male</Stats>
+    <Acquisition>Special Items combined with previous version of the item. Crafted at the Flame Smith?</Acquisition>
+  </Item>
+</data>
+

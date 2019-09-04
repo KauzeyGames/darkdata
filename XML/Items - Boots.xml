@@ -1,0 +1,1095 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0074.gif</Image>
+    <Korean_Name>회색신발</Korean_Name>
+    <English_Name>Gray Shoes</English_Name>
+    <Circle>2</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0074.gif</Image>
+    <Korean_Name>세오의회색신발</Korean_Name>
+    <English_Name>Gray shoes Seo</English_Name>
+    <Circle>2</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 1, Int 0, Wis 0, Con 0, Regeneration 5%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0074.gif</Image>
+    <Korean_Name>로오의회색신발</Korean_Name>
+    <English_Name>Gray shoes of Lawrence</English_Name>
+    <Circle>2</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 1, Int 1, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0074.gif</Image>
+    <Korean_Name>칸의회색신발</Korean_Name>
+    <English_Name>Khan gray shoes</English_Name>
+    <Circle>2</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0074.gif</Image>
+    <Korean_Name>세토아의회색신발</Korean_Name>
+    <English_Name>Setoah of gray shoes</English_Name>
+    <Circle>2</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0074.gif</Image>
+    <Korean_Name>이아의회색신발</Korean_Name>
+    <English_Name>Iain Gray shoes</English_Name>
+    <Circle>2</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 1, Int 0, Wis 1, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0074.gif</Image>
+    <Korean_Name>셔스의회색신발</Korean_Name>
+    <English_Name>Gray shoes Precious</English_Name>
+    <Circle>2</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 2, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0074.gif</Image>
+    <Korean_Name>메투스의회색신발</Korean_Name>
+    <English_Name>Gray shoes Tome Tooth</English_Name>
+    <Circle>2</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 1, Int 0, Wis 0, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0074.gif</Image>
+    <Korean_Name>뮤레칸의회색신발</Korean_Name>
+    <English_Name>Gray shoes Mu rekan</English_Name>
+    <Circle>2</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 90000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0074.gif</Image>
+    <Korean_Name>축복의회색신발</Korean_Name>
+    <English_Name>Gray shoes blessings</English_Name>
+    <Circle>2</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 9000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0074.gif</Image>
+    <Korean_Name>풍요의회색신발</Korean_Name>
+    <English_Name>Gray shoes of abundance</English_Name>
+    <Circle>2</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 9000, Hit 0, Dam 1, HP 0, MP 0, Str 0, Dex 1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0074.gif</Image>
+    <Korean_Name>체력의회색신발</Korean_Name>
+    <English_Name>Gray shoes fitness</English_Name>
+    <Circle>2</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 100, MP 0, Str 0, Dex 1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0074.gif</Image>
+    <Korean_Name>마법의회색신발</Korean_Name>
+    <English_Name>Magical Shoes Gray</English_Name>
+    <Circle>2</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 50, Str 0, Dex 1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0075.gif</Image>
+    <Korean_Name>매직부츠</Korean_Name>
+    <English_Name>Magic Boots</English_Name>
+    <Circle>5</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 40000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 6, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0075.gif</Image>
+    <Korean_Name>세오의매직부츠</Korean_Name>
+    <English_Name>Magic boots Seo</English_Name>
+    <Circle>5</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 40000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 6, Int 0, Wis 0, Con 0, Regeneration 5%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0075.gif</Image>
+    <Korean_Name>로오의매직부츠</Korean_Name>
+    <English_Name>Magic boots Lawrence</English_Name>
+    <Circle>5</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 40000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 6, Int 1, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0075.gif</Image>
+    <Korean_Name>칸의매직부츠</Korean_Name>
+    <English_Name>Magic boots Khan</English_Name>
+    <Circle>5</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 40000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 6, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0075.gif</Image>
+    <Korean_Name>세토아의매직부츠</Korean_Name>
+    <English_Name>Magic boots setoah</English_Name>
+    <Circle>5</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 40000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 6, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0075.gif</Image>
+    <Korean_Name>이아의매직부츠</Korean_Name>
+    <English_Name>Magic boots Iasi</English_Name>
+    <Circle>5</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 40000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 6, Int 0, Wis 1, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0075.gif</Image>
+    <Korean_Name>셔스의매직부츠</Korean_Name>
+    <English_Name>Magic boots Precious</English_Name>
+    <Circle>5</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 40000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 7, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0075.gif</Image>
+    <Korean_Name>메투스의매직부츠</Korean_Name>
+    <English_Name>Magic Boots Tome Tooth</English_Name>
+    <Circle>5</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 40000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 6, Int 0, Wis 0, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0075.gif</Image>
+    <Korean_Name>뮤레칸의매직부츠</Korean_Name>
+    <English_Name>Magic Boots Mu rekan</English_Name>
+    <Circle>5</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 400000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 6, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0075.gif</Image>
+    <Korean_Name>축복의매직부츠</Korean_Name>
+    <English_Name>Magic Boots of Blessing</English_Name>
+    <Circle>5</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 40000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 6, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0075.gif</Image>
+    <Korean_Name>풍요의매직부츠</Korean_Name>
+    <English_Name>Magic Boots of abundance</English_Name>
+    <Circle>5</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 40000, Hit 0, Dam 1, HP 0, MP 0, Str 0, Dex 6, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0075.gif</Image>
+    <Korean_Name>체력의매직부츠</Korean_Name>
+    <English_Name>Magic Boots fitness</English_Name>
+    <Circle>5</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 40000, Hit 0, Dam 0, HP 100, MP 0, Str 0, Dex 6, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0075.gif</Image>
+    <Korean_Name>마법의매직부츠</Korean_Name>
+    <English_Name>Magic Magic Boots</English_Name>
+    <Circle>5</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 40000, Hit 0, Dam 0, HP 0, MP 50, Str 0, Dex 6, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0076.gif</Image>
+    <Korean_Name>산타부츠</Korean_Name>
+    <English_Name>Santa Boots</English_Name>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0076.gif</Image>
+    <Korean_Name>신발</Korean_Name>
+    <English_Name>shoes</English_Name>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0076.gif</Image>
+    <Korean_Name>세오의신발</Korean_Name>
+    <English_Name>Seo shoes</English_Name>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 5%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0076.gif</Image>
+    <Korean_Name>로오의신발</Korean_Name>
+    <English_Name>Shoes Lawrence</English_Name>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 1, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0076.gif</Image>
+    <Korean_Name>칸의신발</Korean_Name>
+    <English_Name>Khan's shoes</English_Name>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0076.gif</Image>
+    <Korean_Name>세토아의신발</Korean_Name>
+    <English_Name>Shoes setoah</English_Name>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0076.gif</Image>
+    <Korean_Name>이아의신발</Korean_Name>
+    <English_Name>Shoes Oia</English_Name>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 1, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0076.gif</Image>
+    <Korean_Name>셔스의신발</Korean_Name>
+    <English_Name>Precious shoes</English_Name>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0076.gif</Image>
+    <Korean_Name>메투스의신발</Korean_Name>
+    <English_Name>Shoes Tome Tooth</English_Name>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0076.gif</Image>
+    <Korean_Name>뮤레칸의신발</Korean_Name>
+    <English_Name>Mu rekan shoes</English_Name>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 30000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0076.gif</Image>
+    <Korean_Name>축복의신발</Korean_Name>
+    <English_Name>Shoes blessings</English_Name>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 3000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0076.gif</Image>
+    <Korean_Name>풍요의신발</Korean_Name>
+    <English_Name>Shoes abundance</English_Name>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 3000, Hit 0, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0076.gif</Image>
+    <Korean_Name>체력의신발</Korean_Name>
+    <English_Name>Fitness shoes</English_Name>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 100, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0076.gif</Image>
+    <Korean_Name>마법의신발</Korean_Name>
+    <English_Name>Magical Shoes</English_Name>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 50, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0076.gif</Image>
+    <Korean_Name>칸의신발</Korean_Name>
+    <English_Name>Khan's shoes</English_Name>
+    <Circle>1</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0076.gif</Image>
+    <Korean_Name>체력의신발</Korean_Name>
+    <English_Name>Fitness shoes</English_Name>
+    <Circle>1</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 100, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0076.gif</Image>
+    <Korean_Name>마법의신발</Korean_Name>
+    <English_Name>Magical Shoes</English_Name>
+    <Circle>1</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 50, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0077.gif</Image>
+    <Korean_Name>레더부츠</Korean_Name>
+    <English_Name>Leather Boots</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 21000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 3, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0077.gif</Image>
+    <Korean_Name>세오의레더부츠</Korean_Name>
+    <English_Name>Leather boots Seo</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 21000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 3, Int 0, Wis 0, Con 0, Regeneration 5%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0077.gif</Image>
+    <Korean_Name>로오의레더부츠</Korean_Name>
+    <English_Name>Leather boots Lawrence</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 21000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 3, Int 1, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0077.gif</Image>
+    <Korean_Name>칸의레더부츠</Korean_Name>
+    <English_Name>Leather Boots in Cannes</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 21000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 3, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0077.gif</Image>
+    <Korean_Name>세토아의레더부츠</Korean_Name>
+    <English_Name>Leather boots setoah</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 21000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 3, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0077.gif</Image>
+    <Korean_Name>이아의레더부츠</Korean_Name>
+    <English_Name>Leather Boots Oia</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 21000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 3, Int 0, Wis 1, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0077.gif</Image>
+    <Korean_Name>셔스의레더부츠</Korean_Name>
+    <English_Name>Precious leather boots</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 21000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 4, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0077.gif</Image>
+    <Korean_Name>메투스의레더부츠</Korean_Name>
+    <English_Name>Leather Boots Tome of tooth</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 21000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 3, Int 0, Wis 0, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0077.gif</Image>
+    <Korean_Name>뮤레칸의레더부츠</Korean_Name>
+    <English_Name>Leather Boots Mu rekan</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 210000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 3, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0077.gif</Image>
+    <Korean_Name>축복의레더부츠</Korean_Name>
+    <English_Name>Leather Boots of Blessing</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 21000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 3, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0077.gif</Image>
+    <Korean_Name>풍요의레더부츠</Korean_Name>
+    <English_Name>Leather Boots of abundance</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 21000, Hit 0, Dam 1, HP 0, MP 0, Str 0, Dex 3, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0077.gif</Image>
+    <Korean_Name>체력의레더부츠</Korean_Name>
+    <English_Name>Leather Boots fitness</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 21000, Hit 0, Dam 0, HP 100, MP 0, Str 0, Dex 3, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0077.gif</Image>
+    <Korean_Name>마법의레더부츠</Korean_Name>
+    <English_Name>Magic Leather Boots</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 21000, Hit 0, Dam 0, HP 0, MP 50, Str 0, Dex 3, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0095.gif</Image>
+    <Korean_Name>바이올렛티</Korean_Name>
+    <English_Name>Violet Tee</English_Name>
+    <Circle>4</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 27000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 4, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0095.gif</Image>
+    <Korean_Name>세오의바이올렛티</Korean_Name>
+    <English_Name>Violet tee Seo</English_Name>
+    <Circle>4</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 27000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 4, Int 0, Wis 0, Con 0, Regeneration 5%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0095.gif</Image>
+    <Korean_Name>로오의바이올렛티</Korean_Name>
+    <English_Name>Violet tee Lawrence</English_Name>
+    <Circle>4</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 27000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 4, Int 1, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0095.gif</Image>
+    <Korean_Name>칸의바이올렛티</Korean_Name>
+    <English_Name>Khan Violet Tee</English_Name>
+    <Circle>4</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 27000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 4, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0095.gif</Image>
+    <Korean_Name>세토아의바이올렛티</Korean_Name>
+    <English_Name>Setoah Violet Tee</English_Name>
+    <Circle>4</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 27000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 4, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0095.gif</Image>
+    <Korean_Name>이아의바이올렛티</Korean_Name>
+    <English_Name>Violet Tee Oia</English_Name>
+    <Circle>4</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 27000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 4, Int 0, Wis 1, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0095.gif</Image>
+    <Korean_Name>셔스의바이올렛티</Korean_Name>
+    <English_Name>Violet tee Precious</English_Name>
+    <Circle>4</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 27000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 5, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0095.gif</Image>
+    <Korean_Name>메투스의바이올렛티</Korean_Name>
+    <English_Name>Tooth Violet tee-mail</English_Name>
+    <Circle>4</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 27000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 4, Int 0, Wis 0, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0095.gif</Image>
+    <Korean_Name>뮤레칸의바이올렛티</Korean_Name>
+    <English_Name>Violet Tee Mu rekan</English_Name>
+    <Circle>4</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 270000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 4, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0095.gif</Image>
+    <Korean_Name>축복의바이올렛티</Korean_Name>
+    <English_Name>Violet Tee's blessing</English_Name>
+    <Circle>4</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 27000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 4, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0095.gif</Image>
+    <Korean_Name>풍요의바이올렛티</Korean_Name>
+    <English_Name>Tea Violet of plenty</English_Name>
+    <Circle>4</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 27000, Hit 0, Dam 1, HP 0, MP 0, Str 0, Dex 4, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0095.gif</Image>
+    <Korean_Name>체력의바이올렛티</Korean_Name>
+    <English_Name>Violet Tee stamina</English_Name>
+    <Circle>4</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 27000, Hit 0, Dam 0, HP 100, MP 0, Str 0, Dex 4, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0095.gif</Image>
+    <Korean_Name>마법의바이올렛티</Korean_Name>
+    <English_Name>Magic Violet Tee</English_Name>
+    <Circle>4</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 27000, Hit 0, Dam 0, HP 0, MP 50, Str 0, Dex 4, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0113.gif</Image>
+    <Korean_Name>마그마부츠</Korean_Name>
+    <English_Name>Magma Boots</English_Name>
+    <Circle>4</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 33000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 5, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0113.gif</Image>
+    <Korean_Name>세오의마그마부츠</Korean_Name>
+    <English_Name>Seo Magma Boots</English_Name>
+    <Circle>4</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 33000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 5, Int 0, Wis 0, Con 0, Regeneration 5%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0113.gif</Image>
+    <Korean_Name>로오의마그마부츠</Korean_Name>
+    <English_Name>Lawrence Magma Boots</English_Name>
+    <Circle>4</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 33000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 5, Int 1, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0113.gif</Image>
+    <Korean_Name>칸의마그마부츠</Korean_Name>
+    <English_Name>Magma Khan Boots</English_Name>
+    <Circle>4</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 33000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 5, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0113.gif</Image>
+    <Korean_Name>세토아의마그마부츠</Korean_Name>
+    <English_Name>Setoah Magma Boots</English_Name>
+    <Circle>4</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 33000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 5, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0113.gif</Image>
+    <Korean_Name>이아의마그마부츠</Korean_Name>
+    <English_Name>Iain Magma Boots</English_Name>
+    <Circle>4</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 33000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 5, Int 0, Wis 1, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0113.gif</Image>
+    <Korean_Name>셔스의마그마부츠</Korean_Name>
+    <English_Name>Precious Magma Boots</English_Name>
+    <Circle>4</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 33000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 6, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0113.gif</Image>
+    <Korean_Name>메투스의마그마부츠</Korean_Name>
+    <English_Name>Tome tooth Magma Boots</English_Name>
+    <Circle>4</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 33000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 5, Int 0, Wis 0, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0113.gif</Image>
+    <Korean_Name>뮤레칸의마그마부츠</Korean_Name>
+    <English_Name>Mu rekan Magma Boots</English_Name>
+    <Circle>4</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 330000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 5, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0113.gif</Image>
+    <Korean_Name>축복의마그마부츠</Korean_Name>
+    <English_Name>Magma's blessing Boots</English_Name>
+    <Circle>4</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 33000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 5, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0113.gif</Image>
+    <Korean_Name>풍요의마그마부츠</Korean_Name>
+    <English_Name>Magma abundance Boots</English_Name>
+    <Circle>4</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 33000, Hit 0, Dam 1, HP 0, MP 0, Str 0, Dex 5, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0113.gif</Image>
+    <Korean_Name>체력의마그마부츠</Korean_Name>
+    <English_Name>Fitness Magma Boots</English_Name>
+    <Circle>4</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 33000, Hit 0, Dam 0, HP 100, MP 0, Str 0, Dex 5, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0113.gif</Image>
+    <Korean_Name>마법의마그마부츠</Korean_Name>
+    <English_Name>Magic Magma Boots</English_Name>
+    <Circle>4</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 33000, Hit 0, Dam 0, HP 0, MP 50, Str 0, Dex 5, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0114.gif</Image>
+    <Korean_Name>녹색신발</Korean_Name>
+    <English_Name>Green Shoes</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 15000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 2, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0114.gif</Image>
+    <Korean_Name>세오의녹색신발</Korean_Name>
+    <English_Name>Green shoes Seo</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 15000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 2, Int 0, Wis 0, Con 0, Regeneration 5%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0114.gif</Image>
+    <Korean_Name>로오의녹색신발</Korean_Name>
+    <English_Name>Green shoes Lawrence</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 15000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 2, Int 1, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0114.gif</Image>
+    <Korean_Name>칸의녹색신발</Korean_Name>
+    <English_Name>Khan's green shoes</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 15000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 2, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0114.gif</Image>
+    <Korean_Name>세토아의녹색신발</Korean_Name>
+    <English_Name>Setoah of green shoes</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 15000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 2, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0114.gif</Image>
+    <Korean_Name>이아의녹색신발</Korean_Name>
+    <English_Name>Green Shoes in Iasi</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 15000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 2, Int 0, Wis 1, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0114.gif</Image>
+    <Korean_Name>셔스의녹색신발</Korean_Name>
+    <English_Name>Precious green shoes</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 15000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 3, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0114.gif</Image>
+    <Korean_Name>메투스의녹색신발</Korean_Name>
+    <English_Name>Green shoes Tome Tooth</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 15000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 2, Int 0, Wis 0, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0114.gif</Image>
+    <Korean_Name>뮤레칸의녹색신발</Korean_Name>
+    <English_Name>Green shoes Mu rekan</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 150000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 2, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0114.gif</Image>
+    <Korean_Name>축복의녹색신발</Korean_Name>
+    <English_Name>Green shoes blessings</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 15000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 2, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0114.gif</Image>
+    <Korean_Name>풍요의녹색신발</Korean_Name>
+    <English_Name>Plenty of green shoes</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 15000, Hit 0, Dam 1, HP 0, MP 0, Str 0, Dex 2, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0114.gif</Image>
+    <Korean_Name>체력의녹색신발</Korean_Name>
+    <English_Name>Green shoes fitness</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 15000, Hit 0, Dam 0, HP 100, MP 0, Str 0, Dex 2, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0114.gif</Image>
+    <Korean_Name>마법의녹색신발</Korean_Name>
+    <English_Name>Magic Green Shoes</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 15000, Hit 0, Dam 0, HP 0, MP 50, Str 0, Dex 2, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0131.gif</Image>
+    <Korean_Name>신발9</Korean_Name>
+    <English_Name>Shoes 9</English_Name>
+    <Weight>2</Weight>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Male</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0913.gif</Image>
+    <Korean_Name>배틀부츠</Korean_Name>
+    <English_Name>Battle Boots</English_Name>
+    <Weight>5</Weight>
+    <Stats>Durability 200000, Hit 0, Dam 0, HP 1000, MP 0, Str 1, Dex 10, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0914.gif</Image>
+    <Korean_Name>미스릴부츠</Korean_Name>
+    <English_Name>Mithril Boots</English_Name>
+    <Weight>3</Weight>
+    <Stats>Durability 200000, Hit 0, Dam 0, HP 0, MP 1000, Str 0, Dex 10, Int 0, Wis 1, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0919.gif</Image>
+    <Korean_Name>오리발</Korean_Name>
+    <English_Name>Flippers</English_Name>
+    <Circle>2</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 20000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item011/item1134.gif</Image>
+    <Korean_Name>워리어워커</Korean_Name>
+    <English_Name>Warrior Walker</English_Name>
+    <Weight>5</Weight>
+    <Stats>Durability 200000, Hit 1, Dam 1, HP 1100, MP 0, Str 1, Dex 12, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item011/item1134.gif</Image>
+    <Korean_Name>버팔로워커</Korean_Name>
+    <English_Name>Buffalo Walker</English_Name>
+    <Weight>5</Weight>
+    <Stats>Durability 200000, Hit 1, Dam 1, HP 1100, MP 0, Str 1, Dex 12, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1762.gif</Image>
+    <Korean_Name>심판용신발</Korean_Name>
+    <English_Name>The referee shoes</English_Name>
+    <Circle>3</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1763.gif</Image>
+    <Korean_Name>한국축구화</Korean_Name>
+    <English_Name>South Korea soccer shoes</English_Name>
+    <Circle>3</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1764.gif</Image>
+    <Korean_Name>일본축구화</Korean_Name>
+    <English_Name>Japanese soccer shoes</English_Name>
+    <Circle>3</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1780.gif</Image>
+    <Korean_Name>실크부츠</Korean_Name>
+    <English_Name>Silk Boots</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 8, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1781.gif</Image>
+    <Korean_Name>발찌</Korean_Name>
+    <English_Name>Anklet</English_Name>
+    <Weight>5</Weight>
+    <Stats>Durability 200000, Hit 0, Dam 0, HP 1000, MP 100, Str 1, Dex 10, Int 1, Wis 0, Con 1, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1782.gif</Image>
+    <Korean_Name>버팔로발찌</Korean_Name>
+    <English_Name>Buffalo anklet</English_Name>
+    <Weight>2</Weight>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1783.gif</Image>
+    <Korean_Name>끈신발</Korean_Name>
+    <English_Name>Shoe laces</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1913.gif</Image>
+    <Korean_Name>깜찍한부츠</Korean_Name>
+    <English_Name>Cute boots</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 3, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1914.gif</Image>
+    <Korean_Name>발랄한부츠</Korean_Name>
+    <English_Name>Sporty boots</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 3, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1915.gif</Image>
+    <Korean_Name>멋쟁이부츠</Korean_Name>
+    <English_Name>Fashionable Boots</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 3, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1916.gif</Image>
+    <Korean_Name>새끈한부츠</Korean_Name>
+    <English_Name>SHARP boots</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 3, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1917.gif</Image>
+    <Korean_Name>예쁜이부츠</Korean_Name>
+    <English_Name>Yeppeunyi Boots</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 3, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1918.gif</Image>
+    <Korean_Name>차분한부츠</Korean_Name>
+    <English_Name>Calm Boots</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 3, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1919.gif</Image>
+    <Korean_Name>날라리부츠</Korean_Name>
+    <English_Name>Punk Boots</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 3, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1920.gif</Image>
+    <Korean_Name>엄숙한부츠</Korean_Name>
+    <English_Name>Solemn Boots</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 3, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1921.gif</Image>
+    <Korean_Name>유쾌한부츠</Korean_Name>
+    <English_Name>Jolly Boots</English_Name>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 3, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1922.gif</Image>
+    <Korean_Name>검정스타킹</Korean_Name>
+    <English_Name>Black stockings</English_Name>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1923.gif</Image>
+    <Korean_Name>빨강스타킹</Korean_Name>
+    <English_Name>Red Stockings</English_Name>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1924.gif</Image>
+    <Korean_Name>파랑스타킹</Korean_Name>
+    <English_Name>Blue Stockings</English_Name>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2311.gif</Image>
+    <Korean_Name>여자산타부츠</Korean_Name>
+    <English_Name>Female Santa Boots</English_Name>
+    <Circle>1</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item023/item2310.gif</Image>
+    <Korean_Name>남자산타부츠</Korean_Name>
+    <English_Name>Man in Santa Boots</English_Name>
+    <Circle>1</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+</data>
+

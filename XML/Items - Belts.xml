@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0235.gif</Image>
+    <Korean_Name>가죽벨트</Korean_Name>
+    <English_Name>Leather belts</English_Name>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 2000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 1, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0235.gif</Image>
+    <Korean_Name>화염의가죽벨트</Korean_Name>
+    <English_Name>Leather Belt of Fire</English_Name>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 2000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 1, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0235.gif</Image>
+    <Korean_Name>바다의가죽벨트</Korean_Name>
+    <English_Name>Leather Belt of the Sea</English_Name>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 2000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 1, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0235.gif</Image>
+    <Korean_Name>바람의가죽벨트</Korean_Name>
+    <English_Name>Leather Belt Wind</English_Name>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 2000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 1, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0235.gif</Image>
+    <Korean_Name>대지의가죽벨트</Korean_Name>
+    <English_Name>Land of Leather Belts</English_Name>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 2000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 1, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0236.gif</Image>
+    <Korean_Name>은벨트</Korean_Name>
+    <English_Name>A belt</English_Name>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 2000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0236.gif</Image>
+    <Korean_Name>화염의은벨트</Korean_Name>
+    <English_Name>Fire saver Belt</English_Name>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 2000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0236.gif</Image>
+    <Korean_Name>바다의은벨트</Korean_Name>
+    <English_Name>Sea saver Belt</English_Name>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 2000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0236.gif</Image>
+    <Korean_Name>바람의은벨트</Korean_Name>
+    <English_Name>Wind metaphor belts</English_Name>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 2000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0236.gif</Image>
+    <Korean_Name>대지의은벨트</Korean_Name>
+    <English_Name>Land saver Belt</English_Name>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 2000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0237.gif</Image>
+    <Korean_Name>금벨트</Korean_Name>
+    <English_Name>Gold belt</English_Name>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 2500, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 1, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0237.gif</Image>
+    <Korean_Name>화염의금벨트</Korean_Name>
+    <English_Name>Gold belt of fire</English_Name>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 2500, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 1, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0237.gif</Image>
+    <Korean_Name>바다의금벨트</Korean_Name>
+    <English_Name>Gold belt of sea</English_Name>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 2500, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 1, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0237.gif</Image>
+    <Korean_Name>바람의금벨트</Korean_Name>
+    <English_Name>Gold belt in the wind</English_Name>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 2500, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 1, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0237.gif</Image>
+    <Korean_Name>대지의금벨트</Korean_Name>
+    <English_Name>Gold belt of land</English_Name>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 2500, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 1, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0241.gif</Image>
+    <Korean_Name>바다의벨트</Korean_Name>
+    <English_Name>Belt of the Sea</English_Name>
+    <Circle>1</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 1000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0242.gif</Image>
+    <Korean_Name>화염의벨트</Korean_Name>
+    <English_Name>Belt of Fire</English_Name>
+    <Circle>1</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 1000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0243.gif</Image>
+    <Korean_Name>바람의벨트</Korean_Name>
+    <English_Name>Belts of winds</English_Name>
+    <Circle>1</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 1000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0244.gif</Image>
+    <Korean_Name>대지의벨트</Korean_Name>
+    <English_Name>Belt Land</English_Name>
+    <Circle>1</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 1000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0245.gif</Image>
+    <Korean_Name>비취벨트</Korean_Name>
+    <English_Name>Jade Belt</English_Name>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 1000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item008/item0898.gif</Image>
+    <Korean_Name>암흑의벨트</Korean_Name>
+    <English_Name>Belt of the Dark</English_Name>
+    <Weight>3</Weight>
+    <Stats>Durability 1000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item008/item0899.gif</Image>
+    <Korean_Name>생명의벨트</Korean_Name>
+    <English_Name>Belt of Life</English_Name>
+    <Weight>3</Weight>
+    <Stats>Durability 1000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1891.gif</Image>
+    <Korean_Name>바다의잼벨트</Korean_Name>
+    <English_Name>Jam belt of sea</English_Name>
+    <Circle>3</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 1000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 1, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1892.gif</Image>
+    <Korean_Name>럭셔리바다다의벨트</Korean_Name>
+    <English_Name>Belt of the luxury ocean</English_Name>
+    <Circle>1</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 1000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1892.gif</Image>
+    <Korean_Name>화염의잼벨트</Korean_Name>
+    <English_Name>Jam belt of fire</English_Name>
+    <Circle>3</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 1000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 1, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1893.gif</Image>
+    <Korean_Name>럭셔리화염의벨트</Korean_Name>
+    <English_Name>Luxury Flame Belt</English_Name>
+    <Circle>1</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 1000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1893.gif</Image>
+    <Korean_Name>바람의잼벨트</Korean_Name>
+    <English_Name>Jam belt of winds</English_Name>
+    <Circle>3</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 1000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 1, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1894.gif</Image>
+    <Korean_Name>럭셔리바람의벨트</Korean_Name>
+    <English_Name>Luxury belts Wind</English_Name>
+    <Circle>1</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 1000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1894.gif</Image>
+    <Korean_Name>대지의잼벨트</Korean_Name>
+    <English_Name>Jam of the land belt</English_Name>
+    <Circle>3</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 1000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 1, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1895.gif</Image>
+    <Korean_Name>럭셔리대지의벨트</Korean_Name>
+    <English_Name>Luxury Property belt</English_Name>
+    <Circle>1</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 1000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1895.gif</Image>
+    <Korean_Name>숲의잼벨트</Korean_Name>
+    <English_Name>Jam of the forest belt</English_Name>
+    <Circle>3</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 1000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 1, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1896.gif</Image>
+    <Korean_Name>철금의잼벨트</Korean_Name>
+    <English_Name>Jam belt glockenspiel</English_Name>
+    <Circle>3</Circle>
+    <Weight>1</Weight>
+    <Stats>Durability 1000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 1, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1903.gif</Image>
+    <Korean_Name>주작의벨트</Korean_Name>
+    <English_Name>Suzaku belt</English_Name>
+    <Weight>1</Weight>
+    <Stats>Durability 225000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 1, Int 1, Wis 1, Con 1, Regeneration 100%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1936.gif</Image>
+    <Korean_Name>화염의승염벨트</Korean_Name>
+    <English_Name>Seungyeom belt of fire</English_Name>
+    <Weight>1</Weight>
+    <Stats>Durability 22500, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1936.gif</Image>
+    <Korean_Name>바다의승염벨트</Korean_Name>
+    <English_Name>Seungyeom belt of sea</English_Name>
+    <Weight>1</Weight>
+    <Stats>Durability 22500, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1936.gif</Image>
+    <Korean_Name>바람의승염벨트</Korean_Name>
+    <English_Name>Seungyeom belt of winds</English_Name>
+    <Weight>1</Weight>
+    <Stats>Durability 22500, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+  <_>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1936.gif</Image>
+    <Korean_Name>대지의승염벨트</Korean_Name>
+    <English_Name>Seungyeom Land belt</English_Name>
+    <Weight>1</Weight>
+    <Stats>Durability 22500, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </_>
+</data>
+

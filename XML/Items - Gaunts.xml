@@ -1,0 +1,2162 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<data>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0229.gif</Image>
+    <Korean_Name>칸의금장갑</Korean_Name>
+    <English_Name>Khan Gold Glove</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>5</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0229.gif</Image>
+    <Korean_Name>세토아의금장갑</Korean_Name>
+    <English_Name>Setoah of Gold Gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>5</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0229.gif</Image>
+    <Korean_Name>이아의금장갑</Korean_Name>
+    <English_Name>Iain Gold Gloves.</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>5</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 1, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0229.gif</Image>
+    <Korean_Name>셔스의금장갑</Korean_Name>
+    <English_Name>Precious Gold Gloves.</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>5</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0229.gif</Image>
+    <Korean_Name>메투스의금장갑</Korean_Name>
+    <English_Name>Tome Tooth Gold Gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>5</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0229.gif</Image>
+    <Korean_Name>뮤레칸의금장갑</Korean_Name>
+    <English_Name>Mu rekan Gold Glove</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>5</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 90000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0229.gif</Image>
+    <Korean_Name>축복의금장갑</Korean_Name>
+    <English_Name>Gold Gloves of Blessing</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>5</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 9000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0229.gif</Image>
+    <Korean_Name>풍요의금장갑</Korean_Name>
+    <English_Name>Abundance of Gold Gloves.</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>5</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 9000, Hit 0, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0229.gif</Image>
+    <Korean_Name>체력의금장갑</Korean_Name>
+    <English_Name>Gold Gloves Fitness</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>5</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 100, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0229.gif</Image>
+    <Korean_Name>마법의금장갑</Korean_Name>
+    <English_Name>Magic Gold Glove</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>5</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 50, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0248.gif</Image>
+    <Korean_Name>동팔찌</Korean_Name>
+    <English_Name>Copper Bracelet</English_Name>
+    <Class>무도가</Class>
+    <Circle>3</Circle>
+    <Weight>3</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0248.gif</Image>
+    <Korean_Name>세오의동팔찌</Korean_Name>
+    <English_Name>Seo copper bracelets</English_Name>
+    <Class>무도가</Class>
+    <Circle>3</Circle>
+    <Weight>3</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 1, Int 0, Wis 0, Con 0, Regeneration 5%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0248.gif</Image>
+    <Korean_Name>로오의동팔찌</Korean_Name>
+    <English_Name>Lawrence of copper bracelets</English_Name>
+    <Class>무도가</Class>
+    <Circle>3</Circle>
+    <Weight>3</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 1, Int 1, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0248.gif</Image>
+    <Korean_Name>칸의동팔찌</Korean_Name>
+    <English_Name>Khan copper bracelets</English_Name>
+    <Class>무도가</Class>
+    <Circle>3</Circle>
+    <Weight>3</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0248.gif</Image>
+    <Korean_Name>세토아의동팔찌</Korean_Name>
+    <English_Name>Setoah copper bracelets</English_Name>
+    <Class>무도가</Class>
+    <Circle>3</Circle>
+    <Weight>3</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0248.gif</Image>
+    <Korean_Name>이아의동팔찌</Korean_Name>
+    <English_Name>Iasi copper bracelets</English_Name>
+    <Class>무도가</Class>
+    <Circle>3</Circle>
+    <Weight>3</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 1, Int 0, Wis 1, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0248.gif</Image>
+    <Korean_Name>셔스의동팔찌</Korean_Name>
+    <English_Name>Precious copper bracelets</English_Name>
+    <Class>무도가</Class>
+    <Circle>3</Circle>
+    <Weight>3</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 2, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0248.gif</Image>
+    <Korean_Name>메투스의동팔찌</Korean_Name>
+    <English_Name>Tome tooth copper bracelets</English_Name>
+    <Class>무도가</Class>
+    <Circle>3</Circle>
+    <Weight>3</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 1, Int 0, Wis 0, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0248.gif</Image>
+    <Korean_Name>뮤레칸의동팔찌</Korean_Name>
+    <English_Name>Mu rekan copper bracelets</English_Name>
+    <Class>무도가</Class>
+    <Circle>3</Circle>
+    <Weight>3</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 50000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0248.gif</Image>
+    <Korean_Name>축복의동팔찌</Korean_Name>
+    <English_Name>Blessing of copper bracelets</English_Name>
+    <Class>무도가</Class>
+    <Circle>3</Circle>
+    <Weight>3</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0248.gif</Image>
+    <Korean_Name>풍요의동팔찌</Korean_Name>
+    <English_Name>Abundance of copper bracelets</English_Name>
+    <Class>무도가</Class>
+    <Circle>3</Circle>
+    <Weight>3</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 1, HP 0, MP 0, Str 0, Dex 1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0248.gif</Image>
+    <Korean_Name>체력의동팔찌</Korean_Name>
+    <English_Name>Fitness copper bracelets</English_Name>
+    <Class>무도가</Class>
+    <Circle>3</Circle>
+    <Weight>3</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 100, MP 0, Str 0, Dex 1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0248.gif</Image>
+    <Korean_Name>마법의동팔찌</Korean_Name>
+    <English_Name>Magic Copper Bracelet</English_Name>
+    <Class>무도가</Class>
+    <Circle>3</Circle>
+    <Weight>3</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 50, Str 0, Dex 1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0249.gif</Image>
+    <Korean_Name>동장갑</Korean_Name>
+    <English_Name>East Mittens</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>3</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0249.gif</Image>
+    <Korean_Name>세오의동장갑</Korean_Name>
+    <English_Name>Seo Dong's gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>3</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 5%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0249.gif</Image>
+    <Korean_Name>로오의동장갑</Korean_Name>
+    <English_Name>Lawrence East Mittens</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>3</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 1, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0249.gif</Image>
+    <Korean_Name>칸의동장갑</Korean_Name>
+    <English_Name>The glove compartment East</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>3</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0249.gif</Image>
+    <Korean_Name>세토아의동장갑</Korean_Name>
+    <English_Name>Setoah the same gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>3</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0249.gif</Image>
+    <Korean_Name>이아의동장갑</Korean_Name>
+    <English_Name>Iasi East Mittens</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>3</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 1, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0249.gif</Image>
+    <Korean_Name>셔스의동장갑</Korean_Name>
+    <English_Name>Precious East Mittens</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>3</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0249.gif</Image>
+    <Korean_Name>메투스의동장갑</Korean_Name>
+    <English_Name>Tome tooth of the same glove</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>3</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0249.gif</Image>
+    <Korean_Name>뮤레칸의동장갑</Korean_Name>
+    <English_Name>East glove Mu rekan</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>3</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 50000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0249.gif</Image>
+    <Korean_Name>축복의동장갑</Korean_Name>
+    <English_Name>Copper Gloves of Blessing</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>3</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0249.gif</Image>
+    <Korean_Name>풍요의동장갑</Korean_Name>
+    <English_Name>East gloves abundance</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>3</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0249.gif</Image>
+    <Korean_Name>체력의동장갑</Korean_Name>
+    <English_Name>Copper Gloves Fitness</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>3</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 100, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0249.gif</Image>
+    <Korean_Name>마법의동장갑</Korean_Name>
+    <English_Name>Magic Gloves East</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>3</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 50, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0910.gif</Image>
+    <Korean_Name>파워리스트</Korean_Name>
+    <English_Name>Power List</English_Name>
+    <Class>직업공용</Class>
+    <Weight>8</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 500000, Hit 1, Dam 1, HP 1000, MP -300, Str 2, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0911.gif</Image>
+    <Korean_Name>매직리스트</Korean_Name>
+    <English_Name>Magic List</English_Name>
+    <Class>직업공용</Class>
+    <Weight>6</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 500000, Hit 0, Dam 0, HP -300, MP 1000, Str 0, Dex 0, Int 0, Wis 2, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0915.gif</Image>
+    <Korean_Name>브레이사</Korean_Name>
+    <English_Name>BREDA Director</English_Name>
+    <Class>무도가</Class>
+    <Weight>8</Weight>
+    <AC>ac-8</AC>
+    <Stats>Durability 600000, Hit 0, Dam 0, HP 1500, MP -100, Str 2, Dex -3, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0955.gif</Image>
+    <Korean_Name>용팔찌</Korean_Name>
+    <English_Name>For Bracelets</English_Name>
+    <Class>무도가</Class>
+    <Weight>5</Weight>
+    <AC>ac-6</AC>
+    <Stats>Durability 500000, Hit 0, Dam 0, HP 0, MP 1000, Str 0, Dex 5, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item013/item1393.gif</Image>
+    <Korean_Name>엑셀데몬의팔찌</Korean_Name>
+    <English_Name>Bracelet Excel daemon</English_Name>
+    <Class>무도가</Class>
+    <Weight>10</Weight>
+    <AC>ac-8</AC>
+    <Stats>Durability 15600, Hit 3, Dam 3, HP 1200, MP 500, Str 1, Dex 1, Int 1, Wis 1, Con 1, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item015/item1566.gif</Image>
+    <Korean_Name>마타룸장갑</Korean_Name>
+    <English_Name>Mata room gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>3</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 40000, Hit 1, Dam 1, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item015/item1583.gif</Image>
+    <Korean_Name>베가리스트</Korean_Name>
+    <English_Name>Vega list</English_Name>
+    <Class>직업공용</Class>
+    <Weight>3</Weight>
+    <AC>ac-6</AC>
+    <Stats>Durability 500000, Hit 1, Dam 1, HP -1000, MP 0, Str 5, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item015/item1584.gif</Image>
+    <Korean_Name>쥬얼리스트</Korean_Name>
+    <English_Name>Jewel list</English_Name>
+    <Class>직업공용</Class>
+    <Weight>2</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 500000, Hit 1, Dam 1, HP -500, MP 0, Str 1, Dex 1, Int 1, Wis 1, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item015/item1586.gif</Image>
+    <Korean_Name>세오의레더글러브</Korean_Name>
+    <English_Name>Seo's Leather Gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>2</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 5%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item015/item1586.gif</Image>
+    <Korean_Name>로오의레더글러브</Korean_Name>
+    <English_Name>Lawrence's Leather Gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>2</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 1, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item015/item1586.gif</Image>
+    <Korean_Name>칸의레더글러브</Korean_Name>
+    <English_Name>Khan's Leather Gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>2</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item015/item1586.gif</Image>
+    <Korean_Name>세토아의레더글러브</Korean_Name>
+    <English_Name>Setoah of leather gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>2</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item015/item1586.gif</Image>
+    <Korean_Name>이아의레더글러브</Korean_Name>
+    <English_Name>Oia's Leather Gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>2</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 1, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item015/item1586.gif</Image>
+    <Korean_Name>셔스의레더글러브</Korean_Name>
+    <English_Name>Precious's leather gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>2</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item015/item1586.gif</Image>
+    <Korean_Name>메투스의레더글러브</Korean_Name>
+    <English_Name>Tome tooth of leather gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>2</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item015/item1586.gif</Image>
+    <Korean_Name>뮤레칸의레더글러브</Korean_Name>
+    <English_Name>Mu rekan Leather Gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>2</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 90000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item015/item1586.gif</Image>
+    <Korean_Name>축복의레더글러브</Korean_Name>
+    <English_Name>Leather Gloves of the Blessed</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>2</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 9000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item015/item1586.gif</Image>
+    <Korean_Name>풍요의레더글러브</Korean_Name>
+    <English_Name>Abundance of leather gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>2</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 9000, Hit 0, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item015/item1586.gif</Image>
+    <Korean_Name>체력의레더글러브</Korean_Name>
+    <English_Name>Strength of leather gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>2</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 200, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item015/item1586.gif</Image>
+    <Korean_Name>마법의레더글러브</Korean_Name>
+    <English_Name>Magic Leather Gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>2</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 100, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1793.gif</Image>
+    <Korean_Name>로오의금장갑R</Korean_Name>
+    <English_Name>Gold Gloves Lawrence R</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>4</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 1, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1793.gif</Image>
+    <Korean_Name>럭셔리금장갑</Korean_Name>
+    <English_Name>Luxury Gold Glove</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>5</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1794.gif</Image>
+    <Korean_Name>칸의금장갑R</Korean_Name>
+    <English_Name>Gold Glove R Khan</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>4</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1794.gif</Image>
+    <Korean_Name>럭셔리금장갑</Korean_Name>
+    <English_Name>Luxury Gold Glove</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>5</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1795.gif</Image>
+    <Korean_Name>세토아의금장갑R</Korean_Name>
+    <English_Name>Setoah the Gold Glove R</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>4</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1795.gif</Image>
+    <Korean_Name>럭셔리금장갑</Korean_Name>
+    <English_Name>Luxury Gold Glove</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>5</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1796.gif</Image>
+    <Korean_Name>이아의금장갑R</Korean_Name>
+    <English_Name>Gold Glove Oia R</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>4</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 1, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1796.gif</Image>
+    <Korean_Name>럭셔리금장갑</Korean_Name>
+    <English_Name>Luxury Gold Glove</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>5</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1797.gif</Image>
+    <Korean_Name>로오의동장갑R</Korean_Name>
+    <English_Name>East gloves Lawrence R</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 1, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1797.gif</Image>
+    <Korean_Name>럭셔리동장갑</Korean_Name>
+    <English_Name>Luxury Dong gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>3</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1798.gif</Image>
+    <Korean_Name>칸의동장갑R</Korean_Name>
+    <English_Name>East glove compartment of R</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1798.gif</Image>
+    <Korean_Name>럭셔리동장갑</Korean_Name>
+    <English_Name>Luxury Dong gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>3</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1799.gif</Image>
+    <Korean_Name>세토아의동장갑R</Korean_Name>
+    <English_Name>East gloves setoah R</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1799.gif</Image>
+    <Korean_Name>럭셔리동장갑</Korean_Name>
+    <English_Name>Luxury Dong gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>3</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1800.gif</Image>
+    <Korean_Name>이아의동장갑R</Korean_Name>
+    <English_Name>East gloves Iasi R</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>2</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 1, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1800.gif</Image>
+    <Korean_Name>럭셔리동장갑</Korean_Name>
+    <English_Name>Luxury Dong gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>3</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1801.gif</Image>
+    <Korean_Name>로오의가죽장갑R</Korean_Name>
+    <English_Name>Lawrence's leather gloves R</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac-1</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 1, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1801.gif</Image>
+    <Korean_Name>럭셔리가죽장갑</Korean_Name>
+    <English_Name>Luxury leather gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>2</Weight>
+    <AC>ac-1</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1802.gif</Image>
+    <Korean_Name>칸의가죽장갑R</Korean_Name>
+    <English_Name>Khan's Gloves R</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac-1</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1802.gif</Image>
+    <Korean_Name>럭셔리가죽장갑</Korean_Name>
+    <English_Name>Luxury leather gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>2</Weight>
+    <AC>ac-1</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1803.gif</Image>
+    <Korean_Name>세토아의가죽장갑R</Korean_Name>
+    <English_Name>Setoah of leather gloves R</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac-1</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1803.gif</Image>
+    <Korean_Name>럭셔리가죽장갑</Korean_Name>
+    <English_Name>Luxury leather gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>2</Weight>
+    <AC>ac-1</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1804.gif</Image>
+    <Korean_Name>이아의가죽장갑R</Korean_Name>
+    <English_Name>Oia Leather gloves R</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac-1</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 1, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1804.gif</Image>
+    <Korean_Name>럭셔리가죽장갑</Korean_Name>
+    <English_Name>Luxury leather gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>2</Weight>
+    <AC>ac-1</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1805.gif</Image>
+    <Korean_Name>로오의은장갑R</Korean_Name>
+    <English_Name>Lawrence gloves metaphor R</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>3</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 7000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 1, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1805.gif</Image>
+    <Korean_Name>럭셔리은장갑</Korean_Name>
+    <English_Name>Reoksyeorieun gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 7000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1806.gif</Image>
+    <Korean_Name>칸의은장갑R</Korean_Name>
+    <English_Name>Space saver Gloves R</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>3</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 7000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1806.gif</Image>
+    <Korean_Name>럭셔리은장갑</Korean_Name>
+    <English_Name>Reoksyeorieun gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 7000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1807.gif</Image>
+    <Korean_Name>세토아의은장갑R</Korean_Name>
+    <English_Name>Setoah gloves metaphor R</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>3</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 7000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1807.gif</Image>
+    <Korean_Name>럭셔리은장갑</Korean_Name>
+    <English_Name>Reoksyeorieun gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 7000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1808.gif</Image>
+    <Korean_Name>이아의은장갑R</Korean_Name>
+    <English_Name>Iain R metaphor gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>3</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 7000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 1, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1808.gif</Image>
+    <Korean_Name>럭셔리은장갑</Korean_Name>
+    <English_Name>Reoksyeorieun gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 7000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1809.gif</Image>
+    <Korean_Name>럭셔리은장갑</Korean_Name>
+    <English_Name>Reoksyeorieun gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 7000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1809.gif</Image>
+    <Korean_Name>버팔로가죽장갑</Korean_Name>
+    <English_Name>Buffalo leather gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>4</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1809.gif</Image>
+    <Korean_Name>버팔로가죽장갑(hp+1)</Korean_Name>
+    <English_Name>Buffalo leather gloves (hp + 1)</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>4</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 100, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1809.gif</Image>
+    <Korean_Name>버팔로가죽장갑(mp+1)</Korean_Name>
+    <English_Name>Buffalo leather gloves (mp + 1)</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>4</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 100, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1809.gif</Image>
+    <Korean_Name>버팔로가죽장갑(str+1)</Korean_Name>
+    <English_Name>Buffalo leather gloves (str + 1)</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>4</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1809.gif</Image>
+    <Korean_Name>버팔로가죽장갑(md+1)</Korean_Name>
+    <English_Name>Buffalo leather gloves (md + 1)</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>4</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1809.gif</Image>
+    <Korean_Name>버팔로가죽장갑(ac+1)</Korean_Name>
+    <English_Name>Buffalo leather gloves (ac + 1)</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>4</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1809.gif</Image>
+    <Korean_Name>버팔로가죽장갑(ac+2)</Korean_Name>
+    <English_Name>Buffalo leather gloves (ac + 2)</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>4</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1809.gif</Image>
+    <Korean_Name>버팔로가죽장갑(ac+3)</Korean_Name>
+    <English_Name>Buffalo leather gloves (ac + 3)</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>4</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1809.gif</Image>
+    <Korean_Name>버팔로가죽장갑(ac+4)</Korean_Name>
+    <English_Name>Buffalo leather gloves (ac + 4)</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>4</Weight>
+    <AC>ac-6</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1809.gif</Image>
+    <Korean_Name>버팔로가죽장갑(Sp1)</Korean_Name>
+    <English_Name>Buffalo leather gloves (Sp1)</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>4</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1809.gif</Image>
+    <Korean_Name>버팔로가죽장갑(Sp2)</Korean_Name>
+    <English_Name>Buffalo leather gloves (Sp2)</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>4</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1809.gif</Image>
+    <Korean_Name>버팔로가죽장갑(hp+2)</Korean_Name>
+    <English_Name>Buffalo leather gloves (hp + 2)</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>4</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 200, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1809.gif</Image>
+    <Korean_Name>버팔로가죽장갑(Sp3)</Korean_Name>
+    <English_Name>Buffalo leather gloves (Sp3)</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>4</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 100, MP 100, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1809.gif</Image>
+    <Korean_Name>버팔로가죽장갑(mp+2)</Korean_Name>
+    <English_Name>Buffalo leather gloves (mp + 2)</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>4</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 200, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1809.gif</Image>
+    <Korean_Name>버팔로가죽장갑(Sp4)</Korean_Name>
+    <English_Name>Buffalo leather gloves (Sp4)</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>4</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 100, MP 100, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1810.gif</Image>
+    <Korean_Name>표범가죽장갑</Korean_Name>
+    <English_Name>Leopard Leather Gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1810.gif</Image>
+    <Korean_Name>표범가죽장갑(hp+1)</Korean_Name>
+    <English_Name>Leopard Leather Gloves (hp + 1)</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 100, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1810.gif</Image>
+    <Korean_Name>표범가죽장갑(mp+1)</Korean_Name>
+    <English_Name>Leopard Leather Gloves (mp + 1)</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 100, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1810.gif</Image>
+    <Korean_Name>표범가죽장갑(str+1)</Korean_Name>
+    <English_Name>Leopard Leather Gloves (str + 1)</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1810.gif</Image>
+    <Korean_Name>표범가죽장갑(md+1)</Korean_Name>
+    <English_Name>Leopard Leather Gloves (md + 1)</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1810.gif</Image>
+    <Korean_Name>표범가죽장갑(ac+1)</Korean_Name>
+    <English_Name>Leopard Leather Gloves (ac + 1)</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1810.gif</Image>
+    <Korean_Name>표범가죽장갑(ac+2)</Korean_Name>
+    <English_Name>Leopard Leather Gloves (ac + 2)</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1810.gif</Image>
+    <Korean_Name>표범가죽장갑(ac+3)</Korean_Name>
+    <English_Name>Leopard Leather Gloves (ac + 3)</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-6</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1810.gif</Image>
+    <Korean_Name>표범가죽장갑(ac+4)</Korean_Name>
+    <English_Name>Leopard Leather Gloves (ac + 4)</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-7</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1810.gif</Image>
+    <Korean_Name>표범가죽장갑(Sp1)</Korean_Name>
+    <English_Name>Leopard Leather Gloves (Sp1)</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1810.gif</Image>
+    <Korean_Name>표범가죽장갑(Sp2)</Korean_Name>
+    <English_Name>Leopard Leather Gloves (Sp2)</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1810.gif</Image>
+    <Korean_Name>표범가죽장갑(hp+2)</Korean_Name>
+    <English_Name>Leopard Leather Gloves (hp + 2)</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 200, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1810.gif</Image>
+    <Korean_Name>표범가죽장갑(Sp3)</Korean_Name>
+    <English_Name>Leopard Leather Gloves (Sp3)</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 100, MP 100, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1810.gif</Image>
+    <Korean_Name>표범가죽장갑(mp+2)</Korean_Name>
+    <English_Name>Leopard Leather Gloves (mp + 2)</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 200, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1810.gif</Image>
+    <Korean_Name>표범가죽장갑(Sp4)</Korean_Name>
+    <English_Name>Leopard Leather Gloves (Sp4)</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 100, MP 100, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1811.gif</Image>
+    <Korean_Name>쥼글러브</Korean_Name>
+    <English_Name>Jyum Gloves</English_Name>
+    <Class>직업공용</Class>
+    <Weight>4</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1811.gif</Image>
+    <Korean_Name>쥼글러브(hp+1)</Korean_Name>
+    <English_Name>Jyum glove (hp + 1)</English_Name>
+    <Class>직업공용</Class>
+    <Weight>4</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 100, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1811.gif</Image>
+    <Korean_Name>쥼글러브(mp+1)</Korean_Name>
+    <English_Name>Jyum glove (mp + 1)</English_Name>
+    <Class>직업공용</Class>
+    <Weight>4</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 100, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1811.gif</Image>
+    <Korean_Name>쥼글러브(str+1)</Korean_Name>
+    <English_Name>Jyum glove (str + 1)</English_Name>
+    <Class>직업공용</Class>
+    <Weight>4</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1811.gif</Image>
+    <Korean_Name>쥼글러브(md+1)</Korean_Name>
+    <English_Name>Jyum glove (md + 1)</English_Name>
+    <Class>직업공용</Class>
+    <Weight>4</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1811.gif</Image>
+    <Korean_Name>쥼글러브(ac+1)</Korean_Name>
+    <English_Name>Jyum glove (ac + 1)</English_Name>
+    <Class>직업공용</Class>
+    <Weight>4</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1811.gif</Image>
+    <Korean_Name>쥼글러브(ac+2)</Korean_Name>
+    <English_Name>Jyum glove (ac + 2)</English_Name>
+    <Class>직업공용</Class>
+    <Weight>4</Weight>
+    <AC>ac-6</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1811.gif</Image>
+    <Korean_Name>쥼글러브(ac+3)</Korean_Name>
+    <English_Name>Jyum glove (ac + 3)</English_Name>
+    <Class>직업공용</Class>
+    <Weight>4</Weight>
+    <AC>ac-7</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1811.gif</Image>
+    <Korean_Name>쥼글러브(ac+4)</Korean_Name>
+    <English_Name>Jyum glove (ac + 4)</English_Name>
+    <Class>직업공용</Class>
+    <Weight>4</Weight>
+    <AC>ac-8</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1811.gif</Image>
+    <Korean_Name>쥼글러브(Sp1)</Korean_Name>
+    <English_Name>Jyum Gloves (Sp1)</English_Name>
+    <Class>직업공용</Class>
+    <Weight>4</Weight>
+    <AC>ac-6</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1811.gif</Image>
+    <Korean_Name>쥼글러브(Sp2)</Korean_Name>
+    <English_Name>Jyum Gloves (Sp2)</English_Name>
+    <Class>직업공용</Class>
+    <Weight>4</Weight>
+    <AC>ac-6</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1811.gif</Image>
+    <Korean_Name>쥼글러브(hp+2)</Korean_Name>
+    <English_Name>Jyum glove (hp + 2)</English_Name>
+    <Class>직업공용</Class>
+    <Weight>4</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 200, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1811.gif</Image>
+    <Korean_Name>쥼글러브(Sp3)</Korean_Name>
+    <English_Name>Jyum Gloves (Sp3)</English_Name>
+    <Class>직업공용</Class>
+    <Weight>4</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 100, MP 100, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1811.gif</Image>
+    <Korean_Name>쥼글러브(mp+2)</Korean_Name>
+    <English_Name>Jyum glove (mp + 2)</English_Name>
+    <Class>직업공용</Class>
+    <Weight>4</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 200, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1811.gif</Image>
+    <Korean_Name>쥼글러브(Sp4)</Korean_Name>
+    <English_Name>Jyum Gloves (Sp4)</English_Name>
+    <Class>직업공용</Class>
+    <Weight>4</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 100, MP 100, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1812.gif</Image>
+    <Korean_Name>브론즈네일</Korean_Name>
+    <English_Name>Bronze four days</English_Name>
+    <Class>무도가</Class>
+    <Circle>3</Circle>
+    <Weight>4</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1812.gif</Image>
+    <Korean_Name>브론즈네일(hp+1)</Korean_Name>
+    <English_Name>Bronze four days (hp + 1)</English_Name>
+    <Class>무도가</Class>
+    <Circle>3</Circle>
+    <Weight>4</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 100, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1812.gif</Image>
+    <Korean_Name>브론즈네일(mp+1)</Korean_Name>
+    <English_Name>Bronze four days (mp + 1)</English_Name>
+    <Class>무도가</Class>
+    <Circle>3</Circle>
+    <Weight>4</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 100, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1812.gif</Image>
+    <Korean_Name>브론즈네일(str+1)</Korean_Name>
+    <English_Name>Bronze four days (str + 1)</English_Name>
+    <Class>무도가</Class>
+    <Circle>3</Circle>
+    <Weight>4</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1812.gif</Image>
+    <Korean_Name>브론즈네일(md+1)</Korean_Name>
+    <English_Name>Bronze four days (md + 1)</English_Name>
+    <Class>무도가</Class>
+    <Circle>3</Circle>
+    <Weight>4</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1812.gif</Image>
+    <Korean_Name>브론즈네일(ac+1)</Korean_Name>
+    <English_Name>Bronze four days (ac + 1)</English_Name>
+    <Class>무도가</Class>
+    <Circle>3</Circle>
+    <Weight>4</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1812.gif</Image>
+    <Korean_Name>브론즈네일(ac+2)</Korean_Name>
+    <English_Name>Bronze four days (ac + 2)</English_Name>
+    <Class>무도가</Class>
+    <Circle>3</Circle>
+    <Weight>4</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1812.gif</Image>
+    <Korean_Name>브론즈네일(ac+3)</Korean_Name>
+    <English_Name>Bronze four days (ac + 3)</English_Name>
+    <Class>무도가</Class>
+    <Circle>3</Circle>
+    <Weight>4</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1812.gif</Image>
+    <Korean_Name>브론즈네일(ac+4)</Korean_Name>
+    <English_Name>Bronze four days (ac + 4)</English_Name>
+    <Class>무도가</Class>
+    <Circle>3</Circle>
+    <Weight>4</Weight>
+    <AC>ac-6</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1812.gif</Image>
+    <Korean_Name>브론즈네일(Sp1)</Korean_Name>
+    <English_Name>Bronze four days (Sp1)</English_Name>
+    <Class>무도가</Class>
+    <Circle>3</Circle>
+    <Weight>4</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1812.gif</Image>
+    <Korean_Name>브론즈네일(Sp2)</Korean_Name>
+    <English_Name>Bronze four days (Sp2)</English_Name>
+    <Class>무도가</Class>
+    <Circle>3</Circle>
+    <Weight>4</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1812.gif</Image>
+    <Korean_Name>브론즈네일(hp+2)</Korean_Name>
+    <English_Name>Bronze four days (hp + 2)</English_Name>
+    <Class>무도가</Class>
+    <Circle>3</Circle>
+    <Weight>4</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 200, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1812.gif</Image>
+    <Korean_Name>브론즈네일(Sp3)</Korean_Name>
+    <English_Name>Bronze four days (Sp3)</English_Name>
+    <Class>무도가</Class>
+    <Circle>3</Circle>
+    <Weight>4</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 100, MP 100, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1812.gif</Image>
+    <Korean_Name>브론즈네일(mp+2)</Korean_Name>
+    <English_Name>Bronze four days (mp + 2)</English_Name>
+    <Class>무도가</Class>
+    <Circle>3</Circle>
+    <Weight>4</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 200, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1812.gif</Image>
+    <Korean_Name>브론즈네일(Sp4)</Korean_Name>
+    <English_Name>Bronze four days (Sp4)</English_Name>
+    <Class>무도가</Class>
+    <Circle>3</Circle>
+    <Weight>4</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 100, MP 100, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1813.gif</Image>
+    <Korean_Name>실버네일</Korean_Name>
+    <English_Name>Silver four days</English_Name>
+    <Class>무도가</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1813.gif</Image>
+    <Korean_Name>실버네일(hp+1)</Korean_Name>
+    <English_Name>Silver four days (hp + 1)</English_Name>
+    <Class>무도가</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 100, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1813.gif</Image>
+    <Korean_Name>실버네일(mp+1)</Korean_Name>
+    <English_Name>Silver four days (mp + 1)</English_Name>
+    <Class>무도가</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 100, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1813.gif</Image>
+    <Korean_Name>실버네일(str+1)</Korean_Name>
+    <English_Name>Silver four days (str + 1)</English_Name>
+    <Class>무도가</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1813.gif</Image>
+    <Korean_Name>실버네일(md+1)</Korean_Name>
+    <English_Name>Silver four days (md + 1)</English_Name>
+    <Class>무도가</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1813.gif</Image>
+    <Korean_Name>실버네일(ac+1)</Korean_Name>
+    <English_Name>Silver four days (ac + 1)</English_Name>
+    <Class>무도가</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1813.gif</Image>
+    <Korean_Name>실버네일(ac+2)</Korean_Name>
+    <English_Name>Silver four days (ac + 2)</English_Name>
+    <Class>무도가</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1813.gif</Image>
+    <Korean_Name>실버네일(ac+3)</Korean_Name>
+    <English_Name>Silver four days (ac + 3)</English_Name>
+    <Class>무도가</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-6</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1813.gif</Image>
+    <Korean_Name>실버네일(ac+4)</Korean_Name>
+    <English_Name>Silver four days (ac + 4)</English_Name>
+    <Class>무도가</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-7</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1813.gif</Image>
+    <Korean_Name>실버네일(Sp1)</Korean_Name>
+    <English_Name>Silver four days (Sp1)</English_Name>
+    <Class>무도가</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1813.gif</Image>
+    <Korean_Name>실버네일(Sp2)</Korean_Name>
+    <English_Name>Silver four days (Sp2)</English_Name>
+    <Class>무도가</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1813.gif</Image>
+    <Korean_Name>실버네일(hp+2)</Korean_Name>
+    <English_Name>Silver four days (hp + 2)</English_Name>
+    <Class>무도가</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 200, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1813.gif</Image>
+    <Korean_Name>실버네일(Sp3)</Korean_Name>
+    <English_Name>Silver four days (Sp3)</English_Name>
+    <Class>무도가</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 100, MP 100, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1813.gif</Image>
+    <Korean_Name>실버네일(mp+2)</Korean_Name>
+    <English_Name>Silver four days (mp + 2)</English_Name>
+    <Class>무도가</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 200, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1813.gif</Image>
+    <Korean_Name>실버네일(Sp4)</Korean_Name>
+    <English_Name>Silver four days (Sp4)</English_Name>
+    <Class>무도가</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 100, MP 100, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1814.gif</Image>
+    <Korean_Name>골드네일</Korean_Name>
+    <English_Name>Gold four days</English_Name>
+    <Class>무도가</Class>
+    <Weight>4</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1814.gif</Image>
+    <Korean_Name>골드네일(hp+1)</Korean_Name>
+    <English_Name>Gold four days (hp + 1)</English_Name>
+    <Class>무도가</Class>
+    <Weight>4</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 100, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1814.gif</Image>
+    <Korean_Name>골드네일(mp+1)</Korean_Name>
+    <English_Name>Gold four days (mp + 1)</English_Name>
+    <Class>무도가</Class>
+    <Weight>4</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 100, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1814.gif</Image>
+    <Korean_Name>골드네일(str+1)</Korean_Name>
+    <English_Name>Gold four days (str + 1)</English_Name>
+    <Class>무도가</Class>
+    <Weight>4</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1814.gif</Image>
+    <Korean_Name>골드네일(md+1)</Korean_Name>
+    <English_Name>Gold four days (md + 1)</English_Name>
+    <Class>무도가</Class>
+    <Weight>4</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1814.gif</Image>
+    <Korean_Name>골드네일(ac+1)</Korean_Name>
+    <English_Name>Gold four days (ac + 1)</English_Name>
+    <Class>무도가</Class>
+    <Weight>4</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1814.gif</Image>
+    <Korean_Name>골드네일(ac+2)</Korean_Name>
+    <English_Name>Gold four days (ac + 2)</English_Name>
+    <Class>무도가</Class>
+    <Weight>4</Weight>
+    <AC>ac-6</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1814.gif</Image>
+    <Korean_Name>골드네일(ac+3)</Korean_Name>
+    <English_Name>Gold four days (ac + 3)</English_Name>
+    <Class>무도가</Class>
+    <Weight>4</Weight>
+    <AC>ac-7</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1814.gif</Image>
+    <Korean_Name>골드네일(ac+4)</Korean_Name>
+    <English_Name>Gold four days (ac + 4)</English_Name>
+    <Class>무도가</Class>
+    <Weight>4</Weight>
+    <AC>ac-8</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1814.gif</Image>
+    <Korean_Name>골드네일(Sp1)</Korean_Name>
+    <English_Name>Gold four days (Sp1)</English_Name>
+    <Class>무도가</Class>
+    <Weight>4</Weight>
+    <AC>ac-6</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1814.gif</Image>
+    <Korean_Name>골드네일(Sp2)</Korean_Name>
+    <English_Name>Gold four days (Sp2)</English_Name>
+    <Class>무도가</Class>
+    <Weight>4</Weight>
+    <AC>ac-6</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1814.gif</Image>
+    <Korean_Name>골드네일(hp+2)</Korean_Name>
+    <English_Name>Gold four days (hp + 2)</English_Name>
+    <Class>무도가</Class>
+    <Weight>4</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 200, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1814.gif</Image>
+    <Korean_Name>골드네일(Sp3)</Korean_Name>
+    <English_Name>Gold four days (Sp3)</English_Name>
+    <Class>무도가</Class>
+    <Weight>4</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 100, MP 100, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1814.gif</Image>
+    <Korean_Name>골드네일(mp+2)</Korean_Name>
+    <English_Name>Gold four days (mp + 2)</English_Name>
+    <Class>무도가</Class>
+    <Weight>4</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 200, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1814.gif</Image>
+    <Korean_Name>골드네일(Sp4)</Korean_Name>
+    <English_Name>Gold four days (Sp4)</English_Name>
+    <Class>무도가</Class>
+    <Weight>4</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 100, MP 100, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1816.gif</Image>
+    <Korean_Name>세오의고무장갑</Korean_Name>
+    <English_Name>Seo rubber gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>5</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 5%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1816.gif</Image>
+    <Korean_Name>로오의고무장갑</Korean_Name>
+    <English_Name>Lawrence of rubber gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>5</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 1, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1816.gif</Image>
+    <Korean_Name>칸의고무장갑</Korean_Name>
+    <English_Name>Khan rubber gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>5</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1816.gif</Image>
+    <Korean_Name>세토아의고무장갑</Korean_Name>
+    <English_Name>Setoah of rubber gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>5</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1816.gif</Image>
+    <Korean_Name>이아의고무장갑</Korean_Name>
+    <English_Name>Iain rubber gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>5</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 1, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1816.gif</Image>
+    <Korean_Name>셔스의고무장갑</Korean_Name>
+    <English_Name>Precious rubber gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>5</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1816.gif</Image>
+    <Korean_Name>메투스의고무장갑</Korean_Name>
+    <English_Name>Tome tooth rubber gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>5</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1816.gif</Image>
+    <Korean_Name>뮤레칸의고무장갑</Korean_Name>
+    <English_Name>Mu rekan of rubber gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>5</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 90000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1816.gif</Image>
+    <Korean_Name>축복의고무장갑</Korean_Name>
+    <English_Name>Rubber gloves of blessing</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>5</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 9000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1816.gif</Image>
+    <Korean_Name>풍요의고무장갑</Korean_Name>
+    <English_Name>Rubber gloves abundance</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>5</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 9000, Hit 0, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1816.gif</Image>
+    <Korean_Name>체력의고무장갑</Korean_Name>
+    <English_Name>Rubber gloves for fitness</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>5</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 200, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1816.gif</Image>
+    <Korean_Name>마법의고무장갑</Korean_Name>
+    <English_Name>Magic Rubber gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>5</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 100, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1837.gif</Image>
+    <Korean_Name>산호석팔찌</Korean_Name>
+    <English_Name>Sanhoseok Bracelet</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 7000, Hit 1, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2046.gif</Image>
+    <Korean_Name>미네르바반브레스</Korean_Name>
+    <English_Name>Minerva semi-Bresse</English_Name>
+    <Class>직업공용</Class>
+    <Weight>10</Weight>
+    <AC>ac-10</AC>
+    <Stats>Durability 50000, Hit 5, Dam 3, HP -600, MP -800, Str 1, Dex 1, Int 1, Wis 1, Con 1, Regeneration 10%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2060.gif</Image>
+    <Korean_Name>쥬노아겐트리트</Korean_Name>
+    <English_Name>Jeu Gen Noah Treatment</English_Name>
+    <Class>직업공용</Class>
+    <Weight>10</Weight>
+    <AC>ac-6</AC>
+    <Stats>Durability 50000, Hit 3, Dam 3, HP 1200, MP -600, Str -1, Dex -1, Int -1, Wis -1, Con -1, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2235.gif</Image>
+    <Korean_Name>미네르바브레이스</Korean_Name>
+    <English_Name>Minerva brace</English_Name>
+    <Class>무도가</Class>
+    <Weight>10</Weight>
+    <AC>ac-10</AC>
+    <Stats>Durability 50000, Hit 5, Dam 3, HP -600, MP -800, Str 1, Dex 1, Int 1, Wis 1, Con 1, Regeneration 10%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2236.gif</Image>
+    <Korean_Name>쥬노아브레이스</Korean_Name>
+    <English_Name>Juneau Havre Race</English_Name>
+    <Class>무도가</Class>
+    <Weight>10</Weight>
+    <AC>ac-6</AC>
+    <Stats>Durability 50000, Hit 3, Dam 3, HP 1200, MP -600, Str -1, Dex -1, Int -1, Wis -1, Con -1, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item024/item2401.gif</Image>
+    <Korean_Name>상어가죽팔찌</Korean_Name>
+    <English_Name>Shark leather bracelet</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>3</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 1, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item024/item2403.gif</Image>
+    <Korean_Name>아쿠아글러브</Korean_Name>
+    <English_Name>Aqua Gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>3</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 5000, Hit 1, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item024/item2404.gif</Image>
+    <Korean_Name>아쿠아레더글러브</Korean_Name>
+    <English_Name>Aqua Leather Gloves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>4</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 7000, Hit 1, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item031/item3194.gif</Image>
+    <Korean_Name>네비리스트</Korean_Name>
+    <English_Name>Navigation list</English_Name>
+    <Class>직업공용</Class>
+    <Weight>4</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 15000, Hit 0, Dam 0, HP 800, MP 500, Str 1, Dex 1, Int 1, Wis 1, Con 1, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+</data>
+

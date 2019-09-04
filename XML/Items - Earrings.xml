@@ -1,0 +1,961 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<data>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0230.gif</Image>
+    <Korean_Name>쌍은귀걸이</Korean_Name>
+    <English_Name>Pair of earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0230.gif</Image>
+    <Korean_Name>세오의쌍은귀걸이</Korean_Name>
+    <English_Name>Seo pair of earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration  5%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0230.gif</Image>
+    <Korean_Name>로오의쌍은귀걸이</Korean_Name>
+    <English_Name>Lawrence is a pair of earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 1, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0230.gif</Image>
+    <Korean_Name>칸의쌍은귀걸이</Korean_Name>
+    <English_Name>A pair of earrings Khan</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration  0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0230.gif</Image>
+    <Korean_Name>세토아의쌍은귀걸이</Korean_Name>
+    <English_Name>Setoah pair of earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 0, MP 0, Str 2, Dex 0, Int 0, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0230.gif</Image>
+    <Korean_Name>이아의쌍은귀걸이</Korean_Name>
+    <English_Name>Iasi is a pair of earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 1, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0230.gif</Image>
+    <Korean_Name>셔스의쌍은귀걸이</Korean_Name>
+    <English_Name>Precious pair of earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 1, Int 0, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0230.gif</Image>
+    <Korean_Name>메투스의쌍은귀걸이</Korean_Name>
+    <English_Name>A pair of earrings tooth-mail</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 1, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0230.gif</Image>
+    <Korean_Name>뮤레칸의쌍은귀걸이</Korean_Name>
+    <English_Name>Mu rekan pair of earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  10000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0230.gif</Image>
+    <Korean_Name>축복의쌍은귀걸이</Korean_Name>
+    <English_Name>Blessing a pair of earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 5, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0230.gif</Image>
+    <Korean_Name>풍요의쌍은귀걸이</Korean_Name>
+    <English_Name>A pair of earrings abundance</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 1, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0230.gif</Image>
+    <Korean_Name>체력의쌍은귀걸이</Korean_Name>
+    <English_Name>A pair of earrings fitness</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 100, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0230.gif</Image>
+    <Korean_Name>마법의쌍은귀걸이</Korean_Name>
+    <English_Name>Magical pair earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 0, MP 50, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0230.gif</Image>
+    <Korean_Name>은귀걸이</Korean_Name>
+    <English_Name>Earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 1, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0231.gif</Image>
+    <Korean_Name>쌍금귀걸이</Korean_Name>
+    <English_Name>Ssanggeum earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  2000, Hit 0, Dam 0, HP 0, MP 0, Str 2, Dex 0, Int 0, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0231.gif</Image>
+    <Korean_Name>세오의쌍금귀걸이</Korean_Name>
+    <English_Name>Seo ssanggeum of earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  2000, Hit 0, Dam 0, HP 0, MP 0, Str 2, Dex 0, Int 0, Wis 0, Con 0, Regeneration  5%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0231.gif</Image>
+    <Korean_Name>로오의쌍금귀걸이</Korean_Name>
+    <English_Name>Lawrence of ssanggeum earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  2000, Hit 0, Dam 0, HP 0, MP 0, Str 2, Dex 0, Int 1, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0231.gif</Image>
+    <Korean_Name>칸의쌍금귀걸이</Korean_Name>
+    <English_Name>Ssanggeum Khan earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  2000, Hit 0, Dam 0, HP 0, MP 0, Str 2, Dex 0, Int 0, Wis 0, Con 0, Regeneration  0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0231.gif</Image>
+    <Korean_Name>세토아의쌍금귀걸이</Korean_Name>
+    <English_Name>Setoah ssanggeum earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  2000, Hit 0, Dam 0, HP 0, MP 0, Str 3, Dex 0, Int 0, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0231.gif</Image>
+    <Korean_Name>이아의쌍금귀걸이</Korean_Name>
+    <English_Name>Oia's ssanggeum earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  2000, Hit 0, Dam 0, HP 0, MP 0, Str 2, Dex 0, Int 0, Wis 1, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0231.gif</Image>
+    <Korean_Name>셔스의쌍금귀걸이</Korean_Name>
+    <English_Name>Earrings of the Precious ssanggeum</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  2000, Hit 0, Dam 0, HP 0, MP 0, Str 2, Dex 1, Int 0, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0231.gif</Image>
+    <Korean_Name>메투스의쌍금귀걸이</Korean_Name>
+    <English_Name>Ssanggeum earrings Tome Tooth</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  2000, Hit 0, Dam 0, HP 0, MP 0, Str 2, Dex 0, Int 0, Wis 0, Con 1, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0231.gif</Image>
+    <Korean_Name>뮤레칸의쌍금귀걸이</Korean_Name>
+    <English_Name>Ssanggeum earrings Mu rekan</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  20000, Hit 0, Dam 0, HP 0, MP 0, Str 2, Dex 0, Int 0, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0231.gif</Image>
+    <Korean_Name>축복의쌍금귀걸이</Korean_Name>
+    <English_Name>Ssanggeum earrings blessings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  2000, Hit 5, Dam 0, HP 0, MP 0, Str 2, Dex 0, Int 0, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0231.gif</Image>
+    <Korean_Name>풍요의쌍금귀걸이</Korean_Name>
+    <English_Name>Ssanggeum earrings abundance</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  2000, Hit 0, Dam 1, HP 0, MP 0, Str 2, Dex 0, Int 0, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0231.gif</Image>
+    <Korean_Name>체력의쌍금귀걸이</Korean_Name>
+    <English_Name>Ssanggeum earrings fitness</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  2000, Hit 0, Dam 0, HP 100, MP 0, Str 2, Dex 0, Int 0, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0231.gif</Image>
+    <Korean_Name>마법의쌍금귀걸이</Korean_Name>
+    <English_Name>Magic ssanggeum earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  2000, Hit 0, Dam 0, HP 0, MP 50, Str 2, Dex 0, Int 0, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0231.gif</Image>
+    <Korean_Name>세토아의쌍금귀걸이</Korean_Name>
+    <English_Name>Setoah ssanggeum earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  2000, Hit 0, Dam 0, HP 0, MP 0, Str 3, Dex 0, Int 0, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0232.gif</Image>
+    <Korean_Name>순옥귀걸이</Korean_Name>
+    <English_Name>Sunok earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 1, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0232.gif</Image>
+    <Korean_Name>세오의순옥귀걸이</Korean_Name>
+    <English_Name>Seo sunok of earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 1, Wis 0, Con 0, Regeneration  5%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0232.gif</Image>
+    <Korean_Name>로오의순옥귀걸이</Korean_Name>
+    <English_Name>Lawrence of sunok earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 2, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0232.gif</Image>
+    <Korean_Name>칸의순옥귀걸이</Korean_Name>
+    <English_Name>Sunok Khan earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 1, Wis 0, Con 0, Regeneration  0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0232.gif</Image>
+    <Korean_Name>세토아의순옥귀걸이</Korean_Name>
+    <English_Name>Setoah sunok earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 1, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0232.gif</Image>
+    <Korean_Name>이아의순옥귀걸이</Korean_Name>
+    <English_Name>Oia's sunok earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 1, Wis 1, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0232.gif</Image>
+    <Korean_Name>셔스의순옥귀걸이</Korean_Name>
+    <English_Name>Earrings of the Precious sunok</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 1, Int 1, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0232.gif</Image>
+    <Korean_Name>메투스의순옥귀걸이</Korean_Name>
+    <English_Name>Sunok earrings Tome Tooth</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 1, Wis 0, Con 1, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0232.gif</Image>
+    <Korean_Name>뮤레칸의순옥귀걸이</Korean_Name>
+    <English_Name>Sunok earrings Mu rekan</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  10000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 1, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0232.gif</Image>
+    <Korean_Name>축복의순옥귀걸이</Korean_Name>
+    <English_Name>Sunok earrings blessings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 1, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0232.gif</Image>
+    <Korean_Name>풍요의순옥귀걸이</Korean_Name>
+    <English_Name>Sunok earrings abundance</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 1, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0232.gif</Image>
+    <Korean_Name>체력의순옥귀걸이</Korean_Name>
+    <English_Name>Sunok earrings fitness</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 100, MP 0, Str 0, Dex 0, Int 1, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0232.gif</Image>
+    <Korean_Name>마법의순옥귀걸이</Korean_Name>
+    <English_Name>Magic sunok earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 0, MP 50, Str 0, Dex 0, Int 1, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0232.gif</Image>
+    <Korean_Name>진주귀걸이</Korean_Name>
+    <English_Name>Pearl Earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 0, MP 200, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0233.gif</Image>
+    <Korean_Name>루비귀걸이</Korean_Name>
+    <English_Name>Ruby Earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 1, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0233.gif</Image>
+    <Korean_Name>세오의루비귀걸이</Korean_Name>
+    <English_Name>Ruby earrings Seo</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 1, Wis 0, Con 0, Regeneration  5%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0233.gif</Image>
+    <Korean_Name>로오의루비귀걸이</Korean_Name>
+    <English_Name>Ruby earrings Lawrence</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 2, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0233.gif</Image>
+    <Korean_Name>칸의루비귀걸이</Korean_Name>
+    <English_Name>Khan's Ruby Earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 1, Wis 0, Con 0, Regeneration  0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0233.gif</Image>
+    <Korean_Name>세토아의루비귀걸이</Korean_Name>
+    <English_Name>Setoah of ruby ​​earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 0, MP 0, Str 2, Dex 0, Int 1, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0233.gif</Image>
+    <Korean_Name>이아의루비귀걸이</Korean_Name>
+    <English_Name>Ruby earrings Iasi</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 1, Wis 1, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0233.gif</Image>
+    <Korean_Name>셔스의루비귀걸이</Korean_Name>
+    <English_Name>Precious Ruby Earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 1, Int 1, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0233.gif</Image>
+    <Korean_Name>메투스의루비귀걸이</Korean_Name>
+    <English_Name>Ruby earrings Tome Tooth</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 1, Wis 0, Con 1, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0233.gif</Image>
+    <Korean_Name>뮤레칸의루비귀걸이</Korean_Name>
+    <English_Name>Ruby earrings Mu rekan</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  10000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 1, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0233.gif</Image>
+    <Korean_Name>축복의루비귀걸이</Korean_Name>
+    <English_Name>Ruby earrings blessings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 5, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 1, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0233.gif</Image>
+    <Korean_Name>풍요의루비귀걸이</Korean_Name>
+    <English_Name>Ruby earrings of abundance</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 1, HP 0, MP 0, Str 1, Dex 0, Int 1, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0233.gif</Image>
+    <Korean_Name>체력의루비귀걸이</Korean_Name>
+    <English_Name>Ruby earrings fitness</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 100, MP 0, Str 1, Dex 0, Int 1, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0233.gif</Image>
+    <Korean_Name>마법의루비귀걸이</Korean_Name>
+    <English_Name>Magic Ruby Earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 0, MP 50, Str 1, Dex 0, Int 1, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0234.gif</Image>
+    <Korean_Name>산호귀걸이</Korean_Name>
+    <English_Name>Coral Earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  2000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 2, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0234.gif</Image>
+    <Korean_Name>세오의산호귀걸이</Korean_Name>
+    <English_Name>Coral earrings Seo</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  2000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 2, Wis 0, Con 0, Regeneration  5%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0234.gif</Image>
+    <Korean_Name>로오의산호귀걸이</Korean_Name>
+    <English_Name>Coral earrings Lawrence</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  2000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 3, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0234.gif</Image>
+    <Korean_Name>칸의산호귀걸이</Korean_Name>
+    <English_Name>Khan coral earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  2000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 2, Wis 0, Con 0, Regeneration  0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0234.gif</Image>
+    <Korean_Name>세토아의산호귀걸이</Korean_Name>
+    <English_Name>Setoah coral earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  2000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 2, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0234.gif</Image>
+    <Korean_Name>이아의산호귀걸이</Korean_Name>
+    <English_Name>Coral earrings Iasi</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  2000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 2, Wis 1, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0234.gif</Image>
+    <Korean_Name>셔스의산호귀걸이</Korean_Name>
+    <English_Name>Precious coral earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  2000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 1, Int 2, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0234.gif</Image>
+    <Korean_Name>메투스의산호귀걸이</Korean_Name>
+    <English_Name>Coral earrings Tome Tooth</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  2000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 2, Wis 0, Con 1, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0234.gif</Image>
+    <Korean_Name>뮤레칸의산호귀걸이</Korean_Name>
+    <English_Name>Coral earrings Mu rekan</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  20000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 2, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0234.gif</Image>
+    <Korean_Name>축복의산호귀걸이</Korean_Name>
+    <English_Name>Coral earrings blessings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  2000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 2, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0234.gif</Image>
+    <Korean_Name>풍요의산호귀걸이</Korean_Name>
+    <English_Name>Coral earrings abundance</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  2000, Hit 0, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 2, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0234.gif</Image>
+    <Korean_Name>체력의산호귀걸이</Korean_Name>
+    <English_Name>Coral earrings fitness</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  2000, Hit 0, Dam 0, HP 100, MP 0, Str 0, Dex 0, Int 2, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0234.gif</Image>
+    <Korean_Name>마법의산호귀걸이</Korean_Name>
+    <English_Name>The magic of the coral earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  2000, Hit 0, Dam 0, HP 0, MP 50, Str 0, Dex 0, Int 2, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0234.gif</Image>
+    <Korean_Name>로오의산호귀걸이</Korean_Name>
+    <English_Name>Coral earrings Lawrence</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  2000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 3, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item014/item1422.gif</Image>
+    <Korean_Name>테네즈의귀걸이</Korean_Name>
+    <English_Name>Earrings te Jimenez</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item014/item1422.gif</Image>
+    <Korean_Name>퀸셰어의귀걸이</Korean_Name>
+    <English_Name>Earrings of the Queen Shea</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  8000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item014/item1423.gif</Image>
+    <Korean_Name>라이라의귀걸이</Korean_Name>
+    <English_Name>Rayira earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item014/item1424.gif</Image>
+    <Korean_Name>서펜트링</Korean_Name>
+    <English_Name>Serpent Ring</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item014/item1425.gif</Image>
+    <Korean_Name>레퓨스링</Korean_Name>
+    <English_Name>Repyu seuring</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item014/item1425.gif</Image>
+    <Korean_Name>산호석귀걸이</Korean_Name>
+    <English_Name>Sanhoseok earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  2000, Hit 1, Dam 0, HP 50, MP 0, Str 3, Dex 0, Int 0, Wis 0, Con 0, Regeneration  10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item014/item1426.gif</Image>
+    <Korean_Name>화염의홀디트링</Korean_Name>
+    <English_Name>Hall of Flame Detroit Ring</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>1</Weight>
+    <AC>ac-1</AC>
+    <Stats>Durability  5000, Hit 0, Dam 0, HP 150, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration  10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item014/item1426.gif</Image>
+    <Korean_Name>화염의홀디트링</Korean_Name>
+    <English_Name>Hall of Flame Detroit Ring</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>1</Weight>
+    <AC>ac-1</AC>
+    <Stats>Durability  5000, Hit 0, Dam 0, HP 150, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration  10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item014/item1427.gif</Image>
+    <Korean_Name>바람의홀디트링</Korean_Name>
+    <English_Name>Wind Hall Detroit Ring</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>1</Weight>
+    <AC>ac-1</AC>
+    <Stats>Durability  5000, Hit 0, Dam 0, HP 0, MP 0, Str 3, Dex 0, Int 0, Wis 0, Con 0, Regeneration  10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item014/item1428.gif</Image>
+    <Korean_Name>바다의홀디트링</Korean_Name>
+    <English_Name>Hall Detroit Ring ocean</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>1</Weight>
+    <AC>ac-1</AC>
+    <Stats>Durability  5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration  10%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item014/item1429.gif</Image>
+    <Korean_Name>홀디트링</Korean_Name>
+    <English_Name>Hall Detroit Ring</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>1</Weight>
+    <AC>ac-1</AC>
+    <Stats>Durability  5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item014/item1430.gif</Image>
+    <Korean_Name>대지의홀디트링</Korean_Name>
+    <English_Name>Hall Detroit Ring Land</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>1</Weight>
+    <AC>ac-1</AC>
+    <Stats>Durability  5000, Hit 10, Dam 2, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration  10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item016/item1667.gif</Image>
+    <Korean_Name>화려한귀걸이한쌍</Korean_Name>
+    <English_Name>One pair of colorful earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>1</Weight>
+    <AC>ac-1</AC>
+    <Stats>Durability  8000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item016/item1668.gif</Image>
+    <Korean_Name>화려한귀걸이</Korean_Name>
+    <English_Name>Colorful earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>1</Weight>
+    <AC>ac-1</AC>
+    <Stats>Durability  8000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item023/item2398.gif</Image>
+    <Korean_Name>레드마린귀걸이</Korean_Name>
+    <English_Name>Red Marine earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  2000, Hit 1, Dam 0, HP 0, MP 50, Str 0, Dex 0, Int 3, Wis 0, Con 0, Regeneration  10%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item033/item3329.gif</Image>
+    <Korean_Name>에르메스의귀걸이</Korean_Name>
+    <English_Name>Hermes Earrings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 1, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item033/item3330.gif</Image>
+    <Korean_Name>아테나의귀걸이</Korean_Name>
+    <English_Name>Earrings Athena</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 1, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item033/item3331.gif</Image>
+    <Korean_Name>헤라의귀걸이</Korean_Name>
+    <English_Name>Earrings of Hera</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability  1000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 1, Wis 0, Con 0, Regeneration  0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+</data>
+

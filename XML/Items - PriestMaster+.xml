@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item034/item3418.gif</Image>
+    <Korean_Name>세인트후드(리폼)</Korean_Name>
+    <English_Name>St. Hood (Reform)</English_Name>
+    <Weight>10</Weight>
+    <Stats>Durability 11000000, Hit 0, Dam 0, HP 1000, MP -500, Str 1, Dex -1, Int -2, Wis -1, Con 1, Regeneration 0%, Magic Resist 20%, Unisex</Stats>
+    <Acquisition>Master Armor upgraded with a reform kit.</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1772.gif</Image>
+    <Korean_Name>세인트후드</Korean_Name>
+    <English_Name>St. Hood</English_Name>
+    <Weight>10</Weight>
+    <Stats>Durability 1000000, Hit 0, Dam 0, HP 1000, MP -500, Str 1, Dex -1, Int -2, Wis -1, Con 1, Regeneration 0%, Magic Resist 20%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1767.gif</Image>
+    <Korean_Name>세인트로브</Korean_Name>
+    <English_Name>Grove St.</English_Name>
+    <Weight>10</Weight>
+    <Stats>Durability 1000000, Hit 0, Dam 0, HP 1000, MP -500, Str 1, Dex -1, Int -2, Wis -1, Con 1, Regeneration 0%, Magic Resist 20%, Female</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1767.gif</Image>
+    <Korean_Name>아이웬딜</Korean_Name>
+    <English_Name>Kids wendil</English_Name>
+    <Weight>9</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1000, MP -500, Str 1, Dex -1, Int -2, Wis -1, Con 1, Regeneration 0%, Magic Resist 20%, Female</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1772.gif</Image>
+    <Korean_Name>린드</Korean_Name>
+    <English_Name>Lind</English_Name>
+    <Weight>9</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1000, MP -500, Str 1, Dex -1, Int -2, Wis -1, Con 1, Regeneration 0%, Magic Resist 20%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1941.gif</Image>
+    <Korean_Name>린드(+1)</Korean_Name>
+    <English_Name>Lind (+1)</English_Name>
+    <Weight>9</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1000, MP -500, Str 1, Dex -1, Int -2, Wis -1, Con 1, Regeneration 0%, Magic Resist 20%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1942.gif</Image>
+    <Korean_Name>린드(+2)</Korean_Name>
+    <English_Name>Lind (+2)</English_Name>
+    <Weight>8</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1000, MP -400, Str 1, Dex -1, Int -2, Wis -1, Con 1, Regeneration 0%, Magic Resist 20%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1943.gif</Image>
+    <Korean_Name>린드(A)</Korean_Name>
+    <English_Name>Lind (A)</English_Name>
+    <Weight>8</Weight>
+    <Stats>Durability 10000, Hit 1, Dam 1, HP 1000, MP -500, Str 1, Dex -1, Int -2, Wis -1, Con 1, Regeneration 0%, Magic Resist 20%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1962.gif</Image>
+    <Korean_Name>아이웬딜(+1)</Korean_Name>
+    <English_Name>Kids wendil (+1)</English_Name>
+    <Weight>9</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1000, MP -500, Str 1, Dex -1, Int -2, Wis -1, Con 1, Regeneration 0%, Magic Resist 20%, Female</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1963.gif</Image>
+    <Korean_Name>아이웬딜(+2)</Korean_Name>
+    <English_Name>Kids wendil (+2)</English_Name>
+    <Weight>8</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1000, MP -400, Str 1, Dex -1, Int -2, Wis -1, Con 1, Regeneration 0%, Magic Resist 20%, Female</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1964.gif</Image>
+    <Korean_Name>아이웬딜(A)</Korean_Name>
+    <English_Name>Kids wendil (A)</English_Name>
+    <Weight>8</Weight>
+    <Stats>Durability 10000, Hit 1, Dam 1, HP 1000, MP -500, Str 1, Dex -1, Int -2, Wis -1, Con 1, Regeneration 0%, Magic Resist 20%, Female</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1987.gif</Image>
+    <Korean_Name>야이나(+3)</Korean_Name>
+    <English_Name>Night or (+3)</English_Name>
+    <Weight>8</Weight>
+    <Stats>Durability 10000, Hit 1, Dam 2, HP 1150, MP -400, Str 1, Dex -2, Int -2, Wis -1, Con 1, Regeneration 0%, Magic Resist 20%, Male</Stats>
+    <Acquisition>Acquired from someone/somewhere in Desert Dunes</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1988.gif</Image>
+    <Korean_Name>야이나(+1)</Korean_Name>
+    <English_Name>Night or (+1)</English_Name>
+    <Weight>10</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1100, MP -500, Str 1, Dex -1, Int -2, Wis -2, Con 1, Regeneration 0%, Magic Resist 20%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1989.gif</Image>
+    <Korean_Name>야이나</Korean_Name>
+    <English_Name>I or</English_Name>
+    <Weight>10</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1100, MP -500, Str 1, Dex -2, Int -2, Wis -1, Con 1, Regeneration 0%, Magic Resist 20%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1991.gif</Image>
+    <Korean_Name>야이나(+2)</Korean_Name>
+    <English_Name>Night or (+2)</English_Name>
+    <Weight>8</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1100, MP -400, Str 1, Dex -2, Int -2, Wis -1, Con 1, Regeneration 0%, Magic Resist 20%, Male</Stats>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2012.gif</Image>
+    <Korean_Name>야이나르(+3)</Korean_Name>
+    <English_Name>Carry Yai (+3)</English_Name>
+    <Weight>8</Weight>
+    <Stats>Durability 10000, Hit 1, Dam 2, HP 1150, MP -400, Str 1, Dex -2, Int -2, Wis -1, Con 1, Regeneration 0%, Magic Resist 20%, Female</Stats>
+    <Acquisition>Acquired from someone/somewhere in Desert Dunes</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2013.gif</Image>
+    <Korean_Name>야이나르(+1)</Korean_Name>
+    <English_Name>Yai carry (+1)</English_Name>
+    <Weight>10</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1100, MP -500, Str 1, Dex -1, Int -2, Wis -2, Con 1, Regeneration 0%, Magic Resist 20%, Female</Stats>
+    <Acquisition>Noam Village Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2014.gif</Image>
+    <Korean_Name>야이나르</Korean_Name>
+    <English_Name>Carry Yai</English_Name>
+    <Weight>10</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1100, MP -500, Str 1, Dex -2, Int -2, Wis -1, Con 1, Regeneration 0%, Magic Resist 20%, Female</Stats>
+    <Acquisition>Noam Village Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2016.gif</Image>
+    <Korean_Name>야이나르(+2)</Korean_Name>
+    <English_Name>Carry Yai (+2)</English_Name>
+    <Weight>8</Weight>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 1100, MP -400, Str 1, Dex -2, Int -2, Wis -1, Con 1, Regeneration 0%, Magic Resist 20%, Female</Stats>
+    <Acquisition>Noam Village Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2352.gif</Image>
+    <Korean_Name>적비류선의(여)</Korean_Name>
+    <English_Name>Biryu enemy lines (W)</English_Name>
+    <Weight>8</Weight>
+    <Stats>Durability 30000, Hit 1, Dam 1, HP 1300, MP -100, Str 2, Dex -1, Int -1, Wis 1, Con -2, Regeneration 0%, Magic Resist 30%, Female</Stats>
+    <Acquisition>Crafted by using materials found in Hwarone Village</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2362.gif</Image>
+    <Korean_Name>흑비류선의(여)</Korean_Name>
+    <English_Name>Biryu black line (F)</English_Name>
+    <Weight>8</Weight>
+    <Stats>Durability 3000000, Hit 2, Dam 2, HP 1300, MP 500, Str 2, Dex 1, Int 1, Wis 1, Con -2, Regeneration 100%, Magic Resist 30%, Female</Stats>
+    <Acquisition>Special Items combined with previous version of the item. Crafted at the Flame Smith?</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item023/item2351.gif</Image>
+    <Korean_Name>적비류선의(남)</Korean_Name>
+    <English_Name>Biryu enemy lines (M)</English_Name>
+    <Weight>8</Weight>
+    <Stats>Durability 30000, Hit 1, Dam 1, HP 1300, MP -100, Str 2, Dex -1, Int -1, Wis 1, Con -2, Regeneration 0%, Magic Resist 30%, Male</Stats>
+    <Acquisition>Crafted by using materials found in Hwarone Village</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item023/item2361.gif</Image>
+    <Korean_Name>흑비류선의(남)</Korean_Name>
+    <English_Name>Biryu black line (M)</English_Name>
+    <Weight>8</Weight>
+    <Stats>Durability 3000000, Hit 2, Dam 2, HP 1300, MP 500, Str 2, Dex 1, Int 1, Wis 1, Con -2, Regeneration 100%, Magic Resist 30%, Male</Stats>
+    <Acquisition>Special Items combined with previous version of the item. Crafted at the Flame Smith?</Acquisition>
+  </Item>
+</data>
+

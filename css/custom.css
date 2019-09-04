@@ -1,0 +1,9 @@
+body {
+    overflow-x: hidden;
+    padding-top: 60px; /* Padding for .navbar-fixed-top. Change value if navbar height changes. Remove if using .navbar-static-top. */
+	margin: auto;
+	max-width: 500%;
+}
+#container {
+  margin: auto;
+}

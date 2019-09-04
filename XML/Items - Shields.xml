@@ -1,0 +1,1420 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<data>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0092.gif</Image>
+    <Korean_Name>나무방패</Korean_Name>
+    <English_Name>Wooden Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0092.gif</Image>
+    <Korean_Name>세오의나무방패</Korean_Name>
+    <English_Name>Wooden Shield Seo</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 5%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0092.gif</Image>
+    <Korean_Name>로오의나무방패</Korean_Name>
+    <English_Name>Wooden Shield Lawrence</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 10, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0092.gif</Image>
+    <Korean_Name>칸의나무방패</Korean_Name>
+    <English_Name>Khan wooden shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0092.gif</Image>
+    <Korean_Name>세토아의나무방패</Korean_Name>
+    <English_Name>Setoah the wooden shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 10, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0092.gif</Image>
+    <Korean_Name>이아의나무방패</Korean_Name>
+    <English_Name>Wooden shield Oia</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 10, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0092.gif</Image>
+    <Korean_Name>셔스의나무방패</Korean_Name>
+    <English_Name>Precious wooden shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0092.gif</Image>
+    <Korean_Name>메투스의나무방패</Korean_Name>
+    <English_Name>Wooden Shield Tome Tooth</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0092.gif</Image>
+    <Korean_Name>뮤레칸의나무방패</Korean_Name>
+    <English_Name>Mu rekan wooden shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 30000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0092.gif</Image>
+    <Korean_Name>하데스의나무방패</Korean_Name>
+    <English_Name>Hades wooden shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 10, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0092.gif</Image>
+    <Korean_Name>축복의나무방패</Korean_Name>
+    <English_Name>Wood Shield of Blessing</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 3000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0092.gif</Image>
+    <Korean_Name>풍요의나무방패</Korean_Name>
+    <English_Name>Plenty of wooden shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 3000, Hit 0, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0092.gif</Image>
+    <Korean_Name>체력의나무방패</Korean_Name>
+    <English_Name>Wooden shield of strength</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 10, Hit 0, Dam 0, HP 100, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0092.gif</Image>
+    <Korean_Name>마법의나무방패</Korean_Name>
+    <English_Name>Magic wooden shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 50, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0092.gif</Image>
+    <Korean_Name>칸의나무방패</Korean_Name>
+    <English_Name>Khan wooden shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>1</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0092.gif</Image>
+    <Korean_Name>체력의나무방패</Korean_Name>
+    <English_Name>Wooden shield of strength</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>1</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 100, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0092.gif</Image>
+    <Korean_Name>마법의나무방패</Korean_Name>
+    <English_Name>Magic wooden shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>1</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 10000, Hit 0, Dam 0, HP 0, MP 50, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0093.gif</Image>
+    <Korean_Name>은제방패</Korean_Name>
+    <English_Name>Silver Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>6</Weight>
+    <AC>ac-13</AC>
+    <Stats>Durability 11000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0093.gif</Image>
+    <Korean_Name>세오의은제방패</Korean_Name>
+    <English_Name>Seo metaphor of the shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>6</Weight>
+    <AC>ac-13</AC>
+    <Stats>Durability 11000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 5%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0093.gif</Image>
+    <Korean_Name>로오의은제방패</Korean_Name>
+    <English_Name>Lawrence metaphor of the shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>6</Weight>
+    <AC>ac-13</AC>
+    <Stats>Durability 11000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 1, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0093.gif</Image>
+    <Korean_Name>칸의은제방패</Korean_Name>
+    <English_Name>The space saver shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>6</Weight>
+    <AC>ac-13</AC>
+    <Stats>Durability 11000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 20%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0093.gif</Image>
+    <Korean_Name>세토아의은제방패</Korean_Name>
+    <English_Name>Setoah metaphor of the shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>6</Weight>
+    <AC>ac-13</AC>
+    <Stats>Durability 11000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0093.gif</Image>
+    <Korean_Name>이아의은제방패</Korean_Name>
+    <English_Name>Iain saver The Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>6</Weight>
+    <AC>ac-13</AC>
+    <Stats>Durability 11000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 1, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0093.gif</Image>
+    <Korean_Name>셔스의은제방패</Korean_Name>
+    <English_Name>Precious metaphor of the shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>6</Weight>
+    <AC>ac-13</AC>
+    <Stats>Durability 11000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0093.gif</Image>
+    <Korean_Name>메투스의은제방패</Korean_Name>
+    <English_Name>Tome tooth saver The Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>6</Weight>
+    <AC>ac-13</AC>
+    <Stats>Durability 11000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 1, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0093.gif</Image>
+    <Korean_Name>뮤레칸의은제방패</Korean_Name>
+    <English_Name>Mu rekan metaphor of the shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>6</Weight>
+    <AC>ac-13</AC>
+    <Stats>Durability 110000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0093.gif</Image>
+    <Korean_Name>하데스의은제방패</Korean_Name>
+    <English_Name>Hades metaphor of the shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>6</Weight>
+    <AC>ac-13</AC>
+    <Stats>Durability 1100, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0093.gif</Image>
+    <Korean_Name>축복의은제방패</Korean_Name>
+    <English_Name>The blessing saver shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>6</Weight>
+    <AC>ac-13</AC>
+    <Stats>Durability 11000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0093.gif</Image>
+    <Korean_Name>풍요의은제방패</Korean_Name>
+    <English_Name>The metaphor of abundance Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>6</Weight>
+    <AC>ac-13</AC>
+    <Stats>Durability 11000, Hit 0, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0093.gif</Image>
+    <Korean_Name>체력의은제방패</Korean_Name>
+    <English_Name>The physical metaphor Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>6</Weight>
+    <AC>ac-13</AC>
+    <Stats>Durability 11000, Hit 0, Dam 0, HP 100, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0093.gif</Image>
+    <Korean_Name>마법의은제방패</Korean_Name>
+    <English_Name>The metaphor of magic shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>6</Weight>
+    <AC>ac-13</AC>
+    <Stats>Durability 11000, Hit 0, Dam 0, HP 0, MP 50, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0094.gif</Image>
+    <Korean_Name>금제방패</Korean_Name>
+    <English_Name>Illicit Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>7</Weight>
+    <AC>ac-15</AC>
+    <Stats>Durability 13000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 20%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0094.gif</Image>
+    <Korean_Name>세오의금제방패</Korean_Name>
+    <English_Name>Seo contraband Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>7</Weight>
+    <AC>ac-15</AC>
+    <Stats>Durability 13000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 5%, Magic Resist 20%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0094.gif</Image>
+    <Korean_Name>로오의금제방패</Korean_Name>
+    <English_Name>Lawrence Shield of illicit</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>7</Weight>
+    <AC>ac-15</AC>
+    <Stats>Durability 13000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 1, Wis 0, Con 0, Regeneration 0%, Magic Resist 20%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0094.gif</Image>
+    <Korean_Name>칸의금제방패</Korean_Name>
+    <English_Name>Khan's illicit Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>7</Weight>
+    <AC>ac-15</AC>
+    <Stats>Durability 13000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0094.gif</Image>
+    <Korean_Name>세토아의금제방패</Korean_Name>
+    <English_Name>Setoah of illicit Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>7</Weight>
+    <AC>ac-15</AC>
+    <Stats>Durability 13000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 20%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0094.gif</Image>
+    <Korean_Name>이아의금제방패</Korean_Name>
+    <English_Name>Oia of illicit Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>7</Weight>
+    <AC>ac-15</AC>
+    <Stats>Durability 13000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 1, Con 0, Regeneration 0%, Magic Resist 20%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0094.gif</Image>
+    <Korean_Name>셔스의금제방패</Korean_Name>
+    <English_Name>Precious contraband Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>7</Weight>
+    <AC>ac-15</AC>
+    <Stats>Durability 13000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 20%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0094.gif</Image>
+    <Korean_Name>메투스의금제방패</Korean_Name>
+    <English_Name>Illicit Shield Tome Tooth</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>7</Weight>
+    <AC>ac-15</AC>
+    <Stats>Durability 13000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 1, Regeneration 0%, Magic Resist 20%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0094.gif</Image>
+    <Korean_Name>뮤레칸의금제방패</Korean_Name>
+    <English_Name>Mu rekan illicit Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>7</Weight>
+    <AC>ac-15</AC>
+    <Stats>Durability 130000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 20%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0094.gif</Image>
+    <Korean_Name>하데스의금제방패</Korean_Name>
+    <English_Name>Hades of illicit Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>7</Weight>
+    <AC>ac-15</AC>
+    <Stats>Durability 1300, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 20%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0094.gif</Image>
+    <Korean_Name>축복의금제방패</Korean_Name>
+    <English_Name>Illicit Shield of Blessing</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>7</Weight>
+    <AC>ac-15</AC>
+    <Stats>Durability 13000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 20%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0094.gif</Image>
+    <Korean_Name>풍요의금제방패</Korean_Name>
+    <English_Name>Shield of illicit wealth</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>7</Weight>
+    <AC>ac-15</AC>
+    <Stats>Durability 13000, Hit 0, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 20%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0094.gif</Image>
+    <Korean_Name>체력의금제방패</Korean_Name>
+    <English_Name>Illicit fitness Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>7</Weight>
+    <AC>ac-15</AC>
+    <Stats>Durability 13000, Hit 0, Dam 0, HP 100, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 20%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0094.gif</Image>
+    <Korean_Name>마법의금제방패</Korean_Name>
+    <English_Name>Magic shield illicit</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>7</Weight>
+    <AC>ac-15</AC>
+    <Stats>Durability 13000, Hit 0, Dam 0, HP 0, MP 50, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 20%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0187.gif</Image>
+    <Korean_Name>플라늄방패</Korean_Name>
+    <English_Name>Playa titanium shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>8</Weight>
+    <AC>ac-18</AC>
+    <Stats>Durability 15000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 20%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0187.gif</Image>
+    <Korean_Name>세오의플라늄방패</Korean_Name>
+    <English_Name>Playa titanium shield Seo</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>8</Weight>
+    <AC>ac-18</AC>
+    <Stats>Durability 15000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 5%, Magic Resist 20%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0187.gif</Image>
+    <Korean_Name>로오의플라늄방패</Korean_Name>
+    <English_Name>Playa titanium shield Lawrence</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>8</Weight>
+    <AC>ac-18</AC>
+    <Stats>Durability 15000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 1, Wis 0, Con 0, Regeneration 0%, Magic Resist 20%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0187.gif</Image>
+    <Korean_Name>칸의플라늄방패</Korean_Name>
+    <English_Name>Playa titanium shield Khan</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>8</Weight>
+    <AC>ac-18</AC>
+    <Stats>Durability 15000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0187.gif</Image>
+    <Korean_Name>세토아의플라늄방패</Korean_Name>
+    <English_Name>Playa titanium shield setoah</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>8</Weight>
+    <AC>ac-18</AC>
+    <Stats>Durability 15000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 20%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0187.gif</Image>
+    <Korean_Name>이아의플라늄방패</Korean_Name>
+    <English_Name>Playa titanium shield of Iasi</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>8</Weight>
+    <AC>ac-18</AC>
+    <Stats>Durability 15000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 1, Con 0, Regeneration 0%, Magic Resist 20%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0187.gif</Image>
+    <Korean_Name>셔스의플라늄방패</Korean_Name>
+    <English_Name>Playa titanium shield Precious</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>8</Weight>
+    <AC>ac-18</AC>
+    <Stats>Durability 15000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 20%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0187.gif</Image>
+    <Korean_Name>메투스의플라늄방패</Korean_Name>
+    <English_Name>Playa titanium shield of tooth-mail</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>8</Weight>
+    <AC>ac-18</AC>
+    <Stats>Durability 15000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 1, Regeneration 0%, Magic Resist 20%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0187.gif</Image>
+    <Korean_Name>뮤레칸의플라늄방패</Korean_Name>
+    <English_Name>Playa titanium shield of mu rekan</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>8</Weight>
+    <AC>ac-18</AC>
+    <Stats>Durability 150000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 20%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0187.gif</Image>
+    <Korean_Name>하데스의플라늄방패</Korean_Name>
+    <English_Name>Playa titanium shield of Hades</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>8</Weight>
+    <AC>ac-18</AC>
+    <Stats>Durability 1500, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 20%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0187.gif</Image>
+    <Korean_Name>축복의플라늄방패</Korean_Name>
+    <English_Name>Playa titanium shield of blessings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>8</Weight>
+    <AC>ac-18</AC>
+    <Stats>Durability 15000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 20%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0187.gif</Image>
+    <Korean_Name>풍요의플라늄방패</Korean_Name>
+    <English_Name>Playa titanium shield of abundance</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>8</Weight>
+    <AC>ac-18</AC>
+    <Stats>Durability 15000, Hit 0, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 20%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0187.gif</Image>
+    <Korean_Name>체력의플라늄방패</Korean_Name>
+    <English_Name>Playa titanium shield of strength</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>8</Weight>
+    <AC>ac-18</AC>
+    <Stats>Durability 15000, Hit 0, Dam 0, HP 100, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 20%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0187.gif</Image>
+    <Korean_Name>마법의플라늄방패</Korean_Name>
+    <English_Name>Magic Plastic titanium shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>8</Weight>
+    <AC>ac-18</AC>
+    <Stats>Durability 15000, Hit 0, Dam 0, HP 0, MP 50, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 20%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0188.gif</Image>
+    <Korean_Name>가죽방패</Korean_Name>
+    <English_Name>Leather Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>3</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0188.gif</Image>
+    <Korean_Name>세오의가죽방패</Korean_Name>
+    <English_Name>The Museo leather shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>3</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 5%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0188.gif</Image>
+    <Korean_Name>로오의가죽방패</Korean_Name>
+    <English_Name>Lawrence Shield of leather</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>3</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 1, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0188.gif</Image>
+    <Korean_Name>칸의가죽방패</Korean_Name>
+    <English_Name>Khan Leather Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>3</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0188.gif</Image>
+    <Korean_Name>세토아의가죽방패</Korean_Name>
+    <English_Name>Setoah the leather shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>3</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0188.gif</Image>
+    <Korean_Name>이아의가죽방패</Korean_Name>
+    <English_Name>Oia leather shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>3</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 1, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0188.gif</Image>
+    <Korean_Name>셔스의가죽방패</Korean_Name>
+    <English_Name>Of Precious leather shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>3</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0188.gif</Image>
+    <Korean_Name>메투스의가죽방패</Korean_Name>
+    <English_Name>Tome of tooth Leather Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>3</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0188.gif</Image>
+    <Korean_Name>뮤레칸의가죽방패</Korean_Name>
+    <English_Name>Mu rekan leather shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>3</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 50000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0188.gif</Image>
+    <Korean_Name>하데스의가죽방패</Korean_Name>
+    <English_Name>Hades leather shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>3</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 10, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0188.gif</Image>
+    <Korean_Name>축복의가죽방패</Korean_Name>
+    <English_Name>Leather Shield of Blessing</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>3</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 5000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0188.gif</Image>
+    <Korean_Name>풍요의가죽방패</Korean_Name>
+    <English_Name>Abundance of leather shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>3</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 5000, Hit 0, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0188.gif</Image>
+    <Korean_Name>체력의가죽방패</Korean_Name>
+    <English_Name>Leather stamina shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>3</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 100, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0188.gif</Image>
+    <Korean_Name>마법의가죽방패</Korean_Name>
+    <English_Name>Magic Leather Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>3</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 5000, Hit 0, Dam 0, HP 0, MP 50, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0189.gif</Image>
+    <Korean_Name>구리방패</Korean_Name>
+    <English_Name>Copper Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>4</Weight>
+    <AC>ac-8</AC>
+    <Stats>Durability 7000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0189.gif</Image>
+    <Korean_Name>세오의구리방패</Korean_Name>
+    <English_Name>Copper Shield Seo</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>4</Weight>
+    <AC>ac-8</AC>
+    <Stats>Durability 7000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 5%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0189.gif</Image>
+    <Korean_Name>로오의구리방패</Korean_Name>
+    <English_Name>Copper Shield Lawrence</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>4</Weight>
+    <AC>ac-8</AC>
+    <Stats>Durability 7000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 1, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0189.gif</Image>
+    <Korean_Name>칸의구리방패</Korean_Name>
+    <English_Name>Copper Shield Khan</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>4</Weight>
+    <AC>ac-8</AC>
+    <Stats>Durability 7000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0189.gif</Image>
+    <Korean_Name>세토아의구리방패</Korean_Name>
+    <English_Name>Copper Shield setoah</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>4</Weight>
+    <AC>ac-8</AC>
+    <Stats>Durability 7000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0189.gif</Image>
+    <Korean_Name>이아의구리방패</Korean_Name>
+    <English_Name>Copper Shield of Iasi</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>4</Weight>
+    <AC>ac-8</AC>
+    <Stats>Durability 7000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 1, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0189.gif</Image>
+    <Korean_Name>셔스의구리방패</Korean_Name>
+    <English_Name>Copper shield Precious</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>4</Weight>
+    <AC>ac-8</AC>
+    <Stats>Durability 7000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0189.gif</Image>
+    <Korean_Name>메투스의구리방패</Korean_Name>
+    <English_Name>Copper Shield Tome Tooth</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>4</Weight>
+    <AC>ac-8</AC>
+    <Stats>Durability 7000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0189.gif</Image>
+    <Korean_Name>뮤레칸의구리방패</Korean_Name>
+    <English_Name>Copper Shield of Mu rekan</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>4</Weight>
+    <AC>ac-8</AC>
+    <Stats>Durability 70000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0189.gif</Image>
+    <Korean_Name>하데스의구리방패</Korean_Name>
+    <English_Name>Copper Shield of Hades</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>4</Weight>
+    <AC>ac-8</AC>
+    <Stats>Durability 10, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0189.gif</Image>
+    <Korean_Name>축복의구리방패</Korean_Name>
+    <English_Name>Copper Shield of Blessing</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>4</Weight>
+    <AC>ac-8</AC>
+    <Stats>Durability 7000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0189.gif</Image>
+    <Korean_Name>풍요의구리방패</Korean_Name>
+    <English_Name>Copper Shield of abundance</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>4</Weight>
+    <AC>ac-8</AC>
+    <Stats>Durability 7000, Hit 0, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0189.gif</Image>
+    <Korean_Name>체력의구리방패</Korean_Name>
+    <English_Name>Copper shield of strength</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>4</Weight>
+    <AC>ac-8</AC>
+    <Stats>Durability 7000, Hit 0, Dam 0, HP 100, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0189.gif</Image>
+    <Korean_Name>마법의구리방패</Korean_Name>
+    <English_Name>Magic Copper Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>4</Weight>
+    <AC>ac-8</AC>
+    <Stats>Durability 7000, Hit 0, Dam 0, HP 0, MP 50, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0190.gif</Image>
+    <Korean_Name>철방패</Korean_Name>
+    <English_Name>Iron Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>5</Weight>
+    <AC>ac-10</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0190.gif</Image>
+    <Korean_Name>세오의철방패</Korean_Name>
+    <English_Name>The Museo Iron Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>5</Weight>
+    <AC>ac-10</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 5%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0190.gif</Image>
+    <Korean_Name>로오의철방패</Korean_Name>
+    <English_Name>Lawrence Shield of iron</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>5</Weight>
+    <AC>ac-10</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 1, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0190.gif</Image>
+    <Korean_Name>칸의철방패</Korean_Name>
+    <English_Name>Cannes Iron Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>5</Weight>
+    <AC>ac-10</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 20%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0190.gif</Image>
+    <Korean_Name>세토아의철방패</Korean_Name>
+    <English_Name>Iron Shield of setoah</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>5</Weight>
+    <AC>ac-10</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0190.gif</Image>
+    <Korean_Name>이아의철방패</Korean_Name>
+    <English_Name>Oia Iron Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>5</Weight>
+    <AC>ac-10</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 1, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0190.gif</Image>
+    <Korean_Name>셔스의철방패</Korean_Name>
+    <English_Name>Of Precious Iron Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>5</Weight>
+    <AC>ac-10</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0190.gif</Image>
+    <Korean_Name>메투스의철방패</Korean_Name>
+    <English_Name>Tome of the tooth iron shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>5</Weight>
+    <AC>ac-10</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 1, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0190.gif</Image>
+    <Korean_Name>뮤레칸의철방패</Korean_Name>
+    <English_Name>Mu rekan Iron Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>5</Weight>
+    <AC>ac-10</AC>
+    <Stats>Durability 90000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0190.gif</Image>
+    <Korean_Name>하데스의철방패</Korean_Name>
+    <English_Name>Hades Iron Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>5</Weight>
+    <AC>ac-10</AC>
+    <Stats>Durability 90, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0190.gif</Image>
+    <Korean_Name>축복의철방패</Korean_Name>
+    <English_Name>Iron Shield of Blessing</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>5</Weight>
+    <AC>ac-10</AC>
+    <Stats>Durability 9000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0190.gif</Image>
+    <Korean_Name>풍요의철방패</Korean_Name>
+    <English_Name>The abundance of iron shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>5</Weight>
+    <AC>ac-10</AC>
+    <Stats>Durability 9000, Hit 0, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0190.gif</Image>
+    <Korean_Name>체력의철방패</Korean_Name>
+    <English_Name>Iron Shield fitness</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>5</Weight>
+    <AC>ac-10</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 100, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0190.gif</Image>
+    <Korean_Name>마법의철방패</Korean_Name>
+    <English_Name>Magic Iron Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>5</Weight>
+    <AC>ac-10</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 50, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0191.gif</Image>
+    <Korean_Name>기사단방패</Korean_Name>
+    <English_Name>Templar Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>12</Weight>
+    <AC>ac-20</AC>
+    <Stats>Durability 17000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0191.gif</Image>
+    <Korean_Name>세오의기사단방패</Korean_Name>
+    <English_Name>Shield of the Templar Seo</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>9</Weight>
+    <AC>ac-20</AC>
+    <Stats>Durability 17000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 5%, Magic Resist 30%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0191.gif</Image>
+    <Korean_Name>로오의기사단방패</Korean_Name>
+    <English_Name>Lawrence Shield of the Templar</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>9</Weight>
+    <AC>ac-20</AC>
+    <Stats>Durability 17000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 1, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0191.gif</Image>
+    <Korean_Name>칸의기사단방패</Korean_Name>
+    <English_Name>Khan Templar Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>9</Weight>
+    <AC>ac-20</AC>
+    <Stats>Durability 17000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 40%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0191.gif</Image>
+    <Korean_Name>세토아의기사단방패</Korean_Name>
+    <English_Name>Shield of the Templar setoah</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>9</Weight>
+    <AC>ac-20</AC>
+    <Stats>Durability 17000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0191.gif</Image>
+    <Korean_Name>이아의기사단방패</Korean_Name>
+    <English_Name>Knights Shield of Iasi</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>9</Weight>
+    <AC>ac-20</AC>
+    <Stats>Durability 17000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 1, Con 0, Regeneration 0%, Magic Resist 30%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0191.gif</Image>
+    <Korean_Name>셔스의기사단방패</Korean_Name>
+    <English_Name>Knights Shield Precious</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>9</Weight>
+    <AC>ac-20</AC>
+    <Stats>Durability 17000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0191.gif</Image>
+    <Korean_Name>메투스의기사단방패</Korean_Name>
+    <English_Name>Knights Shield Tome Tooth</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>9</Weight>
+    <AC>ac-20</AC>
+    <Stats>Durability 17000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 1, Regeneration 0%, Magic Resist 30%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0191.gif</Image>
+    <Korean_Name>뮤레칸의기사단방패</Korean_Name>
+    <English_Name>Mu rekan Templar Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>9</Weight>
+    <AC>ac-20</AC>
+    <Stats>Durability 170000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0191.gif</Image>
+    <Korean_Name>하데스의기사단방패</Korean_Name>
+    <English_Name>Knights Shield of Hades</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>9</Weight>
+    <AC>ac-20</AC>
+    <Stats>Durability 1700, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0191.gif</Image>
+    <Korean_Name>축복의기사단방패</Korean_Name>
+    <English_Name>Knights Shield of Blessing</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>9</Weight>
+    <AC>ac-20</AC>
+    <Stats>Durability 17000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0191.gif</Image>
+    <Korean_Name>풍요의기사단방패</Korean_Name>
+    <English_Name>Shield of the Templar wealth</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>9</Weight>
+    <AC>ac-20</AC>
+    <Stats>Durability 17000, Hit 0, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0191.gif</Image>
+    <Korean_Name>체력의기사단방패</Korean_Name>
+    <English_Name>Knights Shield fitness</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>9</Weight>
+    <AC>ac-20</AC>
+    <Stats>Durability 17000, Hit 0, Dam 0, HP 100, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0191.gif</Image>
+    <Korean_Name>마법의기사단방패</Korean_Name>
+    <English_Name>Magic Knights Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>9</Weight>
+    <AC>ac-20</AC>
+    <Stats>Durability 17000, Hit 0, Dam 0, HP 0, MP 50, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0192.gif</Image>
+    <Korean_Name>해골방패</Korean_Name>
+    <English_Name>Skeleton Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>1</Weight>
+    <AC>ac-18</AC>
+    <Stats>Durability 15000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 20%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0193.gif</Image>
+    <Korean_Name>퇴마방패</Korean_Name>
+    <English_Name>Toema Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>1</Weight>
+    <AC>ac-18</AC>
+    <Stats>Durability 15000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 20%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item013/item1362.gif</Image>
+    <Korean_Name>파파이야방패</Korean_Name>
+    <English_Name>Papa's Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item013/item1362.gif</Image>
+    <Korean_Name>파파야방패</Korean_Name>
+    <English_Name>Papaya Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>5</Weight>
+    <AC>ac-20</AC>
+    <Stats>Durability 15000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item013/item1363.gif</Image>
+    <Korean_Name>버팔로방패</Korean_Name>
+    <English_Name>Buffalo Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item013/item1364.gif</Image>
+    <Korean_Name>레드플라밋방패</Korean_Name>
+    <English_Name>Red Plastic Shield Mid</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item013/item1365.gif</Image>
+    <Korean_Name>레드플라밋방패</Korean_Name>
+    <English_Name>Red Plastic Shield Mid</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item013/item1366.gif</Image>
+    <Korean_Name>테네즈의방패</Korean_Name>
+    <English_Name>Jimenez Shield of Tenerife</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item013/item1367.gif</Image>
+    <Korean_Name>데스나이트의방패</Korean_Name>
+    <English_Name>Shield Death Knight</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item013/item1367.gif</Image>
+    <Korean_Name>데스나이트의방패</Korean_Name>
+    <English_Name>Shield Death Knight</English_Name>
+    <Class>직업공용</Class>
+    <Weight>20</Weight>
+    <AC>ac-25</AC>
+    <Stats>Durability 33000, Hit 3, Dam 3, HP -500, MP -500, Str 1, Dex 1, Int 1, Wis 1, Con 1, Regeneration 0%, Magic Resist 30%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item014/item1407.gif</Image>
+    <Korean_Name>깨진포보스방패</Korean_Name>
+    <English_Name>Phobos Broken Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item014/item1407.gif</Image>
+    <Korean_Name>깨진포보스방패</Korean_Name>
+    <English_Name>Phobos Broken Shield</English_Name>
+    <Class>직업공용</Class>
+    <Weight>12</Weight>
+    <AC>ac-11</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item014/item1409.gif</Image>
+    <Korean_Name>포보스의방패</Korean_Name>
+    <English_Name>Phobos Shield</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>2</Weight>
+    <AC>ac-3</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+ <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item014/item1409.gif</Image>
+    <Korean_Name>포보스의방패</Korean_Name>
+    <English_Name>Phobos Shield</English_Name>
+    <Class>직업공용</Class>
+    <Weight>12</Weight>
+    <AC>ac-22</AC>
+    <Stats>Durability 19000, Hit 1, Dam 2, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 30%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+</data>
+

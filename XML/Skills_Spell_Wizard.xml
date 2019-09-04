@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <_>
+    <Korean_Name>플레어</Korean_Name>
+    <English_Name>Solar Flare</English_Name>
+    <STR>10</STR>
+    <INT>133</INT>
+    <WIS>133</WIS>
+    <CON>14</CON>
+    <DEX>20</DEX>
+    <Pre_Req>ard srad (1+)</Pre_Req>
+    <Location>Mileth ?Wizard?</Location>
+    <Description>Level 4 Fire Attack</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/241.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>클레쉬스톰</Korean_Name>
+    <English_Name>Wind Storm</English_Name>
+    <STR>10</STR>
+    <INT>133</INT>
+    <WIS>133</WIS>
+    <CON>14</CON>
+    <DEX>20</DEX>
+    <Pre_Req>ard athar (1+)</Pre_Req>
+    <Location>Mileth ?Wizard?</Location>
+    <Description>Level 4 Wind Attack</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/238.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>퀘이크</Korean_Name>
+    <English_Name>Earth Quake</English_Name>
+    <STR>10</STR>
+    <INT>133</INT>
+    <WIS>133</WIS>
+    <CON>14</CON>
+    <DEX>20</DEX>
+    <Pre_Req>ard creag(1+)</Pre_Req>
+    <Location>Mileth ?Wizard?</Location>
+    <Description>Level 4 Earth Attack</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/239.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>아이스블러스트</Korean_Name>
+    <English_Name>Ice Blast</English_Name>
+    <STR>10</STR>
+    <INT>133</INT>
+    <WIS>133</WIS>
+    <CON>14</CON>
+    <DEX>20</DEX>
+    <Pre_Req>ard sa (1+)</Pre_Req>
+    <Location>Mileth ?Wizard?</Location>
+    <Description>Level 4 Water Attack</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/240.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>어둠의각인</Korean_Name>
+    <English_Name>Dark Seal</English_Name>
+    <STR>0</STR>
+    <INT>0</INT>
+    <WIS>0</WIS>
+    <CON>0</CON>
+    <DEX>0</DEX>
+    <Pre_Req>-</Pre_Req>
+    <Location>Mileth Master Trainer</Location>
+    <Description>Level 5 Curse</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/237.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>매직프로텍션</Korean_Name>
+    <English_Name>Magical Protection</English_Name>
+    <STR>14</STR>
+    <INT>122</INT>
+    <WIS>130</WIS>
+    <CON>12</CON>
+    <DEX>16</DEX>
+    <Pre_Req>속성강화60</Pre_Req>
+    <Location>Mileth Master Trainer</Location>
+    <Description>Self-protection.. unsure if dion or armor</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/218.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>속성강화</Korean_Name>
+    <English_Name>fas nadur</English_Name>
+    <STR>10</STR>
+    <INT>115</INT>
+    <WIS>120</WIS>
+    <CON>8</CON>
+    <DEX>12</DEX>
+    <Pre_Req>-</Pre_Req>
+    <Location>Mileth Master Trainer</Location>
+    <Description>Property enhancement</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/224.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>메테오</Korean_Name>
+    <English_Name>Meteor Strike</English_Name>
+    <STR>0</STR>
+    <INT>0</INT>
+    <WIS>0</WIS>
+    <CON>0</CON>
+    <DEX>0</DEX>
+    <Pre_Req>-</Pre_Req>
+    <Location>Automatic on mastering</Location>
+    <Description>Meteor Strike (screen wide)</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/213.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>라그나로크</Korean_Name>
+    <English_Name>Ragnarok</English_Name>
+    <STR>3</STR>
+    <INT>104</INT>
+    <WIS>77</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>Judgement 90, Apocalypse 60</Pre_Req>
+    <Location>Piet Black Mage</Location>
+    <Description>Special Attack (Screenwide)</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/181.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>숨마스텔라</Korean_Name>
+    <English_Name>Apocalypse</English_Name>
+    <STR>3</STR>
+    <INT>103</INT>
+    <WIS>77</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>Judgement 60, Armageddon 30</Pre_Req>
+    <Location>Piet Black Mage</Location>
+    <Description>Special Attack(Around Target)</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/180.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>아마게돈</Korean_Name>
+    <English_Name>Armageddon</English_Name>
+    <STR>3</STR>
+    <INT>102</INT>
+    <WIS>77</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>Judgement 30</Pre_Req>
+    <Location>Piet Black Mage</Location>
+    <Description>Special Attack (Around Caster)</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/179.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>세멜리아</Korean_Name>
+    <English_Name>Judgement</English_Name>
+    <STR>3</STR>
+    <INT>101</INT>
+    <WIS>77</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>-</Pre_Req>
+    <Location>Piet Black Mage</Location>
+    <Description>?Special Attack?</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/178.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>데스</Korean_Name>
+    <English_Name>Death</English_Name>
+    <STR>3</STR>
+    <INT>99</INT>
+    <WIS>80</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>Depreco 90, Suain 90</Pre_Req>
+    <Location>Piet Black Mage</Location>
+    <Description>Poison Phase 2 (death if it hits)</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/195.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>프라보</Korean_Name>
+    <English_Name>Prabo</English_Name>
+    <STR>3</STR>
+    <INT>99</INT>
+    <WIS>80</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>Depreco 90</Pre_Req>
+    <Location>Piet Black Mage</Location>
+    <Description>Level 4 Curse</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/190.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>플라미칼로</Korean_Name>
+    <English_Name>srad gar</English_Name>
+    <STR>3</STR>
+    <INT>92</INT>
+    <WIS>71</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>srad meall 90, ard srad 60</Pre_Req>
+    <Location>Piet Black Mage</Location>
+    <Description>Level 3 Fire Area Attack (Screen Wide)</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/167.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>아듀랄로</Korean_Name>
+    <English_Name>athar gar</English_Name>
+    <STR>3</STR>
+    <INT>92</INT>
+    <WIS>71</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>athar meall 90, ard athar 60</Pre_Req>
+    <Location>Piet Black Mage</Location>
+    <Description>Level 3 Wind Area Attack (Screen Wide)</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/173.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>테라미칼로</Korean_Name>
+    <English_Name>creag gar</English_Name>
+    <STR>3</STR>
+    <INT>92</INT>
+    <WIS>71</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>creag meall 90, ard creag 60</Pre_Req>
+    <Location>Piet Black Mage</Location>
+    <Description>Level 3 Earth Area Attack (Screen Wide)</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/164.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>마네나로</Korean_Name>
+    <English_Name>sal gar</English_Name>
+    <STR>3</STR>
+    <INT>92</INT>
+    <WIS>71</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>sal meall 90, ard sal 60</Pre_Req>
+    <Location>Piet Black Mage</Location>
+    <Description>Level 3 Water Area Attack (Screen Wide)</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/170.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>소루마</Korean_Name>
+    <English_Name>suain</English_Name>
+    <STR>3</STR>
+    <INT>88</INT>
+    <WIS>69</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>dahl 90</Pre_Req>
+    <Location>Piet Black Mage</Location>
+    <Description>Freeze monster</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/155.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>플라메라</Korean_Name>
+    <English_Name>ard srad</English_Name>
+    <STR>3</STR>
+    <INT>76</INT>
+    <WIS>63</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>mor srad 75</Pre_Req>
+    <Location>Piet Black Mage</Location>
+    <Description>Level 3 Fire Attack</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/147.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>아듀레나</Korean_Name>
+    <English_Name>ard athar</English_Name>
+    <STR>3</STR>
+    <INT>76</INT>
+    <WIS>63</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>mor athar 75</Pre_Req>
+    <Location>Piet Black Mage</Location>
+    <Description>Level 3 Wind Attack</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/150.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>테라미에라</Korean_Name>
+    <English_Name>ard creag</English_Name>
+    <STR>3</STR>
+    <INT>76</INT>
+    <WIS>63</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>mor creag 75</Pre_Req>
+    <Location>Piet Black Mage</Location>
+    <Description>Level 3 Earth Attack</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/141.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>마레네라</Korean_Name>
+    <English_Name>ard sal</English_Name>
+    <STR>3</STR>
+    <INT>76</INT>
+    <WIS>63</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>mor sal 75</Pre_Req>
+    <Location>Piet Black Mage</Location>
+    <Description>Level 3 Water Attack</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/153.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>데프레코</Korean_Name>
+    <English_Name>Depreco</English_Name>
+    <STR>3</STR>
+    <INT>74</INT>
+    <WIS>65</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>Bardo 75</Pre_Req>
+    <Location>Piet Black Mage</Location>
+    <Description>Level 3 Curse</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/189.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>딜루메니</Korean_Name>
+    <English_Name>Dall</English_Name>
+    <STR>3</STR>
+    <INT>73</INT>
+    <WIS>63</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>Breisleich 75</Pre_Req>
+    <Location>Piet Black Mage</Location>
+    <Description>Blind Enemy/Reduce Sight</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/107.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>로카데오</Korean_Name>
+    <English_Name>Locate</English_Name>
+    <STR>3</STR>
+    <INT>72</INT>
+    <WIS>64</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>dachaidh 60</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>Teleport to a party member</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/108.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>엑스플라미카</Korean_Name>
+    <English_Name>srad meall</English_Name>
+    <STR>3</STR>
+    <INT>59</INT>
+    <WIS>49</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>srad lamh 75, mor srad 45</Pre_Req>
+    <Location>Piet Black Mage NPC "Mesara"</Location>
+    <Description>Level 2 Fire Area Attack (Around Target)</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/166.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>엑스아듀라</Korean_Name>
+    <English_Name>athar meall</English_Name>
+    <STR>3</STR>
+    <INT>59</INT>
+    <WIS>49</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>athar lamh 75, mor athar 45</Pre_Req>
+    <Location>Piet Black Mage NPC "Mesara"</Location>
+    <Description>Level 2 Wind Area Attack (Around Target)</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/172.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>엑스테라미카</Korean_Name>
+    <English_Name>creag meall</English_Name>
+    <STR>3</STR>
+    <INT>59</INT>
+    <WIS>49</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>creag lamh 75, mor creag 45</Pre_Req>
+    <Location>Piet Black Mage NPC "Mesara"</Location>
+    <Description>Level 2 Earth Area Attack (Around Target)</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/175.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>엑스마레나</Korean_Name>
+    <English_Name>sal meall</English_Name>
+    <STR>3</STR>
+    <INT>59</INT>
+    <WIS>49</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>sal lamh 75, mor sal 45</Pre_Req>
+    <Location>Piet Black Mage NPC "Mesara"</Location>
+    <Description>Level 2 Water Area Attack (Around Target)</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/169.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>나르콜리</Korean_Name>
+    <English_Name>pramh</English_Name>
+    <STR>3</STR>
+    <INT>56</INT>
+    <WIS>49</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>puinsein 60</Pre_Req>
+    <Location>Piet Black Mage</Location>
+    <Description>Put target to sleep</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/196.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>플라무스</Korean_Name>
+    <English_Name>mor srad</English_Name>
+    <STR>3</STR>
+    <INT>46</INT>
+    <WIS>37</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>srad 60</Pre_Req>
+    <Location>Piet Black Mage NPC "Mesara"</Location>
+    <Description>Level 2 Fire Attack</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/146.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>아듀로스</Korean_Name>
+    <English_Name>mor athar</English_Name>
+    <STR>3</STR>
+    <INT>46</INT>
+    <WIS>37</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>athar 60</Pre_Req>
+    <Location>Piet Black Mage NPC "Mesara"</Location>
+    <Description>Level 2 Wind Attack</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/149.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>테라미쿠스</Korean_Name>
+    <English_Name>mor creag</English_Name>
+    <STR>3</STR>
+    <INT>46</INT>
+    <WIS>37</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>creag 60</Pre_Req>
+    <Location>Piet Black Mage NPC "Mesara"</Location>
+    <Description>Level 2 Earth Attack</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/163.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>마레누스</Korean_Name>
+    <English_Name>mor sal</English_Name>
+    <STR>3</STR>
+    <INT>46</INT>
+    <WIS>37</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>sal 60</Pre_Req>
+    <Location>Piet Black Mage</Location>
+    <Description>Level 2 Water attack</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/152.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>바르도</Korean_Name>
+    <English_Name>Bardo</English_Name>
+    <STR>3</STR>
+    <INT>44</INT>
+    <WIS>34</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>Lento 60</Pre_Req>
+    <Location>Piet Black Mage</Location>
+    <Description>Level 2 Curse</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/188.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>베노미</Korean_Name>
+    <English_Name>puinsein</English_Name>
+    <STR>3</STR>
+    <INT>43</INT>
+    <WIS>31</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>-</Pre_Req>
+    <Location>Piet Black Mage NPC "Mesara"</Location>
+    <Description>Poison Phase 1</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/140.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>슈페라플라미카</Korean_Name>
+    <English_Name>srad lamh</English_Name>
+    <STR>3</STR>
+    <INT>25</INT>
+    <WIS>17</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>srad 60</Pre_Req>
+    <Location>Piet Black Mage</Location>
+    <Description>Level 1 Fire Area Attack (Around caster)</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/165.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>슈페라아듀라</Korean_Name>
+    <English_Name>athar lamh</English_Name>
+    <STR>3</STR>
+    <INT>25</INT>
+    <WIS>17</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>athar 60</Pre_Req>
+    <Location>Piet Black Mage</Location>
+    <Description>Level 1 Wind Area Attack (Around caster)</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/171.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>수페라테라미카</Korean_Name>
+    <English_Name>creag lamh</English_Name>
+    <STR>3</STR>
+    <INT>25</INT>
+    <WIS>17</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>creag 60</Pre_Req>
+    <Location>Piet Black Mage</Location>
+    <Description>Level 1 Earth Area Attack (Around caster)</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/174.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>수페라마레나</Korean_Name>
+    <English_Name>sal lamh</English_Name>
+    <STR>3</STR>
+    <INT>25</INT>
+    <WIS>17</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>sal 60</Pre_Req>
+    <Location>Piet Black Mage</Location>
+    <Description>Level 1 Water Area Attack (Around caster)</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/168.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>콘푸지오</Korean_Name>
+    <English_Name>Breisleich</English_Name>
+    <STR>3</STR>
+    <INT>25</INT>
+    <WIS>17</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>-</Pre_Req>
+    <Location>Piet Black Mage</Location>
+    <Description>Confuse monster to fight for you</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/125.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>플라모</Korean_Name>
+    <English_Name>srad</English_Name>
+    <STR>3</STR>
+    <INT>14</INT>
+    <WIS>9</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>-</Pre_Req>
+    <Location>Piet Black Mage</Location>
+    <Description>Level 1 Fire Attack</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/145.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>아듀로</Korean_Name>
+    <English_Name>athar</English_Name>
+    <STR>3</STR>
+    <INT>14</INT>
+    <WIS>9</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>-</Pre_Req>
+    <Location>Piet Black Mage</Location>
+    <Description>Level 1 Wind Attack</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/148.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>테라미코</Korean_Name>
+    <English_Name>creag</English_Name>
+    <STR>3</STR>
+    <INT>14</INT>
+    <WIS>9</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>-</Pre_Req>
+    <Location>Piet Black Mage</Location>
+    <Description>Level 1 Earth Attack</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/162.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>쿠로토</Korean_Name>
+    <English_Name>beag ioc fein</English_Name>
+    <STR>3</STR>
+    <INT>13</INT>
+    <WIS>8</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>-</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>Self-healing</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/126.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>렌토</Korean_Name>
+    <English_Name>Lento</English_Name>
+    <STR>3</STR>
+    <INT>12</INT>
+    <WIS>7</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>-</Pre_Req>
+    <Location>Piet Black Mage</Location>
+    <Description>Level 1 Curse</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/109.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>아지토</Korean_Name>
+    <English_Name>Dachaidh</English_Name>
+    <STR>3</STR>
+    <INT>10</INT>
+    <WIS>6</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>-</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>Return to Inn</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/119.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>마레노</Korean_Name>
+    <English_Name>sal</English_Name>
+    <STR>3</STR>
+    <INT>6</INT>
+    <WIS>4</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>-</Pre_Req>
+    <Location>Piet Black Mage</Location>
+    <Description>Level 1 Water Attack</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/151.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>아들레스투</Korean_Name>
+    <English_Name>Inspect Item</English_Name>
+    <STR>3</STR>
+    <INT>3</INT>
+    <WIS>3</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>-</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>Inspect item attributes</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/161.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>아이템고치기</Korean_Name>
+    <English_Name>Repair Item</English_Name>
+    <STR>6</STR>
+    <INT>3</INT>
+    <WIS>3</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>-</Pre_Req>
+    <Location>Piet Special Trainer</Location>
+    <Description>Repair item in the first inventory slot</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/33.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>탐색</Korean_Name>
+    <English_Name>Look</English_Name>
+    <STR>3</STR>
+    <INT>3</INT>
+    <WIS>3</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>-</Pre_Req>
+    <Location>Basic Trainer</Location>
+    <Description>Location/Front of your character tile information</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/9.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>문열기</Korean_Name>
+    <English_Name>Open Door</English_Name>
+    <STR>3</STR>
+    <INT>3</INT>
+    <WIS>3</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>-</Pre_Req>
+    <Location>Piet Special Trainer</Location>
+    <Description>Open building door</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/8.jpg</Image_URL>
+  </_>
+  <_>
+    <Korean_Name>기본공격</Korean_Name>
+    <English_Name>Assail</English_Name>
+    <STR>3</STR>
+    <INT>3</INT>
+    <WIS>3</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>-</Pre_Req>
+    <Location>Basic Trainer</Location>
+    <Description>Basic Attack</Description>
+    <Image_URL>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/2.jpg</Image_URL>
+  </_>
+</data>
+

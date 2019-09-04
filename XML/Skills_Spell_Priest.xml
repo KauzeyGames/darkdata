@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <_>
+    <Korean_Name>수페라에나르마</Korean_Name>
+    <English_Name>(M)fas deireas</English_Name>
+    <STR>6</STR>
+    <INT>130</INT>
+    <WIS>140</WIS>
+    <CON>8</CON>
+    <DEX>15</DEX>
+    <Pre_Req>fas deireas(1+)</Pre_Req>
+    <Location>Mileth ?Wizard?</Location>
+    <Description>Master upgrade for Fas Deireas</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/243.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>엑스벨라룸</Korean_Name>
+    <English_Name>(M)mor beannaich</English_Name>
+    <STR>6</STR>
+    <INT>130</INT>
+    <WIS>140</WIS>
+    <CON>8</CON>
+    <DEX>15</DEX>
+    <Pre_Req>mor beannaich (1+)</Pre_Req>
+    <Location>Mileth ?Wizard?</Location>
+    <Description>Master upgrade for Mor Beannaich</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/244.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>홀리드래곤</Korean_Name>
+    <English_Name>Holy Dragon</English_Name>
+    <STR>0</STR>
+    <INT>0</INT>
+    <WIS>0</WIS>
+    <CON>0</CON>
+    <DEX>0</DEX>
+    <Pre_Req>-</Pre_Req>
+    <Location>Mileth Master Trainer</Location>
+    <Description>Priest's strong holy attack.</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/308.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>홀리큐어</Korean_Name>
+    <English_Name>ao Dark Seal</English_Name>
+    <STR>10</STR>
+    <INT>115</INT>
+    <WIS>125</WIS>
+    <CON>10</CON>
+    <DEX>13</DEX>
+    <Pre_Req>-</Pre_Req>
+    <Location>Mileth Master Trainer</Location>
+    <Description>removes Dark Seal</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/285.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>신의 축복</Korean_Name>
+    <English_Name>God's Blessing</English_Name>
+    <STR>14</STR>
+    <INT>120</INT>
+    <WIS>132</WIS>
+    <CON>14</CON>
+    <DEX>16</DEX>
+    <Pre_Req>Khan's Blessing 60</Pre_Req>
+    <Location>Mileth Master Trainer</Location>
+    <Description>Set of blessings (unsure which)</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/221.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>칸의 축복</Korean_Name>
+    <English_Name>Khan's Blessing</English_Name>
+    <STR>8</STR>
+    <INT>113</INT>
+    <WIS>112</WIS>
+    <CON>10</CON>
+    <DEX>12</DEX>
+    <Pre_Req>-</Pre_Req>
+    <Location>Mileth Master Trainer</Location>
+    <Description>Magic Shield 2? or armacdh 2?</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/220.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>홀리쿠라노</Korean_Name>
+    <English_Name>dia ard ioc</English_Name>
+    <STR>0</STR>
+    <INT>0</INT>
+    <WIS>0</WIS>
+    <CON>0</CON>
+    <DEX>0</DEX>
+    <Pre_Req>-</Pre_Req>
+    <Location>Automatic when master</Location>
+    <Description>Level 6 Heal</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/233.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>코마디아</Korean_Name>
+    <English_Name>Beothaichdeum</English_Name>
+    <STR>3</STR>
+    <INT>104</INT>
+    <WIS>77</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>Nuadhaich 30, ao suain 90</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>Recovers from a coma (same as Komadium)</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/192.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>리베라토</Korean_Name>
+    <English_Name>Cleanse</English_Name>
+    <STR>3</STR>
+    <INT>103</INT>
+    <WIS>77</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>ao Prabo 90</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>remove most negative ailments</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/112.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>엑스쿠라네라</Korean_Name>
+    <English_Name>ard ioc comlha</English_Name>
+    <STR>3</STR>
+    <INT>102</INT>
+    <WIS>77</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>mor ioc comlha 90, Nuadhaich 75</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>Group Heal Level 4</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/184.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>엑스쿠라노</Korean_Name>
+    <English_Name>Nuadhaich</English_Name>
+    <STR>3</STR>
+    <INT>101</INT>
+    <WIS>77</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>ard ioc 90</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>Heal Level 5</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/183.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>디내추라</Korean_Name>
+    <English_Name>Sonruich Nadur</English_Name>
+    <STR>3</STR>
+    <INT>99</INT>
+    <WIS>80</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>Spion Beathach 90</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>Randomly change element of creature.</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/199.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>리플렉토</Korean_Name>
+    <English_Name>Deireas Faileas</English_Name>
+    <STR>3</STR>
+    <INT>99</INT>
+    <WIS>80</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>Mor Dion 90</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>Reflect Spells</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/159.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>이모탈</Korean_Name>
+    <English_Name>Mor Dion</English_Name>
+    <STR>3</STR>
+    <INT>96</INT>
+    <WIS>75</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>Magic Shield 75</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>become invincible for 20 seconds</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/158.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>호르라마</Korean_Name>
+    <English_Name>noamh aite</English_Name>
+    <STR>3</STR>
+    <INT>93</INT>
+    <WIS>73</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>armachd 60</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>Reduce incoming damage in half</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/115.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>소모니아</Korean_Name>
+    <English_Name>Spion Beathach</English_Name>
+    <STR>3</STR>
+    <INT>89</INT>
+    <WIS>71</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>Summon Player 30</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>Summon a creature to help you</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/154.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>쿠라네라</Korean_Name>
+    <English_Name>mor ioc comlha</English_Name>
+    <STR>3</STR>
+    <INT>87</INT>
+    <WIS>68</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>ioc comlha 75, ard ioc 60</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>Group Heal Level 3</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/139.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>디소루마</Korean_Name>
+    <English_Name>ao Suain</English_Name>
+    <STR>3</STR>
+    <INT>86</INT>
+    <WIS>69</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>ao dall 75</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>Remove Suain</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/156.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>리치마나</Korean_Name>
+    <English_Name>puinneag spiorad</English_Name>
+    <STR>3</STR>
+    <INT>84</INT>
+    <WIS>67</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>Holy Bolt (Deo Saighead) 60</Pre_Req>
+    <Location>Piet Black Mage</Location>
+    <Description>Steal a group member's mana</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/207.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>디프라바</Korean_Name>
+    <English_Name>ao Prabo</English_Name>
+    <STR>3</STR>
+    <INT>79</INT>
+    <WIS>67</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>ao Depreco 75</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>Remove Prabo</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/187.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>수페라쿠라노</Korean_Name>
+    <English_Name>ard ioc</English_Name>
+    <STR>3</STR>
+    <INT>78</INT>
+    <WIS>65</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>mor ioc 75</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>Heal Level 4</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/136.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>로카메아</Korean_Name>
+    <English_Name>Summon Player</English_Name>
+    <STR>3</STR>
+    <INT>72</INT>
+    <WIS>64</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>dachaidh 60</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>Summons a user to you?</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/118.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>수페라벨라르모</Korean_Name>
+    <English_Name>mor beannaich</English_Name>
+    <STR>3</STR>
+    <INT>70</INT>
+    <WIS>60</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>mor beannaich 60</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>HIT Blessing Level 2</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/120.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>콜라마</Korean_Name>
+    <English_Name>armachd</English_Name>
+    <STR>3</STR>
+    <INT>69</INT>
+    <WIS>55</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>-</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>Cast Protection (reduces AC)</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/200.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>실드</Korean_Name>
+    <English_Name>Magic Shield</English_Name>
+    <STR>3</STR>
+    <INT>64</INT>
+    <WIS>53</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>seun 60</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>Creates a magical shield against damage</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/197.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>쿠랄툼</Korean_Name>
+    <English_Name>Slan</English_Name>
+    <STR>3</STR>
+    <INT>58</INT>
+    <WIS>50</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>fas deireas60</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>Increase regeneration (casts on self)</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/131.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>일루메나</Korean_Name>
+    <English_Name>ao dall</English_Name>
+    <STR>3</STR>
+    <INT>54</INT>
+    <WIS>45</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>ao puinsein 60, ao pramh 30</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>Remove blind</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/130.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>홀리볼트</Korean_Name>
+    <English_Name>Holy Bolt (Deo Saighead)</English_Name>
+    <STR>3</STR>
+    <INT>53</INT>
+    <WIS>45</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>mor ioc 45, ioc comlha 5</Pre_Req>
+    <Location>Piet Black Mage</Location>
+    <Description>Light element damage spell.</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/176.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>쿠라누스</Korean_Name>
+    <English_Name>ioc comlha</English_Name>
+    <STR>3</STR>
+    <INT>53</INT>
+    <WIS>44</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>beag ioc comlha 60, mor ioc 45</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>Group Heal Level 2</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/138.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>디데프레카</Korean_Name>
+    <English_Name>ao Depreco</English_Name>
+    <STR>3</STR>
+    <INT>49</INT>
+    <WIS>36</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>ao Bardo 60</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>Remove Depreco</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/186.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>디나르콜리</Korean_Name>
+    <English_Name>ao pramh</English_Name>
+    <STR>3</STR>
+    <INT>47</INT>
+    <WIS>34</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>ao puinsein 30</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>Remove Sleep curse</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/191.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>쿠라노소</Korean_Name>
+    <English_Name>mor ioc</English_Name>
+    <STR>3</STR>
+    <INT>45</INT>
+    <WIS>32</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>ioc 60</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>Heal Level 3</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/135.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>베누스티</Korean_Name>
+    <English_Name>seun</English_Name>
+    <STR>3</STR>
+    <INT>39</INT>
+    <WIS>26</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>-</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>Mermerize creature to fight for you</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/194.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>에나르마</Korean_Name>
+    <English_Name>fas deireas</English_Name>
+    <STR>3</STR>
+    <INT>35</INT>
+    <WIS>28</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>beannaich 30</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>Increase DMG on target</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/157.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>디베노모</Korean_Name>
+    <English_Name>ao puinsein</English_Name>
+    <STR>3</STR>
+    <INT>31</INT>
+    <WIS>24</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>-</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>Remove poison</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/129.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>쿠러스</Korean_Name>
+    <English_Name>beag ioc comlha</English_Name>
+    <STR>3</STR>
+    <INT>28</INT>
+    <WIS>20</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>beag ioc 60, ioc 30</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>Group Heal Level 1</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/137.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>디바르도</Korean_Name>
+    <English_Name>Ao Bardo</English_Name>
+    <STR>3</STR>
+    <INT>23</INT>
+    <WIS>16</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>ao Lento 30</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>Remove Bardo</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/185.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>쿠라노</Korean_Name>
+    <English_Name>ioc</English_Name>
+    <STR>3</STR>
+    <INT>17</INT>
+    <WIS>12</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>beag ioc 30</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>Heal Level 2</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/134.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>벨라르모</Korean_Name>
+    <English_Name>Beannaich</English_Name>
+    <STR>3</STR>
+    <INT>13</INT>
+    <WIS>9</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>-</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>HIT Blessing Level 1</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/120.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>아지토</Korean_Name>
+    <English_Name>dachaidh</English_Name>
+    <STR>3</STR>
+    <INT>10</INT>
+    <WIS>6</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>-</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>Teleport to an Inn</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/119.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>디렌토</Korean_Name>
+    <English_Name>Ao Lento</English_Name>
+    <STR>3</STR>
+    <INT>9</INT>
+    <WIS>5</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>-</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>Remove Lento</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/128.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>쿠로</Korean_Name>
+    <English_Name>beag ioc</English_Name>
+    <STR>3</STR>
+    <INT>8</INT>
+    <WIS>4</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>-</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>Heal Level 1</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/133.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>쿠로토</Korean_Name>
+    <English_Name>beag ioc fein</English_Name>
+    <STR>3</STR>
+    <INT>9</INT>
+    <WIS>6</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>-</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>Self-healing</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/126.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>아들레스투</Korean_Name>
+    <English_Name>Inspect Item</English_Name>
+    <STR>3</STR>
+    <INT>3</INT>
+    <WIS>3</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>-</Pre_Req>
+    <Location>Piet White Mage</Location>
+    <Description>Inspect Items properties</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/161.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>아이템고치기</Korean_Name>
+    <English_Name>Repair Item</English_Name>
+    <STR>6</STR>
+    <INT>3</INT>
+    <WIS>3</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>-</Pre_Req>
+    <Location>Piet Special Trainer</Location>
+    <Description>Repair item in the first inventory slot</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/33.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>수혈</Korean_Name>
+    <English_Name>Transfer Blood</English_Name>
+    <STR>3</STR>
+    <INT>6</INT>
+    <WIS>6</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>-</Pre_Req>
+    <Location>Piet Special Trainer</Location>
+    <Description>Transfer away some of your health</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/47.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>탐색</Korean_Name>
+    <English_Name>Look</English_Name>
+    <STR>3</STR>
+    <INT>3</INT>
+    <WIS>3</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>-</Pre_Req>
+    <Location>Basic Trainer</Location>
+    <Description>Location/Front of your character tile information</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/9.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>문열기</Korean_Name>
+    <English_Name>Open Door</English_Name>
+    <STR>3</STR>
+    <INT>3</INT>
+    <WIS>3</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>-</Pre_Req>
+    <Location>Piet Special Trainer</Location>
+    <Description>Open building door</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/8.jpg</Image>
+  </_>
+  <_>
+    <Korean_Name>기본공격</Korean_Name>
+    <English_Name>Assail</English_Name>
+    <STR>3</STR>
+    <INT>3</INT>
+    <WIS>3</WIS>
+    <CON>3</CON>
+    <DEX>3</DEX>
+    <Pre_Req>-</Pre_Req>
+    <Location>Basic Trainer</Location>
+    <Description>Basic Attack</Description>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/skill/2.jpg</Image>
+  </_>
+</data>
+

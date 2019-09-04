@@ -1,0 +1,1013 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<data>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0194.gif</Image>
+    <Korean_Name>대지의진주목걸이</Korean_Name>
+    <English_Name>Land pearl necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0195.gif</Image>
+    <Korean_Name>대지의금옥목걸이</Korean_Name>
+    <English_Name>Geumok Land Necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2000, Hit 0, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0196.gif</Image>
+    <Korean_Name>칸의목걸이</Korean_Name>
+    <English_Name>Khan Necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>1</Weight>
+    <AC>ac-1</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0197.gif</Image>
+    <Korean_Name>대지의목걸이</Korean_Name>
+    <English_Name>Necklace of the Earth</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 1000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0198.gif</Image>
+    <Korean_Name>바람의목걸이</Korean_Name>
+    <English_Name>Necklace of the Wind</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 1000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0199.gif</Image>
+    <Korean_Name>바다의목걸이</Korean_Name>
+    <English_Name>Necklace of the Sea</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 1000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0200.gif</Image>
+    <Korean_Name>바람의벽옥목걸이</Korean_Name>
+    <English_Name>Jasper wind necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 3000, Hit 10, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0201.gif</Image>
+    <Korean_Name>마기아목걸이</Korean_Name>
+    <English_Name>Do starvation Necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2500, Hit 5, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0201.gif</Image>
+    <Korean_Name>어둠의마기아목걸이</Korean_Name>
+    <English_Name>Do starvation Necklace of Darkness</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2500, Hit 5, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0204.gif</Image>
+    <Korean_Name>화염의자수정목걸이</Korean_Name>
+    <English_Name>Flame amethyst necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 3000, Hit 0, Dam 2, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0205.gif</Image>
+    <Korean_Name>화염의목걸이</Korean_Name>
+    <English_Name>Necklace of Flame</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 1000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0908.gif</Image>
+    <Korean_Name>암흑의목걸이</Korean_Name>
+    <English_Name>Dark Necklace</English_Name>
+    <Class>직업공용</Class>
+    <Weight>3</Weight>
+    <AC>ac-1</AC>
+    <Stats>Durability 300000, Hit 0, Dam 0, HP 300, MP 150, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0909.gif</Image>
+    <Korean_Name>생명의목걸이</Korean_Name>
+    <English_Name>Necklace of Life</English_Name>
+    <Class>직업공용</Class>
+    <Weight>3</Weight>
+    <AC>ac-1</AC>
+    <Stats>Durability 300000, Hit 0, Dam 0, HP 300, MP 150, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0935.gif</Image>
+    <Korean_Name>바다의자수정목걸이</Korean_Name>
+    <English_Name>Amethyst Necklace of the Sea</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 3000, Hit 0, Dam 2, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0935.gif</Image>
+    <Korean_Name>자수정목걸이1</Korean_Name>
+    <English_Name>Amethyst necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 3000, Hit 0, Dam 2, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0936.gif</Image>
+    <Korean_Name>대지의자수정목걸이</Korean_Name>
+    <English_Name>Land amethyst necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 3000, Hit 0, Dam 2, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0936.gif</Image>
+    <Korean_Name>자수정목걸이2</Korean_Name>
+    <English_Name>Amethyst necklace 2</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 3000, Hit 0, Dam 2, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0937.gif</Image>
+    <Korean_Name>바람의자수정목걸이</Korean_Name>
+    <English_Name>Wind amethyst necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 3000, Hit 0, Dam 2, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0937.gif</Image>
+    <Korean_Name>자수정목걸이3</Korean_Name>
+    <English_Name>Amethyst necklace 3</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 3000, Hit 0, Dam 2, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0938.gif</Image>
+    <Korean_Name>바다의마기아목걸이</Korean_Name>
+    <English_Name>Do starvation necklace ocean</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2500, Hit 5, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0938.gif</Image>
+    <Korean_Name>마기아목걸이1</Korean_Name>
+    <English_Name>Do starvation necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2500, Hit 5, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0939.gif</Image>
+    <Korean_Name>대지의마기아목걸이</Korean_Name>
+    <English_Name>Do starvation necklace Land</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2500, Hit 5, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0939.gif</Image>
+    <Korean_Name>마기아목걸이2</Korean_Name>
+    <English_Name>Do starvation necklace 2</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2500, Hit 5, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0940.gif</Image>
+    <Korean_Name>바람의마기아목걸이</Korean_Name>
+    <English_Name>Do starvation necklace wind</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2500, Hit 5, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0940.gif</Image>
+    <Korean_Name>마기아목걸이3</Korean_Name>
+    <English_Name>Do starvation Necklace 3</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2500, Hit 5, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0941.gif</Image>
+    <Korean_Name>화염의마기아목걸이</Korean_Name>
+    <English_Name>Do starvation Necklace of Flame</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2500, Hit 5, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0941.gif</Image>
+    <Korean_Name>마기아목걸이4</Korean_Name>
+    <English_Name>4 Do starvation Necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2500, Hit 5, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0942.gif</Image>
+    <Korean_Name>바다의벽옥목걸이</Korean_Name>
+    <English_Name>Jasper ocean necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 3000, Hit 10, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0942.gif</Image>
+    <Korean_Name>금옥목걸이1</Korean_Name>
+    <English_Name>Geumok necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2000, Hit 0, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0943.gif</Image>
+    <Korean_Name>대지의벽옥목걸이</Korean_Name>
+    <English_Name>Jasper Land Necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 3000, Hit 10, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0943.gif</Image>
+    <Korean_Name>금옥목걸이2</Korean_Name>
+    <English_Name>Geumok necklace 2</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2000, Hit 0, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0944.gif</Image>
+    <Korean_Name>화염의벽옥목걸이</Korean_Name>
+    <English_Name>Flame of jasper necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 3000, Hit 10, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0944.gif</Image>
+    <Korean_Name>금옥목걸이3</Korean_Name>
+    <English_Name>Geumok Necklace 3</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2000, Hit 0, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0945.gif</Image>
+    <Korean_Name>바다의진주목걸이</Korean_Name>
+    <English_Name>Pearl of the Sea Necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0945.gif</Image>
+    <Korean_Name>벽옥목걸이1</Korean_Name>
+    <English_Name>Jasper necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 3000, Hit 10, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0946.gif</Image>
+    <Korean_Name>바람의진주목걸이</Korean_Name>
+    <English_Name>Wind pearl necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0946.gif</Image>
+    <Korean_Name>벽옥목걸이2</Korean_Name>
+    <English_Name>Jasper necklace 2</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 3000, Hit 10, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0947.gif</Image>
+    <Korean_Name>화염의진주목걸이</Korean_Name>
+    <English_Name>Flame pearl necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0947.gif</Image>
+    <Korean_Name>벽옥목걸이3</Korean_Name>
+    <English_Name>Jasper necklace three</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 3000, Hit 10, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0948.gif</Image>
+    <Korean_Name>바다의금옥목걸이</Korean_Name>
+    <English_Name>Geumok of the ocean necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2000, Hit 0, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0948.gif</Image>
+    <Korean_Name>진주목걸이1</Korean_Name>
+    <English_Name>Pearl necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0949.gif</Image>
+    <Korean_Name>바람의금옥목걸이</Korean_Name>
+    <English_Name>Geumok wind necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2000, Hit 0, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0949.gif</Image>
+    <Korean_Name>진주목걸이2</Korean_Name>
+    <English_Name>Pearl Necklace 2</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0950.gif</Image>
+    <Korean_Name>화염의금옥목걸이</Korean_Name>
+    <English_Name>Flame of geumok Necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2000, Hit 0, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0950.gif</Image>
+    <Korean_Name>진주목걸이3</Korean_Name>
+    <English_Name>Pearl Necklace 3</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0951.gif</Image>
+    <Korean_Name>진주목걸이</Korean_Name>
+    <English_Name>Pearl Necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0951.gif</Image>
+    <Korean_Name>마기아목걸이4</Korean_Name>
+    <English_Name>4 Do starvation Necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2500, Hit 5, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0952.gif</Image>
+    <Korean_Name>금옥목걸이</Korean_Name>
+    <English_Name>Geumok Necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2000, Hit 0, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0952.gif</Image>
+    <Korean_Name>마기아목걸이4</Korean_Name>
+    <English_Name>4 Do starvation Necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2500, Hit 5, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0953.gif</Image>
+    <Korean_Name>벽옥목걸이</Korean_Name>
+    <English_Name>Jasper necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 3000, Hit 10, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0953.gif</Image>
+    <Korean_Name>마기아목걸이4</Korean_Name>
+    <English_Name>4 Do starvation Necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2500, Hit 5, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0954.gif</Image>
+    <Korean_Name>자수정목걸이</Korean_Name>
+    <English_Name>Amethyst necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 3000, Hit 0, Dam 2, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0954.gif</Image>
+    <Korean_Name>마기아목걸이4</Korean_Name>
+    <English_Name>4 Do starvation Necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2500, Hit 5, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item015/item1567.gif</Image>
+    <Korean_Name>바다의크리스탈목걸이</Korean_Name>
+    <English_Name>The sea crystal necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>1</Weight>
+    <AC>ac-1</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item015/item1567.gif</Image>
+    <Korean_Name>바다의크리스탈목걸이</Korean_Name>
+    <English_Name>The sea crystal necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac-1</AC>
+    <Stats>Durability 3000, Hit 5, -Dam 2, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item015/item1568.gif</Image>
+    <Korean_Name>대지의크리스탈목걸이</Korean_Name>
+    <English_Name>Land crystal necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>1</Weight>
+    <AC>ac-1</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item015/item1568.gif</Image>
+    <Korean_Name>대지의크리스탈목걸이</Korean_Name>
+    <English_Name>Land crystal necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac-1</AC>
+    <Stats>Durability 3000, Hit 5, -Dam 2, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item015/item1569.gif</Image>
+    <Korean_Name>바람의크리스탈목걸이</Korean_Name>
+    <English_Name>Wind Crystal Necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>1</Weight>
+    <AC>ac-1</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item015/item1569.gif</Image>
+    <Korean_Name>바람의크리스탈목걸이</Korean_Name>
+    <English_Name>Wind Crystal Necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac-1</AC>
+    <Stats>Durability 3000, Hit 5, -Dam 2, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item015/item1570.gif</Image>
+    <Korean_Name>화염의크리스탈목걸이</Korean_Name>
+    <English_Name>Crystal Necklace of Flame</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>1</Weight>
+    <AC>ac-1</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item015/item1570.gif</Image>
+    <Korean_Name>화염의크리스탈목걸이</Korean_Name>
+    <English_Name>Crystal Necklace of Flame</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac-1</AC>
+    <Stats>Durability 3000, Hit 5, -Dam 2, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item015/item1571.gif</Image>
+    <Korean_Name>크리스탈목걸이</Korean_Name>
+    <English_Name>Crystal Necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>1</Weight>
+    <AC>ac-1</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item015/item1571.gif</Image>
+    <Korean_Name>크리스탈목걸이</Korean_Name>
+    <English_Name>Crystal Necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac-1</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item015/item1578.gif</Image>
+    <Korean_Name>바다의오팔목걸이</Korean_Name>
+    <English_Name>Opal Necklace of the Sea</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>1</Weight>
+    <AC>ac-1</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item015/item1578.gif</Image>
+    <Korean_Name>바다의룬스톤목걸이</Korean_Name>
+    <English_Name>Runseuton of the ocean necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 3000, Hit 0, Dam 3, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item015/item1579.gif</Image>
+    <Korean_Name>대지의오팔목걸이</Korean_Name>
+    <English_Name>Land opal necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>1</Weight>
+    <AC>ac-1</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item015/item1579.gif</Image>
+    <Korean_Name>대지의룬스톤목걸이</Korean_Name>
+    <English_Name>Runseuton Land Necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 3000, Hit 0, Dam 3, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item015/item1580.gif</Image>
+    <Korean_Name>바람의오팔목걸이</Korean_Name>
+    <English_Name>Wind opal necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>1</Weight>
+    <AC>ac-1</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item015/item1580.gif</Image>
+    <Korean_Name>바람의룬스톤목걸이</Korean_Name>
+    <English_Name>Runseuton wind necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 3000, Hit 0, Dam 3, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item015/item1581.gif</Image>
+    <Korean_Name>화염의오팔목걸이</Korean_Name>
+    <English_Name>Flame opal necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>1</Weight>
+    <AC>ac-1</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item015/item1581.gif</Image>
+    <Korean_Name>화염의룬스톤목걸이</Korean_Name>
+    <English_Name>Runseuton Flame Necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 3000, Hit 0, Dam 3, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item015/item1582.gif</Image>
+    <Korean_Name>오팔목걸이</Korean_Name>
+    <English_Name>Opal necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>1</Weight>
+    <AC>ac-1</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item015/item1582.gif</Image>
+    <Korean_Name>룬스톤목걸이</Korean_Name>
+    <English_Name>Runseuton Necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 3000, Hit 0, Dam 3, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1858.gif</Image>
+    <Korean_Name>금의진주목걸이</Korean_Name>
+    <English_Name>Gold pearl necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1859.gif</Image>
+    <Korean_Name>숲의진주목걸이</Korean_Name>
+    <English_Name>Of forest pearl necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1860.gif</Image>
+    <Korean_Name>금의금옥목걸이</Korean_Name>
+    <English_Name>Geumok gold necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2000, Hit 0, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1861.gif</Image>
+    <Korean_Name>숲의금옥목걸이</Korean_Name>
+    <English_Name>Geumok of Forest Necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2000, Hit 0, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1862.gif</Image>
+    <Korean_Name>금의벽옥목걸이</Korean_Name>
+    <English_Name>Jasper Gold Necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 3000, Hit 10, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1863.gif</Image>
+    <Korean_Name>숲의벽옥목걸이</Korean_Name>
+    <English_Name>Necklace of Jasper Forest</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 3000, Hit 10, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1864.gif</Image>
+    <Korean_Name>금의자수정목걸이</Korean_Name>
+    <English_Name>Gold amethyst necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 3000, Hit 0, Dam 2, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1865.gif</Image>
+    <Korean_Name>숲의자수정목걸이</Korean_Name>
+    <English_Name>Of forest amethyst necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 3000, Hit 0, Dam 2, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1866.gif</Image>
+    <Korean_Name>금의마기아목걸이</Korean_Name>
+    <English_Name>Do starvation necklace of gold</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2500, Hit 5, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1867.gif</Image>
+    <Korean_Name>숲의마기아목걸이</Korean_Name>
+    <English_Name>A forest village Kia Necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2500, Hit 5, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1867.gif</Image>
+    <Korean_Name>화염의칸나목걸이</Korean_Name>
+    <English_Name>Flame of Canna Necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2500, Hit 5, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1868.gif</Image>
+    <Korean_Name>바람의칸나목걸이</Korean_Name>
+    <English_Name>Wind Khanna Necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2500, Hit 5, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1869.gif</Image>
+    <Korean_Name>철금의칸나목걸이</Korean_Name>
+    <English_Name>Glockenspiel in Khanna Necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2500, Hit 5, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1870.gif</Image>
+    <Korean_Name>대지의칸나목걸이</Korean_Name>
+    <English_Name>Canna Land Necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2500, Hit 5, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1871.gif</Image>
+    <Korean_Name>바다의칸나목걸이</Korean_Name>
+    <English_Name>Khanna sea necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2500, Hit 5, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1872.gif</Image>
+    <Korean_Name>숲의칸나목걸이</Korean_Name>
+    <English_Name>Of forest Khanna Necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>1</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 2500, Hit 5, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item024/item2400.gif</Image>
+    <Korean_Name>친절한목걸이</Korean_Name>
+    <English_Name>Kind Necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>0</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 90000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item024/item2400.gif</Image>
+    <Korean_Name>친절한목걸이</Korean_Name>
+    <English_Name>Kind Necklace</English_Name>
+    <Class>직업공용</Class>
+    <Circle>1</Circle>
+    <Weight>0</Weight>
+    <AC>ac0</AC>
+    <Stats>Durability 90000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item032/item3272.gif</Image>
+    <Korean_Name>주작의목걸이</Korean_Name>
+    <English_Name>Suzaku necklace</English_Name>
+    <Class>직업공용</Class>
+    <Weight>1</Weight>
+    <AC>ac-1</AC>
+    <Stats>Durability 300000, Hit 0, Dam 0, HP 0, MP 1000, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 100%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+</data>
+

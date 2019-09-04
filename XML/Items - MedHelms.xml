@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2376.gif</Image>
+    <Korean_Name>흑비류선후(남)</Korean_Name>
+    <English_Name>Black Biryu sequencing (M)</English_Name>
+    <Weight>3</Weight>
+    <Stats>Durability 2310000, Hit 0, Dam 0, HP 600, MP 500, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Male</Stats>
+    <Acquisition>-</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2378.gif</Image>
+    <Korean_Name>흑비화무투구(남)</Korean_Name>
+    <English_Name>Black spark-free pitches (M)</English_Name>
+    <Weight>4</Weight>
+    <Stats>Durability 231000, Hit 0, Dam 0, HP 800, MP 500, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Male</Stats>
+    <Acquisition>-</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2380.gif</Image>
+    <Korean_Name>흑태극현(남)</Korean_Name>
+    <English_Name>Black Tai Hyun (South)</English_Name>
+    <Weight>2</Weight>
+    <Stats>Durability 231000, Hit 0, Dam 0, HP 1000, MP 400, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Male</Stats>
+    <Acquisition>-</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2382.gif</Image>
+    <Korean_Name>흑비현진건(남)</Korean_Name>
+    <English_Name>Heukbi Hyun Jin-geon (M)</English_Name>
+    <Weight>2</Weight>
+    <Stats>Durability 231000, Hit 0, Dam 0, HP 800, MP 400, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Male</Stats>
+    <Acquisition>-</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2384.gif</Image>
+    <Korean_Name>흑비화후관(남)</Korean_Name>
+    <English_Name>Black spark hugwan (M)</English_Name>
+    <Weight>2</Weight>
+    <Stats>Durability 231000, Hit 0, Dam 0, HP 600, MP 600, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Male</Stats>
+    <Acquisition>-</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2386.gif</Image>
+    <Korean_Name>흑비화후관(여)</Korean_Name>
+    <English_Name>Black spark hugwan (F)</English_Name>
+    <Weight>2</Weight>
+    <Stats>Durability 231000, Hit 0, Dam 0, HP 600, MP 600, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Female</Stats>
+    <Acquisition>-</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2388.gif</Image>
+    <Korean_Name>흑비화무투구(여)</Korean_Name>
+    <English_Name>Black spark-free pitches (F)</English_Name>
+    <Weight>4</Weight>
+    <Stats>Durability 231000, Hit 0, Dam 0, HP 800, MP 500, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Female</Stats>
+    <Acquisition>-</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2390.gif</Image>
+    <Korean_Name>흑태극현(여)</Korean_Name>
+    <English_Name>Black Tai Hyun (F)</English_Name>
+    <Weight>2</Weight>
+    <Stats>Durability 231000, Hit 0, Dam 0, HP 1000, MP 400, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Female</Stats>
+    <Acquisition>-</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2392.gif</Image>
+    <Korean_Name>흑비류선후(여)</Korean_Name>
+    <English_Name>Black Biryu sequencing (F)</English_Name>
+    <Weight>3</Weight>
+    <Stats>Durability 2310000, Hit 0, Dam 0, HP 600, MP 500, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Female</Stats>
+    <Acquisition>-</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2394.gif</Image>
+    <Korean_Name>흑비현진건(여)</Korean_Name>
+    <English_Name>Heukbi Hyun Jin-geon (F)</English_Name>
+    <Weight>2</Weight>
+    <Stats>Durability 231000, Hit 0, Dam 0, HP 800, MP 400, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Female</Stats>
+    <Acquisition>-</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item023/item2375.gif</Image>
+    <Korean_Name>적비류선후(남)</Korean_Name>
+    <English_Name>Ever Biryu sequencing (M)</English_Name>
+    <Weight>3</Weight>
+    <Stats>Durability 23100, Hit 0, Dam 0, HP 300, MP 500, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Male</Stats>
+    <Acquisition>-</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item023/item2377.gif</Image>
+    <Korean_Name>적비화무투구(남)</Korean_Name>
+    <English_Name>Enemy spark-free pitches (M)</English_Name>
+    <Weight>4</Weight>
+    <Stats>Durability 23100, Hit 0, Dam 0, HP 400, MP 500, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Male</Stats>
+    <Acquisition>-</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item023/item2379.gif</Image>
+    <Korean_Name>적태극현(남)</Korean_Name>
+    <English_Name>Ever Taiji County (south)</English_Name>
+    <Weight>2</Weight>
+    <Stats>Durability 23100, Hit 0, Dam 0, HP 800, MP -400, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Male</Stats>
+    <Acquisition>-</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item023/item2381.gif</Image>
+    <Korean_Name>적비현진건(남)</Korean_Name>
+    <English_Name>Hyun Jin-geon area ratio (M)</English_Name>
+    <Weight>2</Weight>
+    <Stats>Durability 23100, Hit 0, Dam 0, HP 800, MP 200, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Male</Stats>
+    <Acquisition>-</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item023/item2383.gif</Image>
+    <Korean_Name>적비화후관(남)</Korean_Name>
+    <English_Name>Ever sparked hugwan (M)</English_Name>
+    <Weight>2</Weight>
+    <Stats>Durability 23100, Hit 0, Dam 0, HP 300, MP 600, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Male</Stats>
+    <Acquisition>-</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item023/item2385.gif</Image>
+    <Korean_Name>적비화후관(여)</Korean_Name>
+    <English_Name>Ever sparked hugwan (F)</English_Name>
+    <Weight>2</Weight>
+    <Stats>Durability 23100, Hit 0, Dam 0, HP 300, MP 600, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Female</Stats>
+    <Acquisition>-</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item023/item2387.gif</Image>
+    <Korean_Name>적비화무투구(여)</Korean_Name>
+    <English_Name>Enemy spark-free pitches (F)</English_Name>
+    <Weight>4</Weight>
+    <Stats>Durability 23100, Hit 0, Dam 0, HP 400, MP 500, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Female</Stats>
+    <Acquisition>-</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item023/item2389.gif</Image>
+    <Korean_Name>적태극현(여)</Korean_Name>
+    <English_Name>Taiji ever Prefecture (W)</English_Name>
+    <Weight>2</Weight>
+    <Stats>Durability 23100, Hit 0, Dam 0, HP 800, MP -400, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Female</Stats>
+    <Acquisition>-</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item023/item2391.gif</Image>
+    <Korean_Name>적비류선후(여)</Korean_Name>
+    <English_Name>Ever Biryu sequencing (F)</English_Name>
+    <Weight>3</Weight>
+    <Stats>Durability 23100, Hit 0, Dam 0, HP 300, MP 500, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Female</Stats>
+    <Acquisition>-</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item023/item2393.gif</Image>
+    <Korean_Name>적비현진건(여)</Korean_Name>
+    <English_Name>Hyun Jin-geon area ratio (F)</English_Name>
+    <Weight>2</Weight>
+    <Stats>Durability 23100, Hit 0, Dam 0, HP 800, MP 200, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Female</Stats>
+    <Acquisition>-</Acquisition>
+  </Item>
+  <_ />
+  <_ />
+  <_ />
+</data>
+

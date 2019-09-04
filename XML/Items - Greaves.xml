@@ -1,0 +1,757 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<data>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0238.gif</Image>
+    <Korean_Name>가죽각반</Korean_Name>
+    <English_Name>Spatterdashes</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>4</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0238.gif</Image>
+    <Korean_Name>세오의가죽각반</Korean_Name>
+    <English_Name>Seo leather leggings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>4</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 5%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0238.gif</Image>
+    <Korean_Name>로오의가죽각반</Korean_Name>
+    <English_Name>Lawrence leather leggings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>4</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 1, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0238.gif</Image>
+    <Korean_Name>칸의가죽각반</Korean_Name>
+    <English_Name>Khan's Leather Leggings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>4</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0238.gif</Image>
+    <Korean_Name>세토아의가죽각반</Korean_Name>
+    <English_Name>Setoah of leather leggings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>4</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0238.gif</Image>
+    <Korean_Name>이아의가죽각반</Korean_Name>
+    <English_Name>Iain leather leggings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>4</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 1, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0238.gif</Image>
+    <Korean_Name>셔스의가죽각반</Korean_Name>
+    <English_Name>Precious leather leggings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>4</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0238.gif</Image>
+    <Korean_Name>메투스의가죽각반</Korean_Name>
+    <English_Name>Tome of tooth spatterdashes</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>4</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0238.gif</Image>
+    <Korean_Name>뮤레칸의가죽각반</Korean_Name>
+    <English_Name>Mu rekan leather leggings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>4</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 30000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0238.gif</Image>
+    <Korean_Name>축복의가죽각반</Korean_Name>
+    <English_Name>Leather Leggings of blessing</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>4</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 3000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0238.gif</Image>
+    <Korean_Name>풍요의가죽각반</Korean_Name>
+    <English_Name>Abundance of leather leggings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>4</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 3000, Hit 0, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0238.gif</Image>
+    <Korean_Name>체력의가죽각반</Korean_Name>
+    <English_Name>Leather leggings fitness</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>4</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 100, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0238.gif</Image>
+    <Korean_Name>마법의가죽각반</Korean_Name>
+    <English_Name>Magic Leather Leggings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>4</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 50, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0239.gif</Image>
+    <Korean_Name>은각반</Korean_Name>
+    <English_Name>Eungak half</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>8</Weight>
+    <AC>ac-6</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0239.gif</Image>
+    <Korean_Name>세오의은각반</Korean_Name>
+    <English_Name>Seo metaphor Greaves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>8</Weight>
+    <AC>ac-6</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 5%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0239.gif</Image>
+    <Korean_Name>로오의은각반</Korean_Name>
+    <English_Name>Lawrence metaphor Gaiters</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>8</Weight>
+    <AC>ac-6</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 1, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0239.gif</Image>
+    <Korean_Name>칸의은각반</Korean_Name>
+    <English_Name>Space saver Greaves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>8</Weight>
+    <AC>ac-6</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0239.gif</Image>
+    <Korean_Name>세토아의은각반</Korean_Name>
+    <English_Name>Setoah metaphor Greaves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>8</Weight>
+    <AC>ac-6</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0239.gif</Image>
+    <Korean_Name>이아의은각반</Korean_Name>
+    <English_Name>Iain metaphor Gaiters</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>8</Weight>
+    <AC>ac-6</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 1, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0239.gif</Image>
+    <Korean_Name>셔스의은각반</Korean_Name>
+    <English_Name>Precious metaphor Greaves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>8</Weight>
+    <AC>ac-6</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0239.gif</Image>
+    <Korean_Name>메투스의은각반</Korean_Name>
+    <English_Name>Tome tooth saver Greaves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>8</Weight>
+    <AC>ac-6</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0239.gif</Image>
+    <Korean_Name>뮤레칸의은각반</Korean_Name>
+    <English_Name>Mu rekan metaphor Greaves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>8</Weight>
+    <AC>ac-6</AC>
+    <Stats>Durability 90000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0239.gif</Image>
+    <Korean_Name>축복의은각반</Korean_Name>
+    <English_Name>Blessed Greaves saver</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>8</Weight>
+    <AC>ac-6</AC>
+    <Stats>Durability 9000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0239.gif</Image>
+    <Korean_Name>풍요의은각반</Korean_Name>
+    <English_Name>Metaphor of abundance Greaves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>8</Weight>
+    <AC>ac-6</AC>
+    <Stats>Durability 9000, Hit 0, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0239.gif</Image>
+    <Korean_Name>체력의은각반</Korean_Name>
+    <English_Name>Physical metaphor Greaves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>8</Weight>
+    <AC>ac-6</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 100, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0239.gif</Image>
+    <Korean_Name>마법의은각반</Korean_Name>
+    <English_Name>Magic metaphor Greaves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>8</Weight>
+    <AC>ac-6</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 0, MP 50, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0240.gif</Image>
+    <Korean_Name>금각반</Korean_Name>
+    <English_Name>Gold leggings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>10</Weight>
+    <AC>ac-8</AC>
+    <Stats>Durability 12000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0240.gif</Image>
+    <Korean_Name>세오의금각반</Korean_Name>
+    <English_Name>Seo gold leggings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>10</Weight>
+    <AC>ac-8</AC>
+    <Stats>Durability 12000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 5%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0240.gif</Image>
+    <Korean_Name>로오의금각반</Korean_Name>
+    <English_Name>Lawrence of gold leggings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>10</Weight>
+    <AC>ac-8</AC>
+    <Stats>Durability 12000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 1, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0240.gif</Image>
+    <Korean_Name>칸의금각반</Korean_Name>
+    <English_Name>Khan's gold leggings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>10</Weight>
+    <AC>ac-8</AC>
+    <Stats>Durability 12000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0240.gif</Image>
+    <Korean_Name>세토아의금각반</Korean_Name>
+    <English_Name>Setoah of gold leggings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>10</Weight>
+    <AC>ac-8</AC>
+    <Stats>Durability 12000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0240.gif</Image>
+    <Korean_Name>이아의금각반</Korean_Name>
+    <English_Name>Iain gold leggings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>10</Weight>
+    <AC>ac-8</AC>
+    <Stats>Durability 12000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 1, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0240.gif</Image>
+    <Korean_Name>셔스의금각반</Korean_Name>
+    <English_Name>Precious gold leggings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>10</Weight>
+    <AC>ac-8</AC>
+    <Stats>Durability 12000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0240.gif</Image>
+    <Korean_Name>메투스의금각반</Korean_Name>
+    <English_Name>Tome tooth of gold leggings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>10</Weight>
+    <AC>ac-8</AC>
+    <Stats>Durability 12000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0240.gif</Image>
+    <Korean_Name>뮤레칸의금각반</Korean_Name>
+    <English_Name>Mu rekan gold leggings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>10</Weight>
+    <AC>ac-8</AC>
+    <Stats>Durability 120000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0240.gif</Image>
+    <Korean_Name>축복의금각반</Korean_Name>
+    <English_Name>Blessing of gold leggings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>10</Weight>
+    <AC>ac-8</AC>
+    <Stats>Durability 12000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0240.gif</Image>
+    <Korean_Name>풍요의금각반</Korean_Name>
+    <English_Name>The abundance of gold leggings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>10</Weight>
+    <AC>ac-8</AC>
+    <Stats>Durability 12000, Hit 0, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0240.gif</Image>
+    <Korean_Name>체력의금각반</Korean_Name>
+    <English_Name>Gold leggings fitness</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>10</Weight>
+    <AC>ac-8</AC>
+    <Stats>Durability 12000, Hit 0, Dam 0, HP 100, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0240.gif</Image>
+    <Korean_Name>마법의금각반</Korean_Name>
+    <English_Name>Magic gold leggings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>10</Weight>
+    <AC>ac-8</AC>
+    <Stats>Durability 12000, Hit 0, Dam 0, HP 0, MP 50, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0250.gif</Image>
+    <Korean_Name>동각반</Korean_Name>
+    <English_Name>East Greaves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>6</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 6000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0250.gif</Image>
+    <Korean_Name>세오의동각반</Korean_Name>
+    <English_Name>Seo Dong's Gaiters</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>6</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 6000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 5%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0250.gif</Image>
+    <Korean_Name>로오의동각반</Korean_Name>
+    <English_Name>East Lawrence Greaves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>6</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 6000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 1, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0250.gif</Image>
+    <Korean_Name>칸의동각반</Korean_Name>
+    <English_Name>Khan's Greaves East</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>6</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 6000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0250.gif</Image>
+    <Korean_Name>세토아의동각반</Korean_Name>
+    <English_Name>Greaves of East setoah</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>6</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 6000, Hit 0, Dam 0, HP 0, MP 0, Str 1, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0250.gif</Image>
+    <Korean_Name>이아의동각반</Korean_Name>
+    <English_Name>Iasi East Greaves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>6</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 6000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 1, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0250.gif</Image>
+    <Korean_Name>셔스의동각반</Korean_Name>
+    <English_Name>Precious East Greaves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>6</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 6000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 1, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0250.gif</Image>
+    <Korean_Name>메투스의동각반</Korean_Name>
+    <English_Name>East Gaiters Tome Tooth</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>6</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 6000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0250.gif</Image>
+    <Korean_Name>뮤레칸의동각반</Korean_Name>
+    <English_Name>East Gaiters Mu rekan</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>6</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 60000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0250.gif</Image>
+    <Korean_Name>축복의동각반</Korean_Name>
+    <English_Name>East Gaiters blessings</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>6</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 6000, Hit 5, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0250.gif</Image>
+    <Korean_Name>풍요의동각반</Korean_Name>
+    <English_Name>East Gaiters abundance</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>6</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 6000, Hit 0, Dam 1, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0250.gif</Image>
+    <Korean_Name>체력의동각반</Korean_Name>
+    <English_Name>East leggings fitness</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>6</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 6000, Hit 0, Dam 0, HP 100, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0250.gif</Image>
+    <Korean_Name>마법의동각반</Korean_Name>
+    <English_Name>Magical East Greaves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>6</Weight>
+    <AC>ac-4</AC>
+    <Stats>Durability 6000, Hit 0, Dam 0, HP 0, MP 50, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0912.gif</Image>
+    <Korean_Name>용각반</Korean_Name>
+    <English_Name>Gaiters for</English_Name>
+    <Class>직업공용</Class>
+    <Weight>6</Weight>
+    <AC>ac-10</AC>
+    <Stats>Durability 500000, Hit 0, Dam 0, HP 500, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 5%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>적룡굴 몬스터로부터 획득</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item013/item1352.gif</Image>
+    <Korean_Name>루딘의각반</Korean_Name>
+    <English_Name>Gaiters Ruthin</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>4</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item013/item1352.gif</Image>
+    <Korean_Name>베네티가죽클립</Korean_Name>
+    <English_Name>Venetie leather clip</English_Name>
+    <Class>직업공용</Class>
+    <Weight>3</Weight>
+    <AC>ac-11</AC>
+    <Stats>Durability 50000, Hit 0, Dam 0, HP 500, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 5%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>엔도르 개미로부터 획득</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item013/item1353.gif</Image>
+    <Korean_Name>루딘의각반</Korean_Name>
+    <English_Name>Gaiters Ruthin</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>4</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item013/item1353.gif</Image>
+    <Korean_Name>용맹의각반</Korean_Name>
+    <English_Name>Greaves of Valor</English_Name>
+    <Class>직업공용</Class>
+    <Weight>4</Weight>
+    <AC>ac-10</AC>
+    <Stats>Durability 300000, Hit 1, Dam 1, HP -500, MP 0, Str 1, Dex -1, Int 1, Wis -1, Con 1, Regeneration 10%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>몬스터에게서 획득</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item013/item1354.gif</Image>
+    <Korean_Name>테네즈의각반</Korean_Name>
+    <English_Name>Gaiters Te Jimenez</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>4</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item013/item1354.gif</Image>
+    <Korean_Name>베네티미스릴클립</Korean_Name>
+    <English_Name>Venetie Mithril Clip</English_Name>
+    <Class>직업공용</Class>
+    <Weight>6</Weight>
+    <AC>ac-13</AC>
+    <Stats>Durability 50000, Hit 0, Dam 0, HP 700, MP 0, Str 1, Dex 1, Int 1, Wis 1, Con 1, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>엔도르개미가 드랍</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item013/item1355.gif</Image>
+    <Korean_Name>테네즈의각반</Korean_Name>
+    <English_Name>Gaiters Te Jimenez</English_Name>
+    <Class>직업공용</Class>
+    <Weight>1</Weight>
+    <AC>ac-?</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>미구현</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item013/item1356.gif</Image>
+    <Korean_Name>미스릴각반</Korean_Name>
+    <English_Name>Mithril Gaiters</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>4</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item013/item1357.gif</Image>
+    <Korean_Name>마타룸각반</Korean_Name>
+    <English_Name>Mata room Greaves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>4</Weight>
+    <AC>ac-8</AC>
+    <Stats>Durability 30000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>몬스터에게서 획득</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item013/item1357.gif</Image>
+    <Korean_Name>마타룸각반</Korean_Name>
+    <English_Name>Mata room Greaves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>4</Weight>
+    <AC>ac-2</AC>
+    <Stats>Durability 3000, Hit 0, Dam 0, HP 0, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>몬스터에게서 획득</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1848.gif</Image>
+    <Korean_Name>골든플레이트각반</Korean_Name>
+    <English_Name>Golden Plate Greaves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>5</Circle>
+    <Weight>4</Weight>
+    <AC>ac-6</AC>
+    <Stats>Durability 30000, Hit 3, Dam 1, HP 100, MP 100, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 0%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>Item Drop/Shop</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1851.gif</Image>
+    <Korean_Name>아쿠아각반</Korean_Name>
+    <English_Name>Aqua Greaves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>4</Circle>
+    <Weight>8</Weight>
+    <AC>ac-7</AC>
+    <Stats>Durability 9000, Hit 0, Dam 0, HP 40, MP 20, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>해저몬스터에게서 획득</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1852.gif</Image>
+    <Korean_Name>산호각반</Korean_Name>
+    <English_Name>Coral Greaves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>3</Circle>
+    <Weight>6</Weight>
+    <AC>ac-5</AC>
+    <Stats>Durability 6000, Hit 0, Dam 0, HP 30, MP 10, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 10%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>해저 몬스터에게서 획득</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1854.gif</Image>
+    <Korean_Name>그린하트각반</Korean_Name>
+    <English_Name>Green Heart Greaves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>3</Weight>
+    <AC>ac-9</AC>
+    <Stats>Durability 50000, Hit 1, Dam 0, HP 1000, MP 300, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 5%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>사랑의 달리기 이벤트 최종결과물</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item018/item1855.gif</Image>
+    <Korean_Name>레드하트각반</Korean_Name>
+    <English_Name>Red Heart Greaves</English_Name>
+    <Class>직업공용</Class>
+    <Circle>2</Circle>
+    <Weight>3</Weight>
+    <AC>ac-9</AC>
+    <Stats>Durability 50000, Hit 0, Dam 1, HP 300, MP 1000, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 5%, Magic Resist 0%, Unisex</Stats>
+    <Acquisition>사랑의 달리기 이벤트 최종결과물</Acquisition>
+  </Item>
+  <Item>
+    <Image>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item029/item2927.gif</Image>
+    <Korean_Name>베네티풀잎클립</Korean_Name>
+    <English_Name>Venetie grass Clips</English_Name>
+    <Class>직업공용</Class>
+    <Weight>5</Weight>
+    <AC>ac-12</AC>
+    <Stats>Durability 50000, Hit 2, Dam 2, HP 600, MP 0, Str 0, Dex 0, Int 0, Wis 0, Con 0, Regeneration 5%, Magic Resist 10%, Unisex</Stats>
+    <Acquisition>엔도르 개미로부터 획득</Acquisition>
+  </Item>
+</data>
+

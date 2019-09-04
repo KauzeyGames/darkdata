@@ -1,0 +1,3132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Weapons>
+		<Item>
+			<Korean_Name>단검</Korean_Name>
+			<English_Name>Dirk</English_Name>
+			<Class>Any</Class>
+			<Circle>1</Circle>
+			<Weight>3</Weight>
+			<Primary-Stats>S5m15 / L1m2</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0091.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>에페</Korean_Name>
+			<English_Name>Eppe</English_Name>
+			<Class>Any</Class>
+			<Circle>1</Circle>
+			<Weight>3</Weight>
+			<Primary-Stats>S3m13 / L1m2</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0087.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>마법의에페</Korean_Name>
+			<English_Name>Eppe of Magic</English_Name>
+			<Class>Any</Class>
+			<Circle>1</Circle>
+			<Weight>1</Weight>
+			<Primary-Stats>S3m13 / L1m2</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0087.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>체력의에페</Korean_Name>
+			<English_Name>Eppe of Stamina</English_Name>
+			<Class>Any</Class>
+			<Circle>1</Circle>
+			<Weight>1</Weight>
+			<Primary-Stats>S3m13 / L1m2</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0087.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>칸의에페</Korean_Name>
+			<English_Name>Khan's Training Eppe</English_Name>
+			<Class>Any</Class>
+			<Circle>1</Circle>
+			<Weight>1</Weight>
+			<Primary-Stats>S3m13 / L1m2</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0087.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>칸의목도</Korean_Name>
+			<English_Name>Khan's Training Stick</English_Name>
+			<Class>Any</Class>
+			<Circle>1</Circle>
+			<Weight>3</Weight>
+			<Primary-Stats>S4m14 / L1m2</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0086.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>목도</Korean_Name>
+			<English_Name>Stick</English_Name>
+			<Class>Any</Class>
+			<Circle>1</Circle>
+			<Weight>3</Weight>
+			<Primary-Stats>S4m14 / L1m2</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0086.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>배틀소드</Korean_Name>
+			<English_Name>Battle Sword</English_Name>
+			<Class>Any</Class>
+			<Circle>2</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>S33m43 / L3m4</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0171.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>배틀소드수</Korean_Name>
+			<English_Name>Battle Sword+1</English_Name>
+			<Class>Any</Class>
+			<Circle>2</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>S35m45 / L3m4</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0171.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>배틀소드토</Korean_Name>
+			<English_Name>Battle Sword+2</English_Name>
+			<Class>Any</Class>
+			<Circle>2</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>S37m47 / L3m4</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0171.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>배틀소드풍</Korean_Name>
+			<English_Name>Battle Sword+3</English_Name>
+			<Class>Any</Class>
+			<Circle>2</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>S39m49 / L3m4</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0171.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>배틀소드화</Korean_Name>
+			<English_Name>Battle Sword+4</English_Name>
+			<Class>Any</Class>
+			<Circle>2</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>S41m51 / L4m5</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0171.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>그라디우스</Korean_Name>
+			<English_Name>Broad Sword</English_Name>
+			<Class>Any</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S16m26 / L2m3</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0090.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>그라디우스수</Korean_Name>
+			<English_Name>Broad Sword+1</English_Name>
+			<Class>Any</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S18m28 / L2m3</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0090.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>그라디우스토</Korean_Name>
+			<English_Name>Broad Sword+2</English_Name>
+			<Class>Any</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S20m30 / L2m3</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0090.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>그라디우스풍</Korean_Name>
+			<English_Name>Broad Sword+3</English_Name>
+			<Class>Any</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S22m32 / L2m3</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0090.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>그라디우스화</Korean_Name>
+			<English_Name>Broad Sword+4</English_Name>
+			<Class>Any</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S24m34 / L2m3</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0090.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>매스케이드</Korean_Name>
+			<English_Name>Cascade Sword</English_Name>
+			<Class>Any</Class>
+			<Circle>2</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>S31m41 / L3m4</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0170.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>매스케이드수</Korean_Name>
+			<English_Name>Cascade Sword+1</English_Name>
+			<Class>Any</Class>
+			<Circle>2</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>S33m43 / L3m4</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0170.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>매스케이드토</Korean_Name>
+			<English_Name>Cascade Sword+2</English_Name>
+			<Class>Any</Class>
+			<Circle>2</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>S35m45 / L3m4</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0170.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>매스케이드풍</Korean_Name>
+			<English_Name>Cascade Sword+3</English_Name>
+			<Class>Any</Class>
+			<Circle>2</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>S37m47 / L4m5</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0170.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>매스케이드화</Korean_Name>
+			<English_Name>Cascade Sword+4</English_Name>
+			<Class>Any</Class>
+			<Circle>2</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>S39m49 / L4m5</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0170.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>세이버</Korean_Name>
+			<English_Name>Claidheamh</English_Name>
+			<Class>Any</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S20m30 / L1m2</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0089.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>세이버수</Korean_Name>
+			<English_Name>Claidheamh+1</English_Name>
+			<Class>Any</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S22m32 / L1m2</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0089.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>세이버토</Korean_Name>
+			<English_Name>Claidheamh+2</English_Name>
+			<Class>Any</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S24m34 / L2m3</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0089.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>세이버풍</Korean_Name>
+			<English_Name>Claidheamh+3</English_Name>
+			<Class>Any</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S26m36 / L2m3</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0089.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>세이버화</Korean_Name>
+			<English_Name>Claidheamh+4</English_Name>
+			<Class>Any</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S28m38 / L2m3</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0089.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>커틀라스</Korean_Name>
+			<English_Name>Cutlass</English_Name>
+			<Class>Any</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S18m28 / L1m2</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0088.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>커틀라스수</Korean_Name>
+			<English_Name>Cutlass+1</English_Name>
+			<Class>Any</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S20m30 / L2m3</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0088.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>커틀라스토</Korean_Name>
+			<English_Name>Cutlass+2</English_Name>
+			<Class>Any</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S22m32 / L2m3</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0088.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>커틀라스풍</Korean_Name>
+			<English_Name>Cutlass+3</English_Name>
+			<Class>Any</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S24m34 / L2m3</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0088.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>커틀라스화</Korean_Name>
+			<English_Name>Cutlass+4</English_Name>
+			<Class>Any</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S26m36 / L2m3</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0088.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>매스커레이드</Korean_Name>
+			<English_Name>Masquerade</English_Name>
+			<Class>Any</Class>
+			<Circle>2</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>S35m45 / L3m4</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0169.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>매스커레이드수</Korean_Name>
+			<English_Name>Masquerade+1</English_Name>
+			<Class>Any</Class>
+			<Circle>2</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>S37m47 / L3m4</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0169.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>매스커레이드토</Korean_Name>
+			<English_Name>Masquerade+2</English_Name>
+			<Class>Any</Class>
+			<Circle>2</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>S39m49 / L3m4</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0169.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>매스커레이드풍</Korean_Name>
+			<English_Name>Masquerade+3</English_Name>
+			<Class>Any</Class>
+			<Circle>2</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>S41m51 / L3m4</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0169.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>매스커레이드화</Korean_Name>
+			<English_Name>Masquerade+4</English_Name>
+			<Class>Any</Class>
+			<Circle>2</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>S43m53 / L3m4</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0169.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>블랙데쓰</Korean_Name>
+			<English_Name>Black Death</English_Name>
+			<Class>Any</Class>
+			<Circle>3</Circle>
+			<Weight>9</Weight>
+			<Primary-Stats>S34m54 / L4m6</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0172.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>블랙데쓰수</Korean_Name>
+			<English_Name>Black Death+1</English_Name>
+			<Class>Any</Class>
+			<Circle>3</Circle>
+			<Weight>9</Weight>
+			<Primary-Stats>S36m56 / L4m6</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0172.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>블랙데쓰토</Korean_Name>
+			<English_Name>Black Death+2</English_Name>
+			<Class>Any</Class>
+			<Circle>3</Circle>
+			<Weight>9</Weight>
+			<Primary-Stats>S38m58 / L4m6</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0172.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>블랙데쓰풍</Korean_Name>
+			<English_Name>Black Death+3</English_Name>
+			<Class>Any</Class>
+			<Circle>3</Circle>
+			<Weight>9</Weight>
+			<Primary-Stats>S40m60 / L4m6</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0172.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>블랙데쓰화</Korean_Name>
+			<English_Name>Black Death+4</English_Name>
+			<Class>Any</Class>
+			<Circle>3</Circle>
+			<Weight>9</Weight>
+			<Primary-Stats>S42m62 / L4m6</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0172.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>드래곤슬레이어</Korean_Name>
+			<English_Name>Dragon Slayer</English_Name>
+			<Class>Any</Class>
+			<Circle>2</Circle>
+			<Weight>10</Weight>
+			<Primary-Stats>S385m425 / L10m13</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0179.gif</Image-URL>
+			<Image-Local>Image/item0179.6fa7d44047f39bd237f1f8496a70e092.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>아벨길드칼</Korean_Name>
+			<English_Name>Abel Guild Blade</English_Name>
+			<Class>Any</Class>
+			<Circle>3</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>S180m210 / L190m190</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item008/item0846.gif</Image-URL>
+			<Image-Local>Image/item0846.53c357a5db79eb651c53adf89cf9d753.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>프렘벨</Korean_Name>
+			<English_Name>Bramble</English_Name>
+			<Class>Any</Class>
+			<Circle>3</Circle>
+			<Weight>9</Weight>
+			<Primary-Stats>S41m61 / L2m4</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0173.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>프렘벨화</Korean_Name>
+			<English_Name>Bramble +4</English_Name>
+			<Class>Any</Class>
+			<Circle>3</Circle>
+			<Weight>9</Weight>
+			<Primary-Stats>S48m68 / L4m6</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0173.gif</Image-URL>
+			<Image-Local>Image/item0173.915d1165a7e325003ce6fd89008988fc.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>프렘벨수</Korean_Name>
+			<English_Name>Bramble+1</English_Name>
+			<Class>Any</Class>
+			<Circle>3</Circle>
+			<Weight>9</Weight>
+			<Primary-Stats>S42m62 / L3m5</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0173.gif</Image-URL>
+		</Item>
+		<Item>
+			<Korean_Name>프렘벨토</Korean_Name>
+			<English_Name>Bramble+2</English_Name>
+			<Class>Any</Class>
+			<Circle>3</Circle>
+			<Weight>9</Weight>
+			<Primary-Stats>S44m64 / L3m5</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0173.gif</Image-URL>
+			<Image-Local>Image/item0173.915d1165a7e325003ce6fd89008988fc.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>프렘벨풍</Korean_Name>
+			<English_Name>Bramble+3</English_Name>
+			<Class>Any</Class>
+			<Circle>3</Circle>
+			<Weight>9</Weight>
+			<Primary-Stats>S46m66 / L4m6</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0173.gif</Image-URL>
+			<Image-Local>Image/item0173.915d1165a7e325003ce6fd89008988fc.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>롱소드</Korean_Name>
+			<English_Name>Long Sword</English_Name>
+			<Class>Any</Class>
+			<Circle>3</Circle>
+			<Weight>11</Weight>
+			<Primary-Stats>S55m75 / L4m6</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0174.gif</Image-URL>
+			<Image-Local>Image/item0174.d8745ebfa07df1606a4579f8a0fc96f3.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>롱소드화</Korean_Name>
+			<English_Name>Long Sword +4</English_Name>
+			<Class>Any</Class>
+			<Circle>3</Circle>
+			<Weight>11</Weight>
+			<Primary-Stats>S63m83 / L5m7</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0174.gif</Image-URL>
+			<Image-Local>Image/item0174.d8745ebfa07df1606a4579f8a0fc96f3.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>롱소드수</Korean_Name>
+			<English_Name>Long Sword+1</English_Name>
+			<Class>Any</Class>
+			<Circle>3</Circle>
+			<Weight>11</Weight>
+			<Primary-Stats>S57m77 / L5m7</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0174.gif</Image-URL>
+			<Image-Local>Image/item0174.d8745ebfa07df1606a4579f8a0fc96f3.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>롱소드토</Korean_Name>
+			<English_Name>Long Sword+2</English_Name>
+			<Class>Any</Class>
+			<Circle>3</Circle>
+			<Weight>11</Weight>
+			<Primary-Stats>S59m79 / L5m7</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0174.gif</Image-URL>
+			<Image-Local>Image/item0174.d8745ebfa07df1606a4579f8a0fc96f3.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>롱소드풍</Korean_Name>
+			<English_Name>Long Sword+3</English_Name>
+			<Class>Any</Class>
+			<Circle>3</Circle>
+			<Weight>11</Weight>
+			<Primary-Stats>S61m81 / L5m7</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0174.gif</Image-URL>
+			<Image-Local>Image/item0174.d8745ebfa07df1606a4579f8a0fc96f3.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>루어스길드칼</Korean_Name>
+			<English_Name>Loures Guild Blade</English_Name>
+			<Class>Any</Class>
+			<Circle>3</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>S180m210 / L190m190</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item008/item0848.gif</Image-URL>
+			<Image-Local>Image/item0848.02c4b16a71d82024e2cb0d8467adc617.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>밀레스길드칼</Korean_Name>
+			<English_Name>Mileth Guild Blade</English_Name>
+			<Class>Any</Class>
+			<Circle>3</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>S180m210 / L190m190</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item008/item0844.gif</Image-URL>
+			<Image-Local>Image/item0844.6b6049bc07f882b6ca5cbc6524ad90b2.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>뤼케시온길드칼</Korean_Name>
+			<English_Name>Rucesion Guild Blade</English_Name>
+			<Class>Any</Class>
+			<Circle>3</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>S180m210 / L190m190</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item008/item0847.gif</Image-URL>
+			<Image-Local>Image/item0847.4ca71e053332f8f9711836ad038faf39.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>스틸라</Korean_Name>
+			<English_Name>Stilla</English_Name>
+			<Class>Any</Class>
+			<Circle>3</Circle>
+			<Weight>11</Weight>
+			<Primary-Stats>S49m69 / L5m7</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0176.gif</Image-URL>
+			<Image-Local>Image/item0176.2c575abd4ecdb77e167db0cf764186ce.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>스틸라수</Korean_Name>
+			<English_Name>Stilla+1</English_Name>
+			<Class>Any</Class>
+			<Circle>3</Circle>
+			<Weight>11</Weight>
+			<Primary-Stats>S51m71 / L5m7</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0176.gif</Image-URL>
+			<Image-Local>Image/item0176.2c575abd4ecdb77e167db0cf764186ce.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>스틸라토</Korean_Name>
+			<English_Name>Stilla+2</English_Name>
+			<Class>Any</Class>
+			<Circle>3</Circle>
+			<Weight>11</Weight>
+			<Primary-Stats>S53m73 / L5m7</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0176.gif</Image-URL>
+			<Image-Local>Image/item0176.2c575abd4ecdb77e167db0cf764186ce.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>스틸라풍</Korean_Name>
+			<English_Name>Stilla+3</English_Name>
+			<Class>Any</Class>
+			<Circle>3</Circle>
+			<Weight>11</Weight>
+			<Primary-Stats>S55m75 / L6m8</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0176.gif</Image-URL>
+			<Image-Local>Image/item0176.2c575abd4ecdb77e167db0cf764186ce.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>스틸라화</Korean_Name>
+			<English_Name>Stilla+4</English_Name>
+			<Class>Any</Class>
+			<Circle>3</Circle>
+			<Weight>11</Weight>
+			<Primary-Stats>S57m77 / L6m8</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0176.gif</Image-URL>
+			<Image-Local>Image/item0176.2c575abd4ecdb77e167db0cf764186ce.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>수오미길드칼</Korean_Name>
+			<English_Name>Suomi Guild Blade</English_Name>
+			<Class>Any</Class>
+			<Circle>3</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>S180m210 / L190m190</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item008/item0845.gif</Image-URL>
+			<Image-Local>Image/item0845.42fee0279f7496aa8911a255b6a705ce.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>크레이모어</Korean_Name>
+			<English_Name>Claidhmore</English_Name>
+			<Class>Any</Class>
+			<Circle>4</Circle>
+			<Weight>13</Weight>
+			<Primary-Stats>S70m90 / L6m8</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0175.gif</Image-URL>
+			<Image-Local>Image/item0175.17511d52fdea50ff0582b6a2cd8d8bc9.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>크레이모어수</Korean_Name>
+			<English_Name>Claidhmore+1</English_Name>
+			<Class>Any</Class>
+			<Circle>4</Circle>
+			<Weight>13</Weight>
+			<Primary-Stats>S72m92 / L6m8</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0175.gif</Image-URL>
+			<Image-Local>Image/item0175.17511d52fdea50ff0582b6a2cd8d8bc9.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>크레이모어토</Korean_Name>
+			<English_Name>Claidhmore+2</English_Name>
+			<Class>Any</Class>
+			<Circle>4</Circle>
+			<Weight>13</Weight>
+			<Primary-Stats>S74m94 / L6m8</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0175.gif</Image-URL>
+			<Image-Local>Image/item0175.17511d52fdea50ff0582b6a2cd8d8bc9.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>크레이모어풍</Korean_Name>
+			<English_Name>Claidhmore+3</English_Name>
+			<Class>Any</Class>
+			<Circle>4</Circle>
+			<Weight>13</Weight>
+			<Primary-Stats>S76m96 / L6m8</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0175.gif</Image-URL>
+			<Image-Local>Image/item0175.17511d52fdea50ff0582b6a2cd8d8bc9.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>크레이모어화</Korean_Name>
+			<English_Name>Claidhmore+4</English_Name>
+			<Class>Any</Class>
+			<Circle>4</Circle>
+			<Weight>13</Weight>
+			<Primary-Stats>S78m98 / L7m9</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0175.gif</Image-URL>
+			<Image-Local>Image/item0175.17511d52fdea50ff0582b6a2cd8d8bc9.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>에메랄드소드</Korean_Name>
+			<English_Name>Emerald Sword</English_Name>
+			<Class>Any</Class>
+			<Circle>4</Circle>
+			<Weight>13</Weight>
+			<Primary-Stats>S62m82 / L7m9</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0177.gif</Image-URL>
+			<Image-Local>Image/item0177.17f1fba88d37b4e500544ba7d15a1b8e.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>에메랄드소드수</Korean_Name>
+			<English_Name>Emerald Sword+1</English_Name>
+			<Class>Any</Class>
+			<Circle>4</Circle>
+			<Weight>13</Weight>
+			<Primary-Stats>S64m84 / L7m9</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0177.gif</Image-URL>
+			<Image-Local>Image/item0177.17f1fba88d37b4e500544ba7d15a1b8e.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>에메랄드소드토</Korean_Name>
+			<English_Name>Emerald Sword+2</English_Name>
+			<Class>Any</Class>
+			<Circle>4</Circle>
+			<Weight>13</Weight>
+			<Primary-Stats>S66m86 / L7m9</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0177.gif</Image-URL>
+			<Image-Local>Image/item0177.17f1fba88d37b4e500544ba7d15a1b8e.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>에메랄드소드풍</Korean_Name>
+			<English_Name>Emerald Sword+3</English_Name>
+			<Class>Any</Class>
+			<Circle>4</Circle>
+			<Weight>13</Weight>
+			<Primary-Stats>S68m88 / L7m9</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0177.gif</Image-URL>
+			<Image-Local>Image/item0177.17f1fba88d37b4e500544ba7d15a1b8e.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>에메랄드소드화</Korean_Name>
+			<English_Name>Emerald Sword+4</English_Name>
+			<Class>Any</Class>
+			<Circle>4</Circle>
+			<Weight>13</Weight>
+			<Primary-Stats>S70m90 / L7m9</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0177.gif</Image-URL>
+			<Image-Local>Image/item0177.17f1fba88d37b4e500544ba7d15a1b8e.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>가이아두스</Korean_Name>
+			<English_Name>Gladius</English_Name>
+			<Class>Any</Class>
+			<Circle>4</Circle>
+			<Weight>15</Weight>
+			<Primary-Stats>S75m105 / L6m9</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0182.gif</Image-URL>
+			<Image-Local>Image/item0182.f9bba230808c249e3c6605fdbaf0f311.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>가이아두스풍</Korean_Name>
+			<English_Name>Gladius +3</English_Name>
+			<Class>Any</Class>
+			<Circle>4</Circle>
+			<Weight>15</Weight>
+			<Primary-Stats>S81m111 / L7m10</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0182.gif</Image-URL>
+			<Image-Local>Image/item0182.f9bba230808c249e3c6605fdbaf0f311.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>가이아두스화</Korean_Name>
+			<English_Name>Gladius +4</English_Name>
+			<Class>Any</Class>
+			<Circle>4</Circle>
+			<Weight>15</Weight>
+			<Primary-Stats>S83m113 / L7m10</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0182.gif</Image-URL>
+			<Image-Local>Image/item0182.f9bba230808c249e3c6605fdbaf0f311.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>가이아두스수</Korean_Name>
+			<English_Name>Gladius+1</English_Name>
+			<Class>Any</Class>
+			<Circle>4</Circle>
+			<Weight>15</Weight>
+			<Primary-Stats>S77m107 / L6m9</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0182.gif</Image-URL>
+			<Image-Local>Image/item0182.f9bba230808c249e3c6605fdbaf0f311.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>가이아두스토</Korean_Name>
+			<English_Name>Gladius+2</English_Name>
+			<Class>Any</Class>
+			<Circle>4</Circle>
+			<Weight>15</Weight>
+			<Primary-Stats>S79m109 / L7m10</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0182.gif</Image-URL>
+			<Image-Local>Image/item0182.f9bba230808c249e3c6605fdbaf0f311.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>그레이트소드</Korean_Name>
+			<English_Name>Great Sword</English_Name>
+			<Class>Any</Class>
+			<Circle>4</Circle>
+			<Weight>15</Weight>
+			<Primary-Stats>S67m97 / L7m10</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0180.gif</Image-URL>
+			<Image-Local>Image/item0180.8a2806d654b8cb47deb2b3ba6b501271.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>그레이트소드화</Korean_Name>
+			<English_Name>Great Sword +4</English_Name>
+			<Class>Any</Class>
+			<Circle>4</Circle>
+			<Weight>15</Weight>
+			<Primary-Stats>S75m105 / L8m11</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0180.gif</Image-URL>
+			<Image-Local>Image/item0180.8a2806d654b8cb47deb2b3ba6b501271.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>그레이트소드수</Korean_Name>
+			<English_Name>Great Sword+1</English_Name>
+			<Class>Any</Class>
+			<Circle>4</Circle>
+			<Weight>15</Weight>
+			<Primary-Stats>S69m99 / L7m10</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0180.gif</Image-URL>
+			<Image-Local>Image/item0180.8a2806d654b8cb47deb2b3ba6b501271.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>그레이트소드토</Korean_Name>
+			<English_Name>Great Sword+2</English_Name>
+			<Class>Any</Class>
+			<Circle>4</Circle>
+			<Weight>15</Weight>
+			<Primary-Stats>S71m101 / L7m10</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0180.gif</Image-URL>
+			<Image-Local>Image/item0180.8a2806d654b8cb47deb2b3ba6b501271.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>그레이트소드풍</Korean_Name>
+			<English_Name>Great Sword+3</English_Name>
+			<Class>Any</Class>
+			<Circle>4</Circle>
+			<Weight>15</Weight>
+			<Primary-Stats>S73m103 / L8m11</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0180.gif</Image-URL>
+			<Image-Local>Image/item0180.8a2806d654b8cb47deb2b3ba6b501271.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>드래곤크로어</Korean_Name>
+			<English_Name>Dragon Claw (Blade)</English_Name>
+			<Class>Any</Class>
+			<Circle>5</Circle>
+			<Weight>17</Weight>
+			<Primary-Stats>S80m110 / L89m112</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0178.gif</Image-URL>
+			<Image-Local>Image/item0178.8f250a51caac0914394a24c89c7c6787.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>드래곤크로어수</Korean_Name>
+			<English_Name>Dragon Claw (Blade)+1</English_Name>
+			<Class>Any</Class>
+			<Circle>5</Circle>
+			<Weight>17</Weight>
+			<Primary-Stats>S82m112 / L89m112</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0178.gif</Image-URL>
+			<Image-Local>Image/item0178.8f250a51caac0914394a24c89c7c6787.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>드래곤크로어토</Korean_Name>
+			<English_Name>Dragon Claw (Blade)+2</English_Name>
+			<Class>Any</Class>
+			<Circle>5</Circle>
+			<Weight>17</Weight>
+			<Primary-Stats>S84m114 / L89m112</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0178.gif</Image-URL>
+			<Image-Local>Image/item0178.8f250a51caac0914394a24c89c7c6787.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>드래곤크로어풍</Korean_Name>
+			<English_Name>Dragon Claw (Blade)+3</English_Name>
+			<Class>Any</Class>
+			<Circle>5</Circle>
+			<Weight>17</Weight>
+			<Primary-Stats>S86m116 / L89m112</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0178.gif</Image-URL>
+			<Image-Local>Image/item0178.8f250a51caac0914394a24c89c7c6787.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>드래곤크로어화</Korean_Name>
+			<English_Name>Dragon Claw (Blade)+4</English_Name>
+			<Class>Any</Class>
+			<Circle>5</Circle>
+			<Weight>17</Weight>
+			<Primary-Stats>S88m118 / L89m112</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0178.gif</Image-URL>
+			<Image-Local>Image/item0178.8f250a51caac0914394a24c89c7c6787.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>엑시큐터</Korean_Name>
+			<English_Name>Executioner</English_Name>
+			<Class>Any</Class>
+			<Circle>5</Circle>
+			<Weight>17</Weight>
+			<Primary-Stats>S90m120 / L8m11</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0181.gif</Image-URL>
+			<Image-Local>Image/item0181.0e81ce367a156c95ee93e92afa8e6457.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>엑시큐터수</Korean_Name>
+			<English_Name>Executioner +1</English_Name>
+			<Class>Any</Class>
+			<Circle>5</Circle>
+			<Weight>17</Weight>
+			<Primary-Stats>S92m122 / L8m11</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0181.gif</Image-URL>
+			<Image-Local>Image/item0181.0e81ce367a156c95ee93e92afa8e6457.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>엑시큐터토</Korean_Name>
+			<English_Name>Executioner +2</English_Name>
+			<Class>Any</Class>
+			<Circle>5</Circle>
+			<Weight>17</Weight>
+			<Primary-Stats>S94m124 / L8m11</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0181.gif</Image-URL>
+			<Image-Local>Image/item0181.0e81ce367a156c95ee93e92afa8e6457.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>엑시큐터풍</Korean_Name>
+			<English_Name>Executioner +3</English_Name>
+			<Class>Any</Class>
+			<Circle>5</Circle>
+			<Weight>17</Weight>
+			<Primary-Stats>S96m126 / L8m11</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0181.gif</Image-URL>
+			<Image-Local>Image/item0181.0e81ce367a156c95ee93e92afa8e6457.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>엑시큐터화</Korean_Name>
+			<English_Name>Executioner +4</English_Name>
+			<Class>Any</Class>
+			<Circle>5</Circle>
+			<Weight>17</Weight>
+			<Primary-Stats>S98m128 / L8m11</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0181.gif</Image-URL>
+			<Image-Local>Image/item0181.0e81ce367a156c95ee93e92afa8e6457.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>아룬다이트</Korean_Name>
+			<English_Name>Arundite Blade</English_Name>
+			<Class>Any</Class>
+			<Circle>Master</Circle>
+			<Weight>10</Weight>
+			<Primary-Stats>S574m594 / L67m69</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0929.gif</Image-URL>
+			<Image-Local>Image/item0929.0f23865264a123bd1c11f7ec9e6860d7.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>프람베르그</Korean_Name>
+			<English_Name>Flamberge</English_Name>
+			<Class>Any</Class>
+			<Circle>Master</Circle>
+			<Weight>10</Weight>
+			<Primary-Stats>S335m365 / L33m36</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0927.gif</Image-URL>
+			<Image-Local>Image/item0927.0f1ea0127dad5aa17da1df5abfc50cea.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>로오의빛</Korean_Name>
+			<English_Name>Lou's Light Staff</English_Name>
+			<Class>Any</Class>
+			<Circle>Master</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S2m20 / L3m3</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0931.gif</Image-URL>
+			<Image-Local>Image/item0931.85ff634bbe20646e84d55c8bd024e89a.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>이아의빛</Korean_Name>
+			<English_Name>Ia's Light Staff</English_Name>
+			<Class>Any</Class>
+			<Circle>Master (Subbed)</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>0 Line Heals, 0/1 Line Curse, -3 Lines/All Spells</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0933.gif</Image-URL>
+			<Image-Local>Image/item0933.6ad85a9775283a4f08584962d6697be4.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>브레이스글러브</Korean_Name>
+			<English_Name>Brace Fists</English_Name>
+			<Class>Monk</Class>
+			<Circle>5</Circle>
+			<Weight>22</Weight>
+			<Primary-Stats>S354m384 / L35m38</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item015/item1587.gif</Image-URL>
+			<Image-Local>Image/item1587.51fdebdfb046cb550f66dd47ed91a46e.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>용의발톱</Korean_Name>
+			<English_Name>Dragon Claws (Fist)</English_Name>
+			<Class>Monk</Class>
+			<Circle>5</Circle>
+			<Weight>19</Weight>
+			<Primary-Stats>S224m264 / L25m28</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item010/item1098.gif</Image-URL>
+			<Image-Local>Image/item1098.35d2f981721f94bc75ef3b883fb940ff.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>파워글러브</Korean_Name>
+			<English_Name>Power Fists</English_Name>
+			<Class>Monk</Class>
+			<Circle>5</Circle>
+			<Weight>20</Weight>
+			<Primary-Stats>S284m300 / L28m32</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item014/item1421.gif</Image-URL>
+			<Image-Local>Image/item1421.69697f54e2972f8df481b999abc25d74.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>하이브레이질배틀핸드</Korean_Name>
+			<English_Name>Hy-Brasyl Battle Hand</English_Name>
+			<Class>Monk</Class>
+			<Circle>Master</Circle>
+			<Weight>10</Weight>
+			<Primary-Stats>S324m364 / L45m48</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0916.gif</Image-URL>
+			<Image-Local>Image/item0916.ade5848bbd752249c9720e02355dda00.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>미스릴배틀핸드</Korean_Name>
+			<English_Name>Mythril Battle Hand</English_Name>
+			<Class>Monk</Class>
+			<Circle>Master</Circle>
+			<Weight>10</Weight>
+			<Primary-Stats>S424m464 / L55m58</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item014/item1420.gif</Image-URL>
+			<Image-Local>Image/item1420.e7c8d701cf2e31fd446abbdfa7b79be2.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>미스릴배틀핸드</Korean_Name>
+			<English_Name>Mythril Battle Hand</English_Name>
+			<Class>Monk</Class>
+			<Circle>Master</Circle>
+			<Weight>10</Weight>
+			<Primary-Stats>S324m364 / L45m48</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item014/item1420.gif</Image-URL>
+			<Image-Local>Image/item1420.e7c8d701cf2e31fd446abbdfa7b79be2.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>돈파</Korean_Name>
+			<English_Name>Tonfa</English_Name>
+			<Class>Monk</Class>
+			<Circle>Master</Circle>
+			<Weight>10</Weight>
+			<Primary-Stats>S424m464 / L355m358</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item032/item3255.gif</Image-URL>
+			<Image-Local>Image/item3255.6037c23d2bda611ab72ff17c4898fb3f.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>홀리완드</Korean_Name>
+			<English_Name>Holy Wand</English_Name>
+			<Class>Priest</Class>
+			<Circle>1</Circle>
+			<Weight>1</Weight>
+			<Primary-Stats>None</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2278.gif</Image-URL>
+			<Image-Local>Image/item2278.c2b4b13a8e7c7f42d43e52ea4809e690.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>홀리파나</Korean_Name>
+			<English_Name>Holy Fana</English_Name>
+			<Class>Priest</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>0 Line Heals, 1 Line Curse, -2 Lines/All Spells, MP Cost -10%</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item005/item0550.gif</Image-URL>
+			<Image-Local>Image/item0550.e46a5193c1a9819bb3d2400ec8b16dc1.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>홀리가이아</Korean_Name>
+			<English_Name>Holy Gaia</English_Name>
+			<Class>Priest</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>-1 Line/4 Line Spells</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0186.gif</Image-URL>
+			<Image-Local>Image/item0186.34776f9482961d7c97d855b97cdaeecc.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>홀리야누시아</Korean_Name>
+			<English_Name>Holy Janusia</English_Name>
+			<Class>Priest</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>None</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2283.gif</Image-URL>
+			<Image-Local>Image/item2283.c1aac75ff9a9a6e3f84770d2d65371e1.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>홀리쥬노아</Korean_Name>
+			<English_Name>Holy Junoa</English_Name>
+			<Class>Priest</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>None</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2279.gif</Image-URL>
+			<Image-Local>Image/item2279.2f843120384a5f73a899804ddf31c92d.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>홀리쥬피티아</Korean_Name>
+			<English_Name>Holy Jupiter</English_Name>
+			<Class>Priest</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>1 Line/3 Line Spells</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0134.gif</Image-URL>
+			<Image-Local>Image/item0134.a7211f7f75c2b29db1223757c8eeae6d.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>홀리루나</Korean_Name>
+			<English_Name>Holy Luna</English_Name>
+			<Class>Priest</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>-2 Line/All Spells</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0185.gif</Image-URL>
+			<Image-Local>Image/item0185.0389c647fd2372a7de2b3dd430e55368.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>홀리머큐리아</Korean_Name>
+			<English_Name>Holy Mercury</English_Name>
+			<Class>Priest</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>0 Line Heals</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0133.gif</Image-URL>
+			<Image-Local>Image/item0133.bc7c53440b198ab1ec6ae04836e6ffd6.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>홀리미네르바</Korean_Name>
+			<English_Name>Holy Minerva</English_Name>
+			<Class>Priest</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>None</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2280.gif</Image-URL>
+			<Image-Local>Image/item2280.c4fcc0bc1137abb3c64cf9cb32abd57d.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>홀리넵튜나</Korean_Name>
+			<English_Name>Holy Neptuna</English_Name>
+			<Class>Priest</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>None</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2282.gif</Image-URL>
+			<Image-Local>Image/item2282.efcb58392dfaf463363fe9f68eb033a6.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>홀리플루토나</Korean_Name>
+			<English_Name>Holy Plutona</English_Name>
+			<Class>Priest</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>None</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2284.gif</Image-URL>
+			<Image-Local>Image/item2284.3629ecc5e122237d261d261ff3ff3620.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>홀리새티아</Korean_Name>
+			<English_Name>Holy Satia</English_Name>
+			<Class>Priest</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>-1 Line/2 Line Spells</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0183.gif</Image-URL>
+			<Image-Local>Image/item0183.736c3cd9fe4e5fd9e29ccd551e9292e1.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>홀리솔라</Korean_Name>
+			<English_Name>Holy Solar</English_Name>
+			<Class>Priest</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>None</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0184.gif</Image-URL>
+			<Image-Local>Image/item0184.8ff34719da5310ef697eaa22946925b9.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>홀리스태프</Korean_Name>
+			<English_Name>Holy Staff</English_Name>
+			<Class>Priest</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>1 Line/All Heals</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2281.gif</Image-URL>
+			<Image-Local>Image/item2281.43d70ecf8567ed8745a41e5accc21a05.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>홀리빅토리아</Korean_Name>
+			<English_Name>Holy Victoria</English_Name>
+			<Class>Priest</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>None</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2281.gif</Image-URL>
+			<Image-Local>Image/item2281.43d70ecf8567ed8745a41e5accc21a05.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비파</Korean_Name>
+			<English_Name>Bipa</English_Name>
+			<Class>Priest</Class>
+			<Circle>2nd Job</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>0 Line Heals, 1 Line Curse, -3 Lines/All Spells</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item023/item2371.gif</Image-URL>
+			<Image-Local>Image/item2371.0e553f6b26d9f3469851f0ef8b8727dc.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>골드베리하프</Korean_Name>
+			<English_Name>Goldberry Harp</English_Name>
+			<Class>Priest</Class>
+			<Circle>2nd Job</Circle>
+			<Weight>6</Weight>
+			<Primary-Stats>0 Line Heals, 1 Line Curse, -3 Lines/All Spells</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1978.gif</Image-URL>
+			<Image-Local>Image/item1978.eed5bcf4324f98f905cd08b3119d05b9.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>황금나무의하프</Korean_Name>
+			<English_Name>Golden Tree's Harp</English_Name>
+			<Class>Priest</Class>
+			<Circle>2nd Job</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>0 Line Heals, 1 Line Curse, -3 Lines/All Spells</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2042.gif</Image-URL>
+			<Image-Local>Image/item2042.8ebe5c8fa62443868655d2cfa9279227.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>프린세스하프</Korean_Name>
+			<English_Name>Princess Harp</English_Name>
+			<Class>Priest</Class>
+			<Circle>2nd Job</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>0 Line Heals, 1 Line Curse, -3 Lines/All Spells</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2041.gif</Image-URL>
+			<Image-Local>Image/item2041.733929d86f2165bd5901ab34071b0924.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>우드하프</Korean_Name>
+			<English_Name>Wood Harp</English_Name>
+			<Class>Priest</Class>
+			<Circle>2nd Job</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>0 Line Heals, 1 Line Curse, -3 Lines/All Spells</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1778.gif</Image-URL>
+			<Image-Local>Image/item1778.ed0cc2b6b5856fc42e1e8bf6e6693859.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>홀리가디언스태프</Korean_Name>
+			<English_Name>Holy Guardian Staff</English_Name>
+			<Class>Priest</Class>
+			<Circle>3</Circle>
+			<Weight>3</Weight>
+			<Primary-Stats>S4m0 / L6m8</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item032/item3257.gif</Image-URL>
+			<Image-Local>Image/item3257.86c8f4ab0b6609097e05f3b5a5ec5117.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>홀리아룬다이트</Korean_Name>
+			<English_Name>Holy Arundite Blade</English_Name>
+			<Class>Priest</Class>
+			<Circle>Master</Circle>
+			<Weight>3</Weight>
+			<Primary-Stats>S374m394 / L67m69</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item033/item3310.gif</Image-URL>
+			<Image-Local>Image/item3310.01b98644e2c3f965fcdd1c31bc596d38.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>홀리디아나</Korean_Name>
+			<English_Name>Holy Diana</English_Name>
+			<Class>Priest</Class>
+			<Circle>Master</Circle>
+			<Weight>10</Weight>
+			<Primary-Stats>0 Line Heals, 1 Line Curse, -3 Lines/All Spells</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0934.gif</Image-URL>
+			<Image-Local>Image/item0934.68c8de1953eb31d0bc007b3783bda938.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>홀리프람베르그</Korean_Name>
+			<English_Name>Holy Flamberge</English_Name>
+			<Class>Priest</Class>
+			<Circle>Master</Circle>
+			<Weight>3</Weight>
+			<Primary-Stats>S135m165 / L33m36</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item033/item3313.gif</Image-URL>
+			<Image-Local>Image/item3313.ff0d35fc5d84a8bbbd0fb9beefb43aab.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>이아의은총</Korean_Name>
+			<English_Name>Ia's Grace Staff</English_Name>
+			<Class>Priest</Class>
+			<Circle>Master</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>0 Line Heals, 0/1 Line Curse, -3 Lines/All Spells</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item008/item0876.gif</Image-URL>
+			<Image-Local>Image/item0876.63f88eaf84bb9bb9309121884f6a2d5f.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>홀리디아나</Korean_Name>
+			<English_Name>Holy Diana</English_Name>
+			<Class>Priest</Class>
+			<Circle>Master (Upgrade)</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>0 Line Heals, 0/1 Line Curse, -3 Lines/All Spells, MP Cost -10%</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0934.gif</Image-URL>
+			<Image-Local>Image/item0934.68c8de1953eb31d0bc007b3783bda938.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>설단검</Korean_Name>
+			<English_Name>Short Sword</English_Name>
+			<Class>Rogue</Class>
+			<Circle>1</Circle>
+			<Weight>3</Weight>
+			<Primary-Stats>S10m20 / L1m2</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item000/item0091.gif</Image-URL>
+			<Image-Local>Image/item0091.e8c9fca7581a206e79382b7710ee14d2.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비설표</Korean_Name>
+			<English_Name>Snow Secret</English_Name>
+			<Class>Rogue</Class>
+			<Circle>1</Circle>
+			<Weight>3</Weight>
+			<Primary-Stats>S10m20 / L1m2</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0221.gif</Image-URL>
+			<Image-Local>Image/item0221.210f83889a34e69eadad05a329d2d19c.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>매단검</Korean_Name>
+			<English_Name>Blossom Dagger</English_Name>
+			<Class>Rogue</Class>
+			<Circle>2</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>S40m50 / L3m4</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0251.gif</Image-URL>
+			<Image-Local>Image/item0251.40d592af405433017773a168e32ced63.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>매단검수</Korean_Name>
+			<English_Name>Blossom Dagger+1</English_Name>
+			<Class>Rogue</Class>
+			<Circle>2</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>S42m52 / L3m4</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0251.gif</Image-URL>
+			<Image-Local>Image/item0251.40d592af405433017773a168e32ced63.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>매단검토</Korean_Name>
+			<English_Name>Blossom Dagger+2</English_Name>
+			<Class>Rogue</Class>
+			<Circle>2</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>S44m54 / L3m4</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0251.gif</Image-URL>
+			<Image-Local>Image/item0251.40d592af405433017773a168e32ced63.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>매단검풍</Korean_Name>
+			<English_Name>Blossom Dagger+3</English_Name>
+			<Class>Rogue</Class>
+			<Circle>2</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>S46m56 / L4m5</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0251.gif</Image-URL>
+			<Image-Local>Image/item0251.40d592af405433017773a168e32ced63.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>매단검화</Korean_Name>
+			<English_Name>Blossom Dagger+4</English_Name>
+			<Class>Rogue</Class>
+			<Circle>2</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>S48m58 / L4m5</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0251.gif</Image-URL>
+			<Image-Local>Image/item0251.40d592af405433017773a168e32ced63.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비매표</Korean_Name>
+			<English_Name>Blossom Secret</English_Name>
+			<Class>Rogue</Class>
+			<Circle>2</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>S40m50 / L3m4</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0221.gif</Image-URL>
+			<Image-Local>Image/item0221.210f83889a34e69eadad05a329d2d19c.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비매표수</Korean_Name>
+			<English_Name>Blossom Secret+1</English_Name>
+			<Class>Rogue</Class>
+			<Circle>2</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>S42m52 / L3m4</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0221.gif</Image-URL>
+			<Image-Local>Image/item0221.210f83889a34e69eadad05a329d2d19c.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비매표토</Korean_Name>
+			<English_Name>Blossom Secret+2</English_Name>
+			<Class>Rogue</Class>
+			<Circle>2</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>S44m54 / L3m4</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0221.gif</Image-URL>
+			<Image-Local>Image/item0221.210f83889a34e69eadad05a329d2d19c.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비매표풍</Korean_Name>
+			<English_Name>Blossom Secret+3</English_Name>
+			<Class>Rogue</Class>
+			<Circle>2</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>S46m56 / L4m5</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0221.gif</Image-URL>
+			<Image-Local>Image/item0221.210f83889a34e69eadad05a329d2d19c.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비매표화</Korean_Name>
+			<English_Name>Blossom Secret+4</English_Name>
+			<Class>Rogue</Class>
+			<Circle>2</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>S48m58 / L4m5</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0221.gif</Image-URL>
+			<Image-Local>Image/item0221.210f83889a34e69eadad05a329d2d19c.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>중단검</Korean_Name>
+			<English_Name>Center Dagger</English_Name>
+			<Class>Rogue</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S25m35 / L2m3</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0252.gif</Image-URL>
+			<Image-Local>Image/item0252.a2df0172768763020e35c7e8a6822426.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>중단검수</Korean_Name>
+			<English_Name>Center Dagger+1</English_Name>
+			<Class>Rogue</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S27m37 / L2m3</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0252.gif</Image-URL>
+			<Image-Local>Image/item0252.a2df0172768763020e35c7e8a6822426.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>중단검토</Korean_Name>
+			<English_Name>Center Dagger+2</English_Name>
+			<Class>Rogue</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S29m39 / L2m3</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0252.gif</Image-URL>
+			<Image-Local>Image/item0252.a2df0172768763020e35c7e8a6822426.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>중단검풍</Korean_Name>
+			<English_Name>Center Dagger+3</English_Name>
+			<Class>Rogue</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S31m41 / L2m3</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0252.gif</Image-URL>
+			<Image-Local>Image/item0252.a2df0172768763020e35c7e8a6822426.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>중단검화</Korean_Name>
+			<English_Name>Center Dagger+4</English_Name>
+			<Class>Rogue</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S33m43 / L2m3</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0252.gif</Image-URL>
+			<Image-Local>Image/item0252.a2df0172768763020e35c7e8a6822426.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비중표</Korean_Name>
+			<English_Name>Center Secret</English_Name>
+			<Class>Rogue</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S25m35 / L2m3</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0221.gif</Image-URL>
+			<Image-Local>Image/item0221.210f83889a34e69eadad05a329d2d19c.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비중표수</Korean_Name>
+			<English_Name>Center Secret+1</English_Name>
+			<Class>Rogue</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S27m37 / L2m3</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0221.gif</Image-URL>
+			<Image-Local>Image/item0221.210f83889a34e69eadad05a329d2d19c.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비중표토</Korean_Name>
+			<English_Name>Center Secret+2</English_Name>
+			<Class>Rogue</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S29m39 / L2m3</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0221.gif</Image-URL>
+			<Image-Local>Image/item0221.210f83889a34e69eadad05a329d2d19c.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비중표풍</Korean_Name>
+			<English_Name>Center Secret+3</English_Name>
+			<Class>Rogue</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S31m41 / L2m3</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0221.gif</Image-URL>
+			<Image-Local>Image/item0221.210f83889a34e69eadad05a329d2d19c.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비중표화</Korean_Name>
+			<English_Name>Center Secret+4</English_Name>
+			<Class>Rogue</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S33m43 / L2m3</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0221.gif</Image-URL>
+			<Image-Local>Image/item0221.210f83889a34e69eadad05a329d2d19c.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>타고나이트채찍</Korean_Name>
+			<English_Name>Talgonite Whip</English_Name>
+			<Class>Rogue</Class>
+			<Circle>2</Circle>
+			<Weight>11</Weight>
+			<Primary-Stats>S90m100 / L11m11</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item005/item0521.gif</Image-URL>
+			<Image-Local>Image/item0521.f583fae8d0ca5423725ccfa75ea4c614.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>채찍</Korean_Name>
+			<English_Name>Whip</English_Name>
+			<Class>Rogue</Class>
+			<Circle>2</Circle>
+			<Weight>10</Weight>
+			<Primary-Stats>S20m80 / L3m9</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0296.gif</Image-URL>
+			<Image-Local>Image/item0296.c811efb929852c8ab3d38e0880b3921d.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>큰개미씨의보우</Korean_Name>
+			<English_Name>Andor Ant Bow</English_Name>
+			<Class>Rogue</Class>
+			<Circle>2nd Job</Circle>
+			<Weight>3</Weight>
+			<Primary-Stats>S93m93 / L333m333</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1775.gif</Image-URL>
+			<Image-Local>Image/item1775.7a577ced65be71084ab1af68bd8a71bb.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>반보우</Korean_Name>
+			<English_Name>Bamboo Bow</English_Name>
+			<Class>Rogue</Class>
+			<Circle>2nd Job</Circle>
+			<Weight>6</Weight>
+			<Primary-Stats>S93m93 / L215m245</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2043.gif</Image-URL>
+			<Image-Local>Image/item2043.79d76c8141f1489c6d46d38f348f7ed2.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>우드보우</Korean_Name>
+			<English_Name>Hornwood Bow</English_Name>
+			<Class>Rogue</Class>
+			<Circle>2nd Job</Circle>
+			<Weight>3</Weight>
+			<Primary-Stats>S93m93 / L195m225</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1775.gif</Image-URL>
+			<Image-Local>Image/item1775.7a577ced65be71084ab1af68bd8a71bb.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>프린세스보우</Korean_Name>
+			<English_Name>Princess Bow</English_Name>
+			<Class>Rogue</Class>
+			<Circle>2nd Job</Circle>
+			<Weight>4</Weight>
+			<Primary-Stats>S93m93 / L195m245</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1980.gif</Image-URL>
+			<Image-Local>Image/item1980.448e35ad8c00dbc9370c41886667d173.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>레드반보우</Korean_Name>
+			<English_Name>Red Bamboo Bow</English_Name>
+			<Class>Rogue</Class>
+			<Circle>2nd Job</Circle>
+			<Weight>6</Weight>
+			<Primary-Stats>S93m93 / L215m265</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2044.gif</Image-URL>
+			<Image-Local>Image/item2044.b6734575a6a8b2968240be2311c26491.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>영월궁</Korean_Name>
+			<English_Name>Yeong Wal-gun (Moon Bow)</English_Name>
+			<Class>Rogue</Class>
+			<Circle>2nd Job</Circle>
+			<Weight>6</Weight>
+			<Primary-Stats>S113m123 / L215m265</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item023/item2373.gif</Image-URL>
+			<Image-Local>Image/item2373.15519b44e9519ee6027fc98a119b728d.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>가디언롬파이어</Korean_Name>
+			<English_Name>Guardian Rhomphaia</English_Name>
+			<Class>Rogue</Class>
+			<Circle>3</Circle>
+			<Weight>3</Weight>
+			<Primary-Stats>S55m55 / L9m2</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item032/item3256.gif</Image-URL>
+			<Image-Local>Image/item3256.5156eef115298dc67680b6760d7e5bd1.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>광단검</Korean_Name>
+			<English_Name>Light Dagger</English_Name>
+			<Class>Rogue</Class>
+			<Circle>3</Circle>
+			<Weight>11</Weight>
+			<Primary-Stats>S60m80 / L5m7</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0254.gif</Image-URL>
+			<Image-Local>Image/item0254.e96085edb1c4db03fbcbac284cabc853.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>광단검수</Korean_Name>
+			<English_Name>Light Dagger+1</English_Name>
+			<Class>Rogue</Class>
+			<Circle>3</Circle>
+			<Weight>11</Weight>
+			<Primary-Stats>S62m82 / L5m7</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0254.gif</Image-URL>
+			<Image-Local>Image/item0254.e96085edb1c4db03fbcbac284cabc853.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>광단검토</Korean_Name>
+			<English_Name>Light Dagger+2</English_Name>
+			<Class>Rogue</Class>
+			<Circle>3</Circle>
+			<Weight>11</Weight>
+			<Primary-Stats>S64m84 / L5m7</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0254.gif</Image-URL>
+			<Image-Local>Image/item0254.e96085edb1c4db03fbcbac284cabc853.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>광단검풍</Korean_Name>
+			<English_Name>Light Dagger+3</English_Name>
+			<Class>Rogue</Class>
+			<Circle>3</Circle>
+			<Weight>11</Weight>
+			<Primary-Stats>S66m86 / L6m8</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0254.gif</Image-URL>
+			<Image-Local>Image/item0254.e96085edb1c4db03fbcbac284cabc853.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>광단검화</Korean_Name>
+			<English_Name>Light Dagger+4</English_Name>
+			<Class>Rogue</Class>
+			<Circle>3</Circle>
+			<Weight>11</Weight>
+			<Primary-Stats>S68m88 / L6m8</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0254.gif</Image-URL>
+			<Image-Local>Image/item0254.e96085edb1c4db03fbcbac284cabc853.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>월단검</Korean_Name>
+			<English_Name>Moon Dagger</English_Name>
+			<Class>Rogue</Class>
+			<Circle>3</Circle>
+			<Weight>9</Weight>
+			<Primary-Stats>S45m65 / L4m6</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0255.gif</Image-URL>
+			<Image-Local>Image/item0255.0ade8ec09125b728ef89f98a03b290c6.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>월단검수</Korean_Name>
+			<English_Name>Moon Dagger+1</English_Name>
+			<Class>Rogue</Class>
+			<Circle>3</Circle>
+			<Weight>9</Weight>
+			<Primary-Stats>S47m67 / L4m6</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0255.gif</Image-URL>
+			<Image-Local>Image/item0255.0ade8ec09125b728ef89f98a03b290c6.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>월단검토</Korean_Name>
+			<English_Name>Moon Dagger+2</English_Name>
+			<Class>Rogue</Class>
+			<Circle>3</Circle>
+			<Weight>9</Weight>
+			<Primary-Stats>S49m69 / L4m6</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0255.gif</Image-URL>
+			<Image-Local>Image/item0255.0ade8ec09125b728ef89f98a03b290c6.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>월단검풍</Korean_Name>
+			<English_Name>Moon Dagger+3</English_Name>
+			<Class>Rogue</Class>
+			<Circle>3</Circle>
+			<Weight>9</Weight>
+			<Primary-Stats>S51m71 / L4m6</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0255.gif</Image-URL>
+			<Image-Local>Image/item0255.0ade8ec09125b728ef89f98a03b290c6.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>월단검화</Korean_Name>
+			<English_Name>Moon Dagger+4</English_Name>
+			<Class>Rogue</Class>
+			<Circle>3</Circle>
+			<Weight>9</Weight>
+			<Primary-Stats>S53m73 / L4m6</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0255.gif</Image-URL>
+			<Image-Local>Image/item0255.0ade8ec09125b728ef89f98a03b290c6.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비광표</Korean_Name>
+			<English_Name>Moon Secret</English_Name>
+			<Class>Rogue</Class>
+			<Circle>3</Circle>
+			<Weight>11</Weight>
+			<Primary-Stats>S60m80 / L5m7</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0222.gif</Image-URL>
+			<Image-Local>Image/item0222.4d4902f08e5465c5f775d7bcf1478c88.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비광표수</Korean_Name>
+			<English_Name>Moon Secret+1</English_Name>
+			<Class>Rogue</Class>
+			<Circle>3</Circle>
+			<Weight>11</Weight>
+			<Primary-Stats>S62m82 / L5m7</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0222.gif</Image-URL>
+			<Image-Local>Image/item0222.4d4902f08e5465c5f775d7bcf1478c88.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비광표토</Korean_Name>
+			<English_Name>Moon Secret+2</English_Name>
+			<Class>Rogue</Class>
+			<Circle>3</Circle>
+			<Weight>11</Weight>
+			<Primary-Stats>S64m84 / L5m7</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0222.gif</Image-URL>
+			<Image-Local>Image/item0222.4d4902f08e5465c5f775d7bcf1478c88.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비광표풍</Korean_Name>
+			<English_Name>Moon Secret+3</English_Name>
+			<Class>Rogue</Class>
+			<Circle>3</Circle>
+			<Weight>11</Weight>
+			<Primary-Stats>S66m86 / L6m8</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0222.gif</Image-URL>
+			<Image-Local>Image/item0222.4d4902f08e5465c5f775d7bcf1478c88.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비광표화</Korean_Name>
+			<English_Name>Moon Secret+4</English_Name>
+			<Class>Rogue</Class>
+			<Circle>3</Circle>
+			<Weight>11</Weight>
+			<Primary-Stats>S68m88 / L6m8</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0222.gif</Image-URL>
+			<Image-Local>Image/item0222.4d4902f08e5465c5f775d7bcf1478c88.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비월표</Korean_Name>
+			<English_Name>Sun Secret</English_Name>
+			<Class>Rogue</Class>
+			<Circle>3</Circle>
+			<Weight>9</Weight>
+			<Primary-Stats>S45m65 / L4m6</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0222.gif</Image-URL>
+			<Image-Local>Image/item0222.4d4902f08e5465c5f775d7bcf1478c88.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비월표수</Korean_Name>
+			<English_Name>Sun Secret+1</English_Name>
+			<Class>Rogue</Class>
+			<Circle>3</Circle>
+			<Weight>9</Weight>
+			<Primary-Stats>S47m67 / L4m6</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0222.gif</Image-URL>
+			<Image-Local>Image/item0222.4d4902f08e5465c5f775d7bcf1478c88.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비월표토</Korean_Name>
+			<English_Name>Sun Secret+2</English_Name>
+			<Class>Rogue</Class>
+			<Circle>3</Circle>
+			<Weight>9</Weight>
+			<Primary-Stats>S49m69 / L4m6</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0222.gif</Image-URL>
+			<Image-Local>Image/item0222.4d4902f08e5465c5f775d7bcf1478c88.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비월표풍</Korean_Name>
+			<English_Name>Sun Secret+3</English_Name>
+			<Class>Rogue</Class>
+			<Circle>3</Circle>
+			<Weight>9</Weight>
+			<Primary-Stats>S51m71 / L4m6</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0222.gif</Image-URL>
+			<Image-Local>Image/item0222.4d4902f08e5465c5f775d7bcf1478c88.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비월표화</Korean_Name>
+			<English_Name>Sun Secret+4</English_Name>
+			<Class>Rogue</Class>
+			<Circle>3</Circle>
+			<Weight>9</Weight>
+			<Primary-Stats>S53m73 / L4m6</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0222.gif</Image-URL>
+			<Image-Local>Image/item0222.4d4902f08e5465c5f775d7bcf1478c88.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>연단검</Korean_Name>
+			<English_Name>Ceremony Dagger</English_Name>
+			<Class>Rogue</Class>
+			<Circle>4</Circle>
+			<Weight>15</Weight>
+			<Primary-Stats>S80m110 / L7m10</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0257.gif</Image-URL>
+			<Image-Local>Image/item0257.e3d089b0007ad738a274aa0b2a9e89ed.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>연단검수</Korean_Name>
+			<English_Name>Ceremony Dagger+1</English_Name>
+			<Class>Rogue</Class>
+			<Circle>4</Circle>
+			<Weight>15</Weight>
+			<Primary-Stats>S82m112 / L7m10</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0257.gif</Image-URL>
+			<Image-Local>Image/item0257.e3d089b0007ad738a274aa0b2a9e89ed.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>연단검토</Korean_Name>
+			<English_Name>Ceremony Dagger+2</English_Name>
+			<Class>Rogue</Class>
+			<Circle>4</Circle>
+			<Weight>15</Weight>
+			<Primary-Stats>S84m114 / L7m10</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0257.gif</Image-URL>
+			<Image-Local>Image/item0257.e3d089b0007ad738a274aa0b2a9e89ed.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>연단검풍</Korean_Name>
+			<English_Name>Ceremony Dagger+3</English_Name>
+			<Class>Rogue</Class>
+			<Circle>4</Circle>
+			<Weight>15</Weight>
+			<Primary-Stats>S86m116 / L8m11</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0257.gif</Image-URL>
+			<Image-Local>Image/item0257.e3d089b0007ad738a274aa0b2a9e89ed.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>연단검화</Korean_Name>
+			<English_Name>Ceremony Dagger+4</English_Name>
+			<Class>Rogue</Class>
+			<Circle>4</Circle>
+			<Weight>15</Weight>
+			<Primary-Stats>S88m118 / L8m11</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0257.gif</Image-URL>
+			<Image-Local>Image/item0257.e3d089b0007ad738a274aa0b2a9e89ed.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비일표</Korean_Name>
+			<English_Name>Great Moon Secret</English_Name>
+			<Class>Rogue</Class>
+			<Circle>4</Circle>
+			<Weight>13</Weight>
+			<Primary-Stats>S75m95 / L7m9</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0222.gif</Image-URL>
+			<Image-Local>Image/item0222.4d4902f08e5465c5f775d7bcf1478c88.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비일표수</Korean_Name>
+			<English_Name>Great Moon Secret+1</English_Name>
+			<Class>Rogue</Class>
+			<Circle>4</Circle>
+			<Weight>13</Weight>
+			<Primary-Stats>S77m97 / L7m9</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0222.gif</Image-URL>
+			<Image-Local>Image/item0222.4d4902f08e5465c5f775d7bcf1478c88.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비일표토</Korean_Name>
+			<English_Name>Great Moon Secret+2</English_Name>
+			<Class>Rogue</Class>
+			<Circle>4</Circle>
+			<Weight>13</Weight>
+			<Primary-Stats>S79m99 / L7m9</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0222.gif</Image-URL>
+			<Image-Local>Image/item0222.4d4902f08e5465c5f775d7bcf1478c88.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비일표풍</Korean_Name>
+			<English_Name>Great Moon Secret+3</English_Name>
+			<Class>Rogue</Class>
+			<Circle>4</Circle>
+			<Weight>13</Weight>
+			<Primary-Stats>S81m101 / L7m9</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0222.gif</Image-URL>
+			<Image-Local>Image/item0222.4d4902f08e5465c5f775d7bcf1478c88.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비일표화</Korean_Name>
+			<English_Name>Great Moon Secret+4</English_Name>
+			<Class>Rogue</Class>
+			<Circle>4</Circle>
+			<Weight>13</Weight>
+			<Primary-Stats>S83m103 / L7m9</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0222.gif</Image-URL>
+			<Image-Local>Image/item0222.4d4902f08e5465c5f775d7bcf1478c88.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비연표</Korean_Name>
+			<English_Name>Lotus Secret</English_Name>
+			<Class>Rogue</Class>
+			<Circle>4</Circle>
+			<Weight>15</Weight>
+			<Primary-Stats>S80m110 / L7m10</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0223.gif</Image-URL>
+			<Image-Local>Image/item0223.d0e288c6429ed1123bc3b16468455db9.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비연표수</Korean_Name>
+			<English_Name>Lotus Secret +1</English_Name>
+			<Class>Rogue</Class>
+			<Circle>4</Circle>
+			<Weight>15</Weight>
+			<Primary-Stats>S82m112 / L7m10</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0223.gif</Image-URL>
+			<Image-Local>Image/item0223.d0e288c6429ed1123bc3b16468455db9.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비연표토</Korean_Name>
+			<English_Name>Lotus Secret+2</English_Name>
+			<Class>Rogue</Class>
+			<Circle>4</Circle>
+			<Weight>15</Weight>
+			<Primary-Stats>S84m114 / L7m10</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0223.gif</Image-URL>
+			<Image-Local>Image/item0223.d0e288c6429ed1123bc3b16468455db9.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비연표풍</Korean_Name>
+			<English_Name>Lotus Secret+3</English_Name>
+			<Class>Rogue</Class>
+			<Circle>4</Circle>
+			<Weight>15</Weight>
+			<Primary-Stats>S86m116 / L8m11</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0223.gif</Image-URL>
+			<Image-Local>Image/item0223.d0e288c6429ed1123bc3b16468455db9.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비연표화</Korean_Name>
+			<English_Name>Lotus Secret+4</English_Name>
+			<Class>Rogue</Class>
+			<Circle>4</Circle>
+			<Weight>15</Weight>
+			<Primary-Stats>S88m118 / L8m11</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0223.gif</Image-URL>
+			<Image-Local>Image/item0223.d0e288c6429ed1123bc3b16468455db9.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>일단검</Korean_Name>
+			<English_Name>Sun Dagger</English_Name>
+			<Class>Rogue</Class>
+			<Circle>4</Circle>
+			<Weight>13</Weight>
+			<Primary-Stats>S75m95 / L7m9</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0253.gif</Image-URL>
+			<Image-Local>Image/item0253.4cba5e7a67773a65a39b7c96ec7acc9c.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>일단검수</Korean_Name>
+			<English_Name>Sun Dagger+1</English_Name>
+			<Class>Rogue</Class>
+			<Circle>4</Circle>
+			<Weight>13</Weight>
+			<Primary-Stats>S77m97 / L7m9</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0253.gif</Image-URL>
+			<Image-Local>Image/item0253.4cba5e7a67773a65a39b7c96ec7acc9c.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>일단검토</Korean_Name>
+			<English_Name>Sun Dagger+2</English_Name>
+			<Class>Rogue</Class>
+			<Circle>4</Circle>
+			<Weight>13</Weight>
+			<Primary-Stats>S79m99 / L7m9</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0253.gif</Image-URL>
+			<Image-Local>Image/item0253.4cba5e7a67773a65a39b7c96ec7acc9c.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>일단검풍</Korean_Name>
+			<English_Name>Sun Dagger+3</English_Name>
+			<Class>Rogue</Class>
+			<Circle>4</Circle>
+			<Weight>13</Weight>
+			<Primary-Stats>S81m101 / L7m9</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0253.gif</Image-URL>
+			<Image-Local>Image/item0253.4cba5e7a67773a65a39b7c96ec7acc9c.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>일단검화</Korean_Name>
+			<English_Name>Sun Dagger+4</English_Name>
+			<Class>Rogue</Class>
+			<Circle>4</Circle>
+			<Weight>13</Weight>
+			<Primary-Stats>S83m103 / L7m9</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0253.gif</Image-URL>
+			<Image-Local>Image/item0253.4cba5e7a67773a65a39b7c96ec7acc9c.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>아수라</Korean_Name>
+			<English_Name>Asura Dagger</English_Name>
+			<Class>Rogue</Class>
+			<Circle>5</Circle>
+			<Weight>14</Weight>
+			<Primary-Stats>S150m185 / L14m17</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item010/item1010.gif</Image-URL>
+			<Image-Local>Image/item1010.73d9fca67d6c5926ec9a69a0d49c25ae.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>혈단검</Korean_Name>
+			<English_Name>Blood Dagger</English_Name>
+			<Class>Rogue</Class>
+			<Circle>5</Circle>
+			<Weight>17</Weight>
+			<Primary-Stats>S95m125 / L9m12</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0256.gif</Image-URL>
+			<Image-Local>Image/item0256.5b21708e8d7713f841fa4e847359c4f1.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>혈단검수</Korean_Name>
+			<English_Name>Blood Dagger +1</English_Name>
+			<Class>Rogue</Class>
+			<Circle>5</Circle>
+			<Weight>17</Weight>
+			<Primary-Stats>S97m127 / L9m12</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0256.gif</Image-URL>
+			<Image-Local>Image/item0256.5b21708e8d7713f841fa4e847359c4f1.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>혈단검토</Korean_Name>
+			<English_Name>Blood Dagger+2</English_Name>
+			<Class>Rogue</Class>
+			<Circle>5</Circle>
+			<Weight>17</Weight>
+			<Primary-Stats>S99m129 / L9m12</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0256.gif</Image-URL>
+			<Image-Local>Image/item0256.5b21708e8d7713f841fa4e847359c4f1.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>혈단검풍</Korean_Name>
+			<English_Name>Blood Dagger+3</English_Name>
+			<Class>Rogue</Class>
+			<Circle>5</Circle>
+			<Weight>17</Weight>
+			<Primary-Stats>S101m131 / L9m12</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0256.gif</Image-URL>
+			<Image-Local>Image/item0256.5b21708e8d7713f841fa4e847359c4f1.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>혈단검화</Korean_Name>
+			<English_Name>Blood Dagger+4</English_Name>
+			<Class>Rogue</Class>
+			<Circle>5</Circle>
+			<Weight>17</Weight>
+			<Primary-Stats>S103m133 / L9m12</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0256.gif</Image-URL>
+			<Image-Local>Image/item0256.5b21708e8d7713f841fa4e847359c4f1.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>카타르</Korean_Name>
+			<English_Name>Cutter Dagger</English_Name>
+			<Class>Rogue</Class>
+			<Circle>5</Circle>
+			<Weight>15</Weight>
+			<Primary-Stats>S125m155 / L12m14</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item010/item1011.gif</Image-URL>
+			<Image-Local>Image/item1011.fb43c49618245ddb481479f362c4f748.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>신월도</Korean_Name>
+			<English_Name>Divine Wol-do (Moon Blade)</English_Name>
+			<Class>Rogue</Class>
+			<Circle>5</Circle>
+			<Weight>15</Weight>
+			<Primary-Stats>S165m170 / L16m17</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item010/item1012.gif</Image-URL>
+			<Image-Local>Image/item1012.4ecc3ead6b02719e45548f3462a6d937.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비혈표</Korean_Name>
+			<English_Name>Great Lotus Secret</English_Name>
+			<Class>Rogue</Class>
+			<Circle>5</Circle>
+			<Weight>17</Weight>
+			<Primary-Stats>S95m125 / L9m12</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0223.gif</Image-URL>
+			<Image-Local>Image/item0223.d0e288c6429ed1123bc3b16468455db9.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비혈표수</Korean_Name>
+			<English_Name>Great Lotus Secret+1</English_Name>
+			<Class>Rogue</Class>
+			<Circle>5</Circle>
+			<Weight>17</Weight>
+			<Primary-Stats>S97m127 / L9m12</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0223.gif</Image-URL>
+			<Image-Local>Image/item0223.d0e288c6429ed1123bc3b16468455db9.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비혈표토</Korean_Name>
+			<English_Name>Great Lotus Secret+2</English_Name>
+			<Class>Rogue</Class>
+			<Circle>5</Circle>
+			<Weight>17</Weight>
+			<Primary-Stats>S99m129 / L9m12</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0223.gif</Image-URL>
+			<Image-Local>Image/item0223.d0e288c6429ed1123bc3b16468455db9.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비혈표풍</Korean_Name>
+			<English_Name>Great Lotus Secret+3</English_Name>
+			<Class>Rogue</Class>
+			<Circle>5</Circle>
+			<Weight>17</Weight>
+			<Primary-Stats>S101m131 / L9m12</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0223.gif</Image-URL>
+			<Image-Local>Image/item0223.d0e288c6429ed1123bc3b16468455db9.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>비혈표화</Korean_Name>
+			<English_Name>Great Lotus Secret+4</English_Name>
+			<Class>Rogue</Class>
+			<Circle>5</Circle>
+			<Weight>17</Weight>
+			<Primary-Stats>S103m133 / L9m12</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item002/item0223.gif</Image-URL>
+			<Image-Local>Image/item0223.d0e288c6429ed1123bc3b16468455db9.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>미스릴채찍</Korean_Name>
+			<English_Name>Mythril Whip</English_Name>
+			<Class>Rogue</Class>
+			<Circle>5</Circle>
+			<Weight>17</Weight>
+			<Primary-Stats>S90m100 / L10m10</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item005/item0522.gif</Image-URL>
+			<Image-Local>Image/item0522.892dd46a6466c71415290d93c90ca40c.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>인월도</Korean_Name>
+			<English_Name>Perfect Wol-do (Moon Blade)</English_Name>
+			<Class>Rogue</Class>
+			<Circle>5</Circle>
+			<Weight>17</Weight>
+			<Primary-Stats>S145m150 / L14m15</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item010/item1013.gif</Image-URL>
+			<Image-Local>Image/item1013.b28e63c1da2ab6f36a94c87efe543d98.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>루비채찍</Korean_Name>
+			<English_Name>Ruby Whip</English_Name>
+			<Class>Rogue</Class>
+			<Circle>5</Circle>
+			<Weight>17</Weight>
+			<Primary-Stats>S90m100 / L10m10</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item005/item0523.gif</Image-URL>
+			<Image-Local>Image/item0523.a10ee21323d021239961c753cb0c4f2a.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>곡단도</Korean_Name>
+			<English_Name>Short Blade</English_Name>
+			<Class>Rogue</Class>
+			<Circle>5</Circle>
+			<Weight>17</Weight>
+			<Primary-Stats>S125m130 / L12m14</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item005/item0518.gif</Image-URL>
+			<Image-Local>Image/item0518.ab081240fb832aa3675ea75e4d1c14dd.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>아조스</Korean_Name>
+			<English_Name>Azzos Blade</English_Name>
+			<Class>Rogue</Class>
+			<Circle>Master</Circle>
+			<Weight>10</Weight>
+			<Primary-Stats>S295m325 / L29m39</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item008/item0874.gif</Image-URL>
+			<Image-Local>Image/item0874.9de0cc539bda6a7e177ad5a21e558464.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>큐어프람베르그</Korean_Name>
+			<English_Name>Blessed Flamberge</English_Name>
+			<Class>Rogue</Class>
+			<Circle>Master</Circle>
+			<Weight>10</Weight>
+			<Primary-Stats>S335m365 / L33m36</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item033/item3312.gif</Image-URL>
+			<Image-Local>Image/item3312.2d1cb3be529dff683a9a2871a77b830d.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>크리샤오르</Korean_Name>
+			<English_Name>Crystal Dagger</English_Name>
+			<Class>Rogue</Class>
+			<Circle>Master</Circle>
+			<Weight>10</Weight>
+			<Primary-Stats>S395m425 / L39m42</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0928.gif</Image-URL>
+			<Image-Local>Image/item0928.9f406861866169a88d81c36c5142e278.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>커스프람베르그</Korean_Name>
+			<English_Name>Cursed Flamberge</English_Name>
+			<Class>Rogue</Class>
+			<Circle>Master</Circle>
+			<Weight>10</Weight>
+			<Primary-Stats>S335m365 / L33m36</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item033/item3312.gif</Image-URL>
+			<Image-Local>Image/item3312.2d1cb3be529dff683a9a2871a77b830d.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>본브레이크</Korean_Name>
+			<English_Name>Bone Breaker</English_Name>
+			<Class>Warrior</Class>
+			<Circle>1</Circle>
+			<Weight>13</Weight>
+			<Primary-Stats>S124m264 / L364m402</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2037.gif</Image-URL>
+			<Image-Local>Image/item2037.4e98eaff34bb2884e17bb77b97ec6db7.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>핸드액스</Korean_Name>
+			<English_Name>Hand Axe</English_Name>
+			<Class>Warrior</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S16m26 / L2m3</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item005/item0510.gif</Image-URL>
+			<Image-Local>Image/item0510.4399fc25b60bce79bc1956917d25b026.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>사냥꾼의도끼</Korean_Name>
+			<English_Name>Hunter's Axe</English_Name>
+			<Class>Warrior</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S50m60 / L5m7</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item005/item0525.gif</Image-URL>
+			<Image-Local>Image/item0525.a0ee021102f12ecec277a3aa835732a8.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>타고나이트액스</Korean_Name>
+			<English_Name>Talgonite Axe</English_Name>
+			<Class>Warrior</Class>
+			<Circle>2</Circle>
+			<Weight>11</Weight>
+			<Primary-Stats>S95m120 / L11m12</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item005/item0525.gif</Image-URL>
+			<Image-Local>Image/item0525.a0ee021102f12ecec277a3aa835732a8.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>토마호크</Korean_Name>
+			<English_Name>Tomahawk</English_Name>
+			<Class>Warrior</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S16m26 / L2m3</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item005/item0527.gif</Image-URL>
+			<Image-Local>Image/item0527.d05bdab0e40f01f261588d20a48c72ed.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>바스타드블레이드</Korean_Name>
+			<English_Name>Bastard Blade</English_Name>
+			<Class>Warrior</Class>
+			<Circle>2nd Job</Circle>
+			<Weight>12</Weight>
+			<Primary-Stats>S124m264 / L334m394</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1979.gif</Image-URL>
+			<Image-Local>Image/item1979.d9d61fa28373c3e1ca0011f10b6f7211.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>다인블레이드</Korean_Name>
+			<English_Name>Dane Blade</English_Name>
+			<Class>Warrior</Class>
+			<Circle>2nd Job</Circle>
+			<Weight>11</Weight>
+			<Primary-Stats>S124m264 / L334m354</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1776.gif</Image-URL>
+			<Image-Local>Image/item1776.4de720c905da1c7a983944c797ff20db.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>다크본브레이크</Korean_Name>
+			<English_Name>Dark Bone Breaker</English_Name>
+			<Class>Warrior</Class>
+			<Circle>2nd Job</Circle>
+			<Weight>13</Weight>
+			<Primary-Stats>S154m284 / L364m432</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2038.gif</Image-URL>
+			<Image-Local>Image/item2038.ba341aa4b344a6ec41fa5b054bdda316.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>금월도</Korean_Name>
+			<English_Name>Gold Wol-do (Moon Blade)</English_Name>
+			<Class>Warrior</Class>
+			<Circle>2nd Job</Circle>
+			<Weight>13</Weight>
+			<Primary-Stats>S184m284 / L384m482</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item023/item2372.gif</Image-URL>
+			<Image-Local>Image/item2372.d9c0ce1fc81c3f5177ed762be04dc977.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>영월도</Korean_Name>
+			<English_Name>Silver Wol-do (Moon Blade)</English_Name>
+			<Class>Warrior</Class>
+			<Circle>2nd Job</Circle>
+			<Weight>13</Weight>
+			<Primary-Stats>S214m284 / L394m502</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item031/item3193.gif</Image-URL>
+			<Image-Local>Image/item3193.bfb626038a3433d72ceb8e7870f1dae1.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>액스</Korean_Name>
+			<English_Name>Axe</English_Name>
+			<Class>Warrior</Class>
+			<Circle>3</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>S35m45 / L4m6</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item005/item0511.gif</Image-URL>
+			<Image-Local>Image/item0511.b88f15812fa4a09d331922fa07ee0cb4.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>가디언바스타드액스</Korean_Name>
+			<English_Name>Guardian Bastard Axe</English_Name>
+			<Class>Warrior</Class>
+			<Circle>3</Circle>
+			<Weight>3</Weight>
+			<Primary-Stats>S54m54 / L5m8</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item032/item3254.gif</Image-URL>
+			<Image-Local>Image/item3254.5cb8822d1468f77baf556d3a39198afd.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>하이브레이질액스</Korean_Name>
+			<English_Name>Hy-Brasyl Axe</English_Name>
+			<Class>Warrior</Class>
+			<Circle>3</Circle>
+			<Weight>11</Weight>
+			<Primary-Stats>S60m80 / L7m9</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item005/item0512.gif</Image-URL>
+			<Image-Local>Image/item0512.cf3e45589fa1ef1ac83262f97f2e3ef4.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>우든클럽</Korean_Name>
+			<English_Name>Wooden Club</English_Name>
+			<Class>Warrior</Class>
+			<Circle>3</Circle>
+			<Weight>11</Weight>
+			<Primary-Stats>S91m110 / L9m12</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item005/item0506.gif</Image-URL>
+			<Image-Local>Image/item0506.582fefb7c9898c3009c8e85e4fc08f8d.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>투핸드크레이모어</Korean_Name>
+			<English_Name>2-H Claidhmore</English_Name>
+			<Class>Warrior</Class>
+			<Circle>4</Circle>
+			<Weight>26</Weight>
+			<Primary-Stats>S140m180 / L12m16</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0175.gif</Image-URL>
+			<Image-Local>Image/item0175.17511d52fdea50ff0582b6a2cd8d8bc9.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>투핸드크레이모어수</Korean_Name>
+			<English_Name>2-H Claidhmore+1</English_Name>
+			<Class>Warrior</Class>
+			<Circle>4</Circle>
+			<Weight>26</Weight>
+			<Primary-Stats>S144m184 / L12m16</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0175.gif</Image-URL>
+			<Image-Local>Image/item0175.17511d52fdea50ff0582b6a2cd8d8bc9.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>투핸드크레이모어토</Korean_Name>
+			<English_Name>2-H Claidhmore+2</English_Name>
+			<Class>Warrior</Class>
+			<Circle>4</Circle>
+			<Weight>26</Weight>
+			<Primary-Stats>S148m188 / L13m17</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0175.gif</Image-URL>
+			<Image-Local>Image/item0175.17511d52fdea50ff0582b6a2cd8d8bc9.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>투핸드크레이모어풍</Korean_Name>
+			<English_Name>2-H Claidhmore+3</English_Name>
+			<Class>Warrior</Class>
+			<Circle>4</Circle>
+			<Weight>26</Weight>
+			<Primary-Stats>S152m192 / L13m17</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0175.gif</Image-URL>
+			<Image-Local>Image/item0175.17511d52fdea50ff0582b6a2cd8d8bc9.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>투핸드크레이모어화</Korean_Name>
+			<English_Name>2-H Claidhmore+4</English_Name>
+			<Class>Warrior</Class>
+			<Circle>4</Circle>
+			<Weight>26</Weight>
+			<Primary-Stats>S156m196 / L14m18</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0175.gif</Image-URL>
+			<Image-Local>Image/item0175.17511d52fdea50ff0582b6a2cd8d8bc9.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>투핸드에메랄드소드</Korean_Name>
+			<English_Name>2-H Emerald Sword</English_Name>
+			<Class>Warrior</Class>
+			<Circle>4</Circle>
+			<Weight>26</Weight>
+			<Primary-Stats>S124m164 / L14m18</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0177.gif</Image-URL>
+			<Image-Local>Image/item0177.17f1fba88d37b4e500544ba7d15a1b8e.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>투핸드에메랄드소드수</Korean_Name>
+			<English_Name>2-H Emerald Sword+1</English_Name>
+			<Class>Warrior</Class>
+			<Circle>4</Circle>
+			<Weight>26</Weight>
+			<Primary-Stats>S128m168 / L14m18</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0177.gif</Image-URL>
+			<Image-Local>Image/item0177.17f1fba88d37b4e500544ba7d15a1b8e.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>투핸드에메랄드소드토</Korean_Name>
+			<English_Name>2-H Emerald Sword+2</English_Name>
+			<Class>Warrior</Class>
+			<Circle>4</Circle>
+			<Weight>26</Weight>
+			<Primary-Stats>S132m172 / L14m18</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0177.gif</Image-URL>
+			<Image-Local>Image/item0177.17f1fba88d37b4e500544ba7d15a1b8e.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>투핸드에메랄드소드풍</Korean_Name>
+			<English_Name>2-H Emerald Sword+3</English_Name>
+			<Class>Warrior</Class>
+			<Circle>4</Circle>
+			<Weight>26</Weight>
+			<Primary-Stats>S136m176 / L15m19</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0177.gif</Image-URL>
+			<Image-Local>Image/item0177.17f1fba88d37b4e500544ba7d15a1b8e.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>투핸드에메랄드소드화</Korean_Name>
+			<English_Name>2-H Emerald Sword+4</English_Name>
+			<Class>Warrior</Class>
+			<Circle>4</Circle>
+			<Weight>26</Weight>
+			<Primary-Stats>S140m180 / L15m19</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0177.gif</Image-URL>
+			<Image-Local>Image/item0177.17f1fba88d37b4e500544ba7d15a1b8e.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>투핸드가이아두스</Korean_Name>
+			<English_Name>2-H Gladius</English_Name>
+			<Class>Warrior</Class>
+			<Circle>4</Circle>
+			<Weight>30</Weight>
+			<Primary-Stats>S150m210 / L13m19</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0182.gif</Image-URL>
+			<Image-Local>Image/item0182.f9bba230808c249e3c6605fdbaf0f311.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>투핸드가이아두스수</Korean_Name>
+			<English_Name>2-H Gladius+1</English_Name>
+			<Class>Warrior</Class>
+			<Circle>4</Circle>
+			<Weight>30</Weight>
+			<Primary-Stats>S154m214 / L13m19</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0182.gif</Image-URL>
+			<Image-Local>Image/item0182.f9bba230808c249e3c6605fdbaf0f311.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>투핸드가이아두스토</Korean_Name>
+			<English_Name>2-H Gladius+2</English_Name>
+			<Class>Warrior</Class>
+			<Circle>4</Circle>
+			<Weight>30</Weight>
+			<Primary-Stats>S158m218 / L14m20</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0182.gif</Image-URL>
+			<Image-Local>Image/item0182.f9bba230808c249e3c6605fdbaf0f311.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>투핸드가이아두스풍</Korean_Name>
+			<English_Name>2-H Gladius+3</English_Name>
+			<Class>Warrior</Class>
+			<Circle>4</Circle>
+			<Weight>30</Weight>
+			<Primary-Stats>S162m222 / L14m20</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0182.gif</Image-URL>
+			<Image-Local>Image/item0182.f9bba230808c249e3c6605fdbaf0f311.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>투핸드가이아두스화</Korean_Name>
+			<English_Name>2-H Gladius+4</English_Name>
+			<Class>Warrior</Class>
+			<Circle>4</Circle>
+			<Weight>30</Weight>
+			<Primary-Stats>S166m226 / L15m21</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0182.gif</Image-URL>
+			<Image-Local>Image/item0182.f9bba230808c249e3c6605fdbaf0f311.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>투핸드그레이트소드</Korean_Name>
+			<English_Name>2-H Great Sword</English_Name>
+			<Class>Warrior</Class>
+			<Circle>4</Circle>
+			<Weight>30</Weight>
+			<Primary-Stats>S134m194 / L15m21</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0180.gif</Image-URL>
+			<Image-Local>Image/item0180.8a2806d654b8cb47deb2b3ba6b501271.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>투핸드그레이트소드수</Korean_Name>
+			<English_Name>2-H Great Sword+1</English_Name>
+			<Class>Warrior</Class>
+			<Circle>4</Circle>
+			<Weight>30</Weight>
+			<Primary-Stats>S138m198 / L15m21</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0180.gif</Image-URL>
+			<Image-Local>Image/item0180.8a2806d654b8cb47deb2b3ba6b501271.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>투핸드그레이트소드토</Korean_Name>
+			<English_Name>2-H Great Sword+2</English_Name>
+			<Class>Warrior</Class>
+			<Circle>4</Circle>
+			<Weight>30</Weight>
+			<Primary-Stats>S142m202 / L15m21</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0180.gif</Image-URL>
+			<Image-Local>Image/item0180.8a2806d654b8cb47deb2b3ba6b501271.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>투핸드그레이트소드풍</Korean_Name>
+			<English_Name>2-H Great Sword+3</English_Name>
+			<Class>Warrior</Class>
+			<Circle>4</Circle>
+			<Weight>30</Weight>
+			<Primary-Stats>S146m206 / L16m22</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0180.gif</Image-URL>
+			<Image-Local>Image/item0180.8a2806d654b8cb47deb2b3ba6b501271.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>투핸드그레이트소드화</Korean_Name>
+			<English_Name>2-H Great Sword+4</English_Name>
+			<Class>Warrior</Class>
+			<Circle>4</Circle>
+			<Weight>30</Weight>
+			<Primary-Stats>S150m210 / L16m22</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0180.gif</Image-URL>
+			<Image-Local>Image/item0180.8a2806d654b8cb47deb2b3ba6b501271.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>배틀액스</Korean_Name>
+			<English_Name>Battle Axe</English_Name>
+			<Class>Warrior</Class>
+			<Circle>4</Circle>
+			<Weight>16</Weight>
+			<Primary-Stats>S80m110 / L10m11</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item005/item0515.gif</Image-URL>
+			<Image-Local>Image/item0515.5bcb10a288d21ac1cfcb489eb1682af2.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>자이언트클럽</Korean_Name>
+			<English_Name>Giant Club</English_Name>
+			<Class>Warrior</Class>
+			<Circle>4</Circle>
+			<Weight>15</Weight>
+			<Primary-Stats>S90m110 / L10m12</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item005/item0508.gif</Image-URL>
+			<Image-Local>Image/item0508.13ee0c6daaf7598ec7760fe018e09809.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>시미터</Korean_Name>
+			<English_Name>Scimitar</English_Name>
+			<Class>Warrior</Class>
+			<Circle>4</Circle>
+			<Weight>15</Weight>
+			<Primary-Stats>S80m110 / L9m12</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item005/item0519.gif</Image-URL>
+			<Image-Local>Image/item0519.0518991a8ed731c3f44ba6a6c527e252.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>실버시미터</Korean_Name>
+			<English_Name>Silver Scimitar</English_Name>
+			<Class>Warrior</Class>
+			<Circle>4</Circle>
+			<Weight>15</Weight>
+			<Primary-Stats>S90m120 / L8m11</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item005/item0528.gif</Image-URL>
+			<Image-Local>Image/item0528.f890118373c29c66216030b4a8c8c336.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>스파이크클럽</Korean_Name>
+			<English_Name>Spiked Club</English_Name>
+			<Class>Warrior</Class>
+			<Circle>4</Circle>
+			<Weight>12</Weight>
+			<Primary-Stats>S40m60 / L5m7</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item005/item0507.gif</Image-URL>
+			<Image-Local>Image/item0507.f838fe3668192d57ea060fd7755d4205.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>투핸드드래곤크로어</Korean_Name>
+			<English_Name>2-H Dragon Claw(Blade)</English_Name>
+			<Class>Warrior</Class>
+			<Circle>5</Circle>
+			<Weight>34</Weight>
+			<Primary-Stats>S160m220 / L18m24</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0178.gif</Image-URL>
+			<Image-Local>Image/item0178.8f250a51caac0914394a24c89c7c6787.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>투핸드드래곤크로어수</Korean_Name>
+			<English_Name>2-H Dragon Claw(Blade)+1</English_Name>
+			<Class>Warrior</Class>
+			<Circle>5</Circle>
+			<Weight>34</Weight>
+			<Primary-Stats>S164m224 / L18m24</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0178.gif</Image-URL>
+			<Image-Local>Image/item0178.8f250a51caac0914394a24c89c7c6787.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>투핸드드래곤크로어토</Korean_Name>
+			<English_Name>2-H Dragon Claw(Blade)+2</English_Name>
+			<Class>Warrior</Class>
+			<Circle>5</Circle>
+			<Weight>34</Weight>
+			<Primary-Stats>S168m228 / L18m24</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0178.gif</Image-URL>
+			<Image-Local>Image/item0178.8f250a51caac0914394a24c89c7c6787.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>투핸드드래곤크로어풍</Korean_Name>
+			<English_Name>2-H Dragon Claw(Blade)+3</English_Name>
+			<Class>Warrior</Class>
+			<Circle>5</Circle>
+			<Weight>34</Weight>
+			<Primary-Stats>S172m232 / L19m25</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0178.gif</Image-URL>
+			<Image-Local>Image/item0178.8f250a51caac0914394a24c89c7c6787.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>투핸드드래곤크로어화</Korean_Name>
+			<English_Name>2-H Dragon Claw(Blade)+4</English_Name>
+			<Class>Warrior</Class>
+			<Circle>5</Circle>
+			<Weight>34</Weight>
+			<Primary-Stats>S176m236 / L19m25</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0178.gif</Image-URL>
+			<Image-Local>Image/item0178.8f250a51caac0914394a24c89c7c6787.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>투핸드엑시큐터</Korean_Name>
+			<English_Name>2-H Executioner</English_Name>
+			<Class>Warrior</Class>
+			<Circle>5</Circle>
+			<Weight>34</Weight>
+			<Primary-Stats>S180m240 / L16m22</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0181.gif</Image-URL>
+			<Image-Local>Image/item0181.0e81ce367a156c95ee93e92afa8e6457.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>투핸드엑시큐터수</Korean_Name>
+			<English_Name>2-H Executioner+1</English_Name>
+			<Class>Warrior</Class>
+			<Circle>5</Circle>
+			<Weight>34</Weight>
+			<Primary-Stats>S184m244 / L16m22</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0181.gif</Image-URL>
+			<Image-Local>Image/item0181.0e81ce367a156c95ee93e92afa8e6457.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>투핸드엑시큐터토</Korean_Name>
+			<English_Name>2-H Executioner+2</English_Name>
+			<Class>Warrior</Class>
+			<Circle>5</Circle>
+			<Weight>34</Weight>
+			<Primary-Stats>S188m248 / L16m22</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0181.gif</Image-URL>
+			<Image-Local>Image/item0181.0e81ce367a156c95ee93e92afa8e6457.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>투핸드엑시큐터풍</Korean_Name>
+			<English_Name>2-H Executioner+3</English_Name>
+			<Class>Warrior</Class>
+			<Circle>5</Circle>
+			<Weight>34</Weight>
+			<Primary-Stats>S192m252 / L17m23</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0181.gif</Image-URL>
+			<Image-Local>Image/item0181.0e81ce367a156c95ee93e92afa8e6457.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>투핸드엑시큐터화</Korean_Name>
+			<English_Name>2-H Executioner+4</English_Name>
+			<Class>Warrior</Class>
+			<Circle>5</Circle>
+			<Weight>34</Weight>
+			<Primary-Stats>S196m256 / L17m23</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0181.gif</Image-URL>
+			<Image-Local>Image/item0181.0e81ce367a156c95ee93e92afa8e6457.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>더브릴</Korean_Name>
+			<English_Name>Brille Blade</English_Name>
+			<Class>Warrior</Class>
+			<Circle>5</Circle>
+			<Weight>15</Weight>
+			<Primary-Stats>S190m220 / L18m21</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item005/item0520.gif</Image-URL>
+			<Image-Local>Image/item0520.75b0b1f5051a94f94ede70fc49ca9c33.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>체인메이스</Korean_Name>
+			<English_Name>Chain Mace</English_Name>
+			<Class>Warrior</Class>
+			<Circle>5</Circle>
+			<Weight>23</Weight>
+			<Primary-Stats>S150m160 / L16m17</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item005/item0517.gif</Image-URL>
+			<Image-Local>Image/item0517.3902d3b611aa0ec73679f81223074922.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>자이언트스톤액스</Korean_Name>
+			<English_Name>Giant Stone Axe</English_Name>
+			<Class>Warrior</Class>
+			<Circle>5</Circle>
+			<Weight>17</Weight>
+			<Primary-Stats>S180m200 / L19m21</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item005/item0513.gif</Image-URL>
+			<Image-Local>Image/item0513.79f13cde86936d360de1c16219742f4a.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>자이언트스톤클럽</Korean_Name>
+			<English_Name>Giant Stone Club</English_Name>
+			<Class>Warrior</Class>
+			<Circle>5</Circle>
+			<Weight>19</Weight>
+			<Primary-Stats>S180m200 / L19m21</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item005/item0509.gif</Image-URL>
+			<Image-Local>Image/item0509.316c143725975466a721110017989a08.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>자이언트스톤해머</Korean_Name>
+			<English_Name>Giant Stone Hammer</English_Name>
+			<Class>Warrior</Class>
+			<Circle>5</Circle>
+			<Weight>29</Weight>
+			<Primary-Stats>S170m190 / L18m20</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item005/item0516.gif</Image-URL>
+			<Image-Local>Image/item0516.65b233f31faf2aa11f2ef166b5f28538.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>그레이트헬피닉스크로어</Korean_Name>
+			<English_Name>Great Hell Phoenix Blade(Claw)</English_Name>
+			<Class>Warrior</Class>
+			<Circle>5</Circle>
+			<Weight>34</Weight>
+			<Primary-Stats>S504m524 / L52m54</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0924.gif</Image-URL>
+			<Image-Local>Image/item0924.a0a273a0703679b6b6b070583cd260ff.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>헬피닉스크로어</Korean_Name>
+			<English_Name>Hell Phoenix Blade(Claw)</English_Name>
+			<Class>Warrior</Class>
+			<Circle>5</Circle>
+			<Weight>34</Weight>
+			<Primary-Stats>S404m444 / L43m45</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0923.gif</Image-URL>
+			<Image-Local>Image/item0923.7d4aeada59f3fc21d2a1a5e74be8fc11.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>하이브레이질배틀액스</Korean_Name>
+			<English_Name>Hy-Brasyl Battle Axe</English_Name>
+			<Class>Warrior</Class>
+			<Circle>5</Circle>
+			<Weight>34</Weight>
+			<Primary-Stats>S234m284 / L26m29</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item005/item0526.gif</Image-URL>
+			<Image-Local>Image/item0526.fb4ec0e21ecb864ffebd89bfeeb7d790.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>하이브레이질그래이트배틀액스</Korean_Name>
+			<English_Name>Hy-Brasyl Great Battle Axe</English_Name>
+			<Class>Warrior</Class>
+			<Circle>5</Circle>
+			<Weight>34</Weight>
+			<Primary-Stats>S434m484 / L46m49</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0925.gif</Image-URL>
+			<Image-Local>Image/item0925.ad279594123adeff137f8fe0e25e7174.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>헬브레이질레이업배틀액스</Korean_Name>
+			<English_Name>Hy-Brasyl Slayer Battle Axe</English_Name>
+			<Class>Warrior</Class>
+			<Circle>5</Circle>
+			<Weight>34</Weight>
+			<Primary-Stats>S334m384 / L36m39</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0926.gif</Image-URL>
+			<Image-Local>Image/item0926.9caaea449fff868610f746bcda60a037.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>피닉스크로어</Korean_Name>
+			<English_Name>Phoenix Claw(Blade)</English_Name>
+			<Class>Warrior</Class>
+			<Circle>5</Circle>
+			<Weight>34</Weight>
+			<Primary-Stats>S224m264 / L25m28</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item008/item0843.gif</Image-URL>
+			<Image-Local>Image/item0843.f27f5ba9f937256c06a5b25a3b80d73c.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>피닉스레이업크로어</Korean_Name>
+			<English_Name>Phoenix Slayer Blade(Claw)</English_Name>
+			<Class>Warrior</Class>
+			<Circle>5</Circle>
+			<Weight>34</Weight>
+			<Primary-Stats>S304m344 / L33m35</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0922.gif</Image-URL>
+			<Image-Local>Image/item0922.4b2285ce06a9bb151a7e9c2bbb775142.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>피닉스소울크로어</Korean_Name>
+			<English_Name>Phoenix Soul Blade(Claw)</English_Name>
+			<Class>Warrior</Class>
+			<Circle>5</Circle>
+			<Weight>34</Weight>
+			<Primary-Stats>S284m324 / L31m33</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0921.gif</Image-URL>
+			<Image-Local>Image/item0921.9c635ac120cb0b168fae76d83d688625.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>스톤액스</Korean_Name>
+			<English_Name>Stone Axe</English_Name>
+			<Class>Warrior</Class>
+			<Circle>5</Circle>
+			<Weight>11</Weight>
+			<Primary-Stats>S155m175 / L16m19</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item005/item0514.gif</Image-URL>
+			<Image-Local>Image/item0514.20c71fceb8a22577f7baaab5ac995b73.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>앵거바딜</Korean_Name>
+			<English_Name>Angled Blade</English_Name>
+			<Class>Warrior</Class>
+			<Circle>Master</Circle>
+			<Weight>10</Weight>
+			<Primary-Stats>S624m664 / L75m78</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0930.gif</Image-URL>
+			<Image-Local>Image/item0930.cffd8f136750c5ccfc3a97c40f29966f.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>아스카론</Korean_Name>
+			<English_Name>Ascaron Blade</English_Name>
+			<Class>Warrior</Class>
+			<Circle>Master</Circle>
+			<Weight>10</Weight>
+			<Primary-Stats>S524m564 / L65m72</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item008/item0873.gif</Image-URL>
+			<Image-Local>Image/item0873.32ef2f274b0d68eb00ff7462116319bf.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>큐어아룬다이트</Korean_Name>
+			<English_Name>Blessed Arundite Blade</English_Name>
+			<Class>Warrior</Class>
+			<Circle>Master</Circle>
+			<Weight>10</Weight>
+			<Primary-Stats>S574m594 / L67m69</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item033/item3309.gif</Image-URL>
+			<Image-Local>Image/item3309.9fc019faf83fdccbfa5b949466a90151.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>커스아룬다이트</Korean_Name>
+			<English_Name>Cursed Arundite Blade</English_Name>
+			<Class>Warrior</Class>
+			<Circle>Master</Circle>
+			<Weight>10</Weight>
+			<Primary-Stats>S574m594 / L67m69</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item033/item3309.gif</Image-URL>
+			<Image-Local>Image/item3309.9fc019faf83fdccbfa5b949466a90151.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>매직세페우스</Korean_Name>
+			<English_Name>Magic Cepheus</English_Name>
+			<Class>Wizard</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S4m20 / L6m30</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item013/item1361.gif</Image-URL>
+			<Image-Local>Image/item1361.598769cac39e0b129de7e04a7ba5c828.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>매직파나</Korean_Name>
+			<English_Name>Magic Fana</English_Name>
+			<Class>Wizard</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S4m20 / L6m30</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item005/item0550.gif</Image-URL>
+			<Image-Local>Image/item0550.e46a5193c1a9819bb3d2400ec8b16dc1.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>매직가이아</Korean_Name>
+			<English_Name>Magic Gaia</English_Name>
+			<Class>Wizard</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S4m20 / L6m30</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0186.gif</Image-URL>
+			<Image-Local>Image/item0186.34776f9482961d7c97d855b97cdaeecc.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>매직야누시아</Korean_Name>
+			<English_Name>Magic Janusia</English_Name>
+			<Class>Wizard</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S4m20 / L6m30</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2276.gif</Image-URL>
+			<Image-Local>Image/item2276.6612b424290cf04cc78400949721e547.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>매직쥬노아</Korean_Name>
+			<English_Name>Magic Junoa</English_Name>
+			<Class>Wizard</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S4m20 / L6m30</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2272.gif</Image-URL>
+			<Image-Local>Image/item2272.6fd848151781cd09518f632d641188a2.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>매직쥬피티아</Korean_Name>
+			<English_Name>Magic Jupiter</English_Name>
+			<Class>Wizard</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S4m20 / L6m30</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0134.gif</Image-URL>
+			<Image-Local>Image/item0134.a7211f7f75c2b29db1223757c8eeae6d.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>매직루나</Korean_Name>
+			<English_Name>Magic Luna</English_Name>
+			<Class>Wizard</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S4m20 / L6m30</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0185.gif</Image-URL>
+			<Image-Local>Image/item0185.0389c647fd2372a7de2b3dd430e55368.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>매직마르시아</Korean_Name>
+			<English_Name>Magic Marcia</English_Name>
+			<Class>Wizard</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S4m20 / L6m30</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0132.gif</Image-URL>
+			<Image-Local>Image/item0132.661c34f7ec6005fe15892c3fe7aab3af.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>매직미네르바</Korean_Name>
+			<English_Name>Magic Minerva</English_Name>
+			<Class>Wizard</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S4m20 / L6m30</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2273.gif</Image-URL>
+			<Image-Local>Image/item2273.88133e8952f0b79fd1cc48d5060e8c00.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>매직넵튜나</Korean_Name>
+			<English_Name>Magic Neptuna</English_Name>
+			<Class>Wizard</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S4m20 / L6m30</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2275.gif</Image-URL>
+			<Image-Local>Image/item2275.9353e1156ad0d1e166565c5aa7c6875c.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>매직플루토나</Korean_Name>
+			<English_Name>Magic Plutona</English_Name>
+			<Class>Wizard</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S4m20 / L6m30</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2277.gif</Image-URL>
+			<Image-Local>Image/item2277.a053d4f1035b79364cb8095e885733c7.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>매직새티아</Korean_Name>
+			<English_Name>Magic Satia</English_Name>
+			<Class>Wizard</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S4m20 / L6m30</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0183.gif</Image-URL>
+			<Image-Local>Image/item0183.736c3cd9fe4e5fd9e29ccd551e9292e1.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>매직솔라</Korean_Name>
+			<English_Name>Magic Solar</English_Name>
+			<Class>Wizard</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S4m20 / L6m30</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item001/item0184.gif</Image-URL>
+			<Image-Local>Image/item0184.8ff34719da5310ef697eaa22946925b9.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>매직스태프</Korean_Name>
+			<English_Name>Magic Staff</English_Name>
+			<Class>Wizard</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S4m20 / L6m30</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2272.gif</Image-URL>
+			<Image-Local>Image/item2272.6fd848151781cd09518f632d641188a2.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>매직빅토리아</Korean_Name>
+			<English_Name>Magic Victoria</English_Name>
+			<Class>Wizard</Class>
+			<Circle>2</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S4m20 / L6m30</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item022/item2274.gif</Image-URL>
+			<Image-Local>Image/item2274.89be1c290632e69522237fde6f599ae5.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>림피드비쥬</Korean_Name>
+			<English_Name>Chernol Sphere</English_Name>
+			<Class>Wizard</Class>
+			<Circle>2nd Job</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>S44m60 / L100m110</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2040.gif</Image-URL>
+			<Image-Local>Image/item2040.f23ca7a72187874f7fc714e8698dfc80.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>마론비쥬</Korean_Name>
+			<English_Name>Maron Sphere</English_Name>
+			<Class>Wizard</Class>
+			<Circle>2nd Job</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>S34m60 / L96m105</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item020/item2039.gif</Image-URL>
+			<Image-Local>Image/item2039.48058cf24111f1200f7332b78b252f94.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>영월충</Korean_Name>
+			<English_Name>Serpent Spirit Sphere</English_Name>
+			<Class>Wizard</Class>
+			<Circle>2nd Job</Circle>
+			<Weight>7</Weight>
+			<Primary-Stats>S44m60 / L100m110</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item023/item2374.gif</Image-URL>
+			<Image-Local>Image/item2374.979a37fe222314537d6f698f43d4eb19.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>샤인</Korean_Name>
+			<English_Name>Shine Sphere</English_Name>
+			<Class>Wizard</Class>
+			<Circle>2nd Job</Circle>
+			<Weight>6</Weight>
+			<Primary-Stats>S24m32 / L86m100</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item019/item1977.gif</Image-URL>
+			<Image-Local>Image/item1977.64b21299990d1dbc486e24b18e29fd0f.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>로운</Korean_Name>
+			<English_Name>Sphere</English_Name>
+			<Class>Wizard</Class>
+			<Circle>2nd Job</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S4m20 / L76m80</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item017/item1777.gif</Image-URL>
+			<Image-Local>Image/item1777.6a3ac1bd6366eef761dca61aef1e8bc4.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>아리펠스탭</Korean_Name>
+			<English_Name>Aripel Staff</English_Name>
+			<Class>Wizard</Class>
+			<Circle>3</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S4m20 / L6m30</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item005/item0548.gif</Image-URL>
+			<Image-Local>Image/item0548.593b4a7fc91f8a3a571cd49943abc461.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>매직세페우스</Korean_Name>
+			<English_Name>Magic Cepheus</English_Name>
+			<Class>Wizard</Class>
+			<Circle>3</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>S4m20 / L6m3</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item013/item1361.gif</Image-URL>
+			<Image-Local>Image/item1361.598769cac39e0b129de7e04a7ba5c828.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>매직가디언스태프</Korean_Name>
+			<English_Name>Magic Guardian Staff</English_Name>
+			<Class>Wizard</Class>
+			<Circle>3</Circle>
+			<Weight>3</Weight>
+			<Primary-Stats>S4m0 / L3m7</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item032/item3253.gif</Image-URL>
+			<Image-Local>Image/item3253.059ffccd8b93895b102f23320a62c0fc.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>다크디아나</Korean_Name>
+			<English_Name>Dark Diana</English_Name>
+			<Class>Wizard</Class>
+			<Circle>Master</Circle>
+			<Weight>10</Weight>
+			<Primary-Stats>S34m50 / L3m7</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0932.gif</Image-URL>
+			<Image-Local>Image/item0932.b714f0cab5f3381f71e12bb7eef0e72d.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>로오의은총</Korean_Name>
+			<English_Name>Lou's Grace Staff</English_Name>
+			<Class>Wizard</Class>
+			<Circle>Master</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>0 Line Heals, 0/1 Line Curse, -3 Lines/All Spells</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item008/item0875.gif</Image-URL>
+			<Image-Local>Image/item0875.74e4364e0ae416317c52e3daf7bf5d40.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>매직아룬다이트</Korean_Name>
+			<English_Name>Magic Arundite Blade</English_Name>
+			<Class>Wizard</Class>
+			<Circle>Master</Circle>
+			<Weight>3</Weight>
+			<Primary-Stats>S374m494 / L67m69</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item033/item3310.gif</Image-URL>
+			<Image-Local>Image/item3310.01b98644e2c3f965fcdd1c31bc596d38.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>매직프람베르그</Korean_Name>
+			<English_Name>Magic Flamberge</English_Name>
+			<Class>Wizard</Class>
+			<Circle>Master</Circle>
+			<Weight>3</Weight>
+			<Primary-Stats>S135m165 / L33m36</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item033/item3313.gif</Image-URL>
+			<Image-Local>Image/item3313.ff0d35fc5d84a8bbbd0fb9beefb43aab.gif</Image-Local>
+		</Item>
+		<Item>
+			<Korean_Name>다크디아나</Korean_Name>
+			<English_Name>Dark Diana</English_Name>
+			<Class>Wizard</Class>
+			<Circle>Master (Upgrade)</Circle>
+			<Weight>5</Weight>
+			<Primary-Stats>0 Line Heals, 0/1 Line Curse, -3 Lines/All Spells, MP Cost -10%</Primary-Stats>
+			<Image-URL>http://s.nx.com/s2/game/lod/lod2007/game_info/item/item009/item0932.gif</Image-URL>
+			<Image-Local>Image/item0932.b714f0cab5f3381f71e12bb7eef0e72d.gif</Image-Local>
+		</Item>
+	</Weapons>
+</data>
+
